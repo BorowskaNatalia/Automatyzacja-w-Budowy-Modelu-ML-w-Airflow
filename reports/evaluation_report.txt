@@ -1,0 +1,2 @@
+Accuracy: 0.5958279009126467
+Best parameters: {'classifier': LogisticRegression(), 'classifier__C': 0.1}
