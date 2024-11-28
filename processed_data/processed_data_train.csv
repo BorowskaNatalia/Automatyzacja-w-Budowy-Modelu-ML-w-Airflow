@@ -1,0 +1,1790 @@
+Gender,Age,Working Professional or Student,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfaction,Job Satisfaction,Sleep Duration,Dietary Habits,Degree,Have you ever had suicidal thoughts ?,Work/Study Hours,Financial Stress,Family History of Mental Illness,Depression
+Female,31,Working Professional,Mechanical Engineer,,5.0,,,4.0,Less than 5 hours,Healthy,PhD,No,9,2,Yes,No
+Male,43,Working Professional,Civil Engineer,,3.0,,,4.0,7-8 hours,Unhealthy,B.Tech,Yes,6,3,Yes,No
+Male,44,Working Professional,Teacher,,3.0,,,5.0,5-6 hours,Unhealthy,BCA,No,0,3,Yes,No
+Male,36,Working Professional,Teacher,,1.0,,,3.0,7-8 hours,Moderate,LLB,No,10,3,Yes,No
+Female,55,Working Professional,Finanancial Analyst,,5.0,,,2.0,More than 8 hours,Unhealthy,PhD,No,5,2,Yes,No
+Male,20,Student,,4.0,,8.89,2.0,,Less than 5 hours,Unhealthy,Class 12,Yes,5,4,Yes,Yes
+Female,31,Working Professional,Lawyer,,5.0,,,2.0,7-8 hours,Unhealthy,LLM,Yes,1,1,No,No
+Male,42,Working Professional,Electrician,,5.0,,,5.0,Less than 5 hours,Moderate,MSc,No,7,2,Yes,No
+Male,42,Working Professional,Consultant,,1.0,,,4.0,Less than 5 hours,Moderate,MCA,No,2,5,Yes,No
+Female,59,Working Professional,Consultant,,4.0,,,1.0,7-8 hours,Moderate,PhD,No,1,1,Yes,No
+Female,46,Working Professional,Content Writer,,4.0,,,4.0,More than 8 hours,Unhealthy,BE,No,5,5,No,No
+Male,28,Working Professional,Teacher,,1.0,,,1.0,More than 8 hours,Healthy,B.Tech,No,12,5,No,No
+Female,50,Working Professional,,,3.0,,,4.0,7-8 hours,Unhealthy,Class 12,Yes,1,3,No,No
+Female,58,Working Professional,Teacher,,5.0,,,2.0,Less than 5 hours,Unhealthy,MBA,No,3,4,Yes,No
+Male,39,Working Professional,Pharmacist,,3.0,,,4.0,7-8 hours,Healthy,B.Pharm,No,5,1,Yes,No
+Female,49,Working Professional,Plumber,,5.0,,,2.0,More than 8 hours,Moderate,BSc,No,12,2,Yes,No
+Male,21,Working Professional,Consultant,,4.0,,,2.0,7-8 hours,Healthy,B.Com,No,11,4,Yes,Yes
+Male,18,Student,,5.0,,6.7,3.0,,More than 8 hours,Unhealthy,Class 12,No,6,2,Yes,Yes
+Female,34,Working Professional,Plumber,,5.0,,,1.0,More than 8 hours,Healthy,MCA,No,5,4,No,No
+Male,26,Working Professional,Financial Analyst,,5.0,,,1.0,More than 8 hours,Healthy,B.Com,Yes,11,2,No,Yes
+Male,20,Student,,3.0,,7.12,4.0,,Less than 5 hours,Moderate,Class 12,No,9,5,Yes,Yes
+Female,20,Student,,5.0,,8.58,4.0,,More than 8 hours,Unhealthy,Class 12,No,8,3,Yes,Yes
+Male,51,Working Professional,Customer Support,,2.0,,,3.0,Less than 5 hours,Healthy,BA,No,8,5,No,No
+Male,44,Working Professional,Lawyer,,4.0,,,4.0,More than 8 hours,Unhealthy,LLB,No,5,3,Yes,No
+Female,51,Working Professional,Chef,,2.0,,,1.0,5-6 hours,Moderate,MHM,No,4,4,Yes,No
+Female,23,Working Professional,Teacher,,5.0,,,1.0,More than 8 hours,Unhealthy,B.Arch,No,10,1,No,Yes
+Male,38,Working Professional,Doctor,,5.0,,,1.0,Less than 5 hours,Healthy,B.Pharm,No,1,4,No,No
+Female,33,Working Professional,Manager,,3.0,,,2.0,7-8 hours,Healthy,MHM,Yes,7,2,No,No
+Male,45,Working Professional,Consultant,,3.0,,,5.0,5-6 hours,Unhealthy,PhD,Yes,8,3,Yes,No
+Male,48,Working Professional,Chef,,2.0,,,1.0,5-6 hours,Unhealthy,BHM,No,8,3,No,No
+Male,29,Student,,2.0,,8.04,4.0,,More than 8 hours,Unhealthy,BCA,No,10,5,No,No
+Female,30,Working Professional,Manager,,3.0,,,3.0,More than 8 hours,Moderate,BHM,Yes,1,5,Yes,No
+Female,35,Working Professional,Teacher,,3.0,,,1.0,Less than 5 hours,Unhealthy,LLM,No,6,3,Yes,No
+Male,52,Working Professional,Researcher,,5.0,,,3.0,Less than 5 hours,Moderate,M.Tech,No,0,1,Yes,No
+Male,57,Working Professional,Teacher,,2.0,,,2.0,5-6 hours,Moderate,LLB,Yes,7,5,No,No
+Female,31,Student,,4.0,,7.5,5.0,,7-8 hours,Moderate,MBBS,Yes,10,4,Yes,Yes
+Female,34,Student,,2.0,,9.86,5.0,,5-6 hours,Healthy,MCA,No,11,4,No,No
+Female,58,Working Professional,Travel Consultant,,3.0,,,3.0,Less than 5 hours,Moderate,MHM,No,6,2,No,No
+Male,40,Working Professional,Financial Analyst,,5.0,,,2.0,7-8 hours,Unhealthy,B.Com,Yes,0,2,Yes,No
+Female,29,Working Professional,Teacher,,1.0,,,3.0,Less than 5 hours,Unhealthy,MA,No,9,2,Yes,No
+Male,29,Working Professional,Plumber,,1.0,,,1.0,More than 8 hours,Moderate,BSc,Yes,3,2,Yes,No
+Male,33,Working Professional,Doctor,,2.0,,,5.0,Less than 5 hours,Unhealthy,B.Pharm,No,12,2,No,No
+Male,53,Working Professional,Architect,,3.0,,,2.0,7-8 hours,Healthy,B.Arch,No,5,1,No,No
+Male,46,Working Professional,Sales Executive,,4.0,,,1.0,7-8 hours,Unhealthy,MBA,Yes,9,2,Yes,No
+Male,18,Working Professional,,,1.0,,,4.0,More than 8 hours,Moderate,Class 12,Yes,10,4,Yes,Yes
+Male,31,Student,,1.0,,8.62,2.0,,7-8 hours,Unhealthy,MCA,No,8,3,No,No
+Male,31,Student,,5.0,,8.38,4.0,,5-6 hours,Healthy,Class 12,No,12,3,No,No
+Male,39,Working Professional,Entrepreneur,,2.0,,,4.0,5-6 hours,Moderate,BBA,Yes,0,4,No,No
+Male,39,Working Professional,Consultant,,1.0,,,4.0,Less than 5 hours,Moderate,B.Com,Yes,12,2,No,No
+Male,27,Working Professional,Pharmacist,,4.0,,,3.0,More than 8 hours,Unhealthy,MD,No,6,3,No,No
+Male,56,Working Professional,Lawyer,,1.0,,,2.0,More than 8 hours,Moderate,LLM,Yes,11,5,Yes,No
+Female,40,Working Professional,Judge,,4.0,,,2.0,5-6 hours,Unhealthy,LLB,Yes,11,5,No,Yes
+Male,53,Working Professional,Teacher,,3.0,,,3.0,More than 8 hours,Moderate,MBBS,No,0,4,Yes,No
+Female,37,Working Professional,Content Writer,,2.0,,,5.0,7-8 hours,Healthy,M.Ed,No,11,3,Yes,No
+Female,23,Working Professional,Consultant,,4.0,,,2.0,7-8 hours,Healthy,MBA,Yes,6,4,No,Yes
+Female,35,Working Professional,Judge,,5.0,,,3.0,5-6 hours,Healthy,LLB,Yes,7,3,Yes,Yes
+Female,44,Working Professional,Pharmacist,,4.0,,,1.0,Less than 5 hours,Moderate,B.Pharm,Yes,1,5,No,No
+Male,48,Working Professional,Teacher,,4.0,,,4.0,5-6 hours,Healthy,B.Arch,Yes,0,1,No,No
+Female,43,Working Professional,Teacher,,3.0,,,1.0,More than 8 hours,Healthy,MA,Yes,8,1,No,No
+Female,35,Working Professional,Software Engineer,,1.0,,,4.0,More than 8 hours,Moderate,BE,No,9,2,Yes,No
+Female,50,Working Professional,HR Manager,,4.0,,,5.0,7-8 hours,Healthy,MA,No,7,5,Yes,No
+Male,53,Working Professional,Teacher,,1.0,,,2.0,5-6 hours,Healthy,ME,Yes,2,5,No,No
+Male,41,Working Professional,,,5.0,,,2.0,Less than 5 hours,Moderate,Class 12,No,7,1,Yes,No
+Female,50,Working Professional,Lawyer,,4.0,,,3.0,5-6 hours,Healthy,LLM,No,12,3,Yes,No
+Female,45,Working Professional,Lawyer,,1.0,,,2.0,7-8 hours,Moderate,LLB,Yes,9,3,Yes,No
+Male,47,Working Professional,Pilot,,3.0,,,1.0,Less than 5 hours,Healthy,M.Tech,Yes,5,1,No,No
+Male,46,Working Professional,Teacher,,4.0,,,1.0,7-8 hours,Unhealthy,B.Tech,No,4,3,No,No
+Male,41,Working Professional,Pharmacist,,1.0,,,1.0,More than 8 hours,Unhealthy,B.Pharm,No,11,5,Yes,No
+Male,59,Working Professional,Educational Consultant,,5.0,,,1.0,7-8 hours,Unhealthy,M.Ed,Yes,11,3,Yes,No
+Female,59,Working Professional,HR Manager,,2.0,,,3.0,7-8 hours,Healthy,MBA,Yes,7,1,Yes,No
+Female,24,Student,,5.0,,7.88,4.0,,7-8 hours,Moderate,B.Pharm,Yes,2,4,No,Yes
+Male,55,Working Professional,HR Manager,,2.0,,,1.0,More than 8 hours,Unhealthy,BE,Yes,9,3,No,No
+Female,37,Working Professional,Teacher,,2.0,,,5.0,More than 8 hours,Moderate,B.Ed,Yes,0,3,Yes,No
+Male,51,Working Professional,Educational Consultant,,2.0,,,3.0,5-6 hours,Unhealthy,B.Ed,Yes,0,3,Yes,No
+Female,55,Working Professional,Educational Consultant,,3.0,,,3.0,5-6 hours,Healthy,B.Ed,Yes,5,2,Yes,No
+Male,38,Working Professional,Architect,,4.0,,,4.0,7-8 hours,Moderate,BCA,No,1,4,No,No
+Male,24,Student,,1.0,,9.19,3.0,,5-6 hours,Moderate,M.Tech,Yes,3,2,Yes,No
+Female,31,Working Professional,Teacher,,4.0,,,2.0,7-8 hours,Unhealthy,M.Ed,Yes,4,5,Yes,Yes
+Female,38,Working Professional,Educational Consultant,,4.0,,,3.0,5-6 hours,Healthy,M.Ed,No,8,3,No,No
+Male,52,Working Professional,Pharmacist,,5.0,,,1.0,7-8 hours,Healthy,MBBS,No,7,1,No,No
+Male,43,Working Professional,Architect,,1.0,,,2.0,5-6 hours,Moderate,B.Arch,No,0,5,No,No
+Female,38,Working Professional,Manager,,2.0,,,4.0,More than 8 hours,Moderate,MHM,No,6,5,Yes,No
+Male,18,Working Professional,,,4.0,,,5.0,Less than 5 hours,Healthy,Class 12,Yes,10,3,No,Yes
+Male,18,Student,,5.0,,7.99,5.0,,5-6 hours,Moderate,Class 12,No,3,4,No,Yes
+Male,30,Working Professional,,,4.0,,,1.0,More than 8 hours,Unhealthy,Class 12,Yes,0,5,No,Yes
+Female,45,Working Professional,Teacher,,5.0,,,3.0,Less than 5 hours,Healthy,M.Ed,No,2,2,Yes,No
+Female,38,Working Professional,Architect,,1.0,,,2.0,7-8 hours,Healthy,BCA,Yes,5,2,Yes,No
+Male,56,Working Professional,Chemist,,1.0,,,3.0,More than 8 hours,Moderate,B.Pharm,No,1,2,No,No
+Female,37,Working Professional,Teacher,,1.0,,,1.0,Less than 5 hours,Moderate,MSc,No,10,1,Yes,No
+Female,28,Student,,2.0,,6.92,4.0,,5-6 hours,Healthy,B.Arch,No,10,5,Yes,No
+Female,33,Student,,1.0,,5.59,1.0,,Less than 5 hours,Moderate,MSc,No,10,4,Yes,No
+Female,50,Working Professional,Sales Executive,,3.0,,,2.0,More than 8 hours,Moderate,BBA,Yes,5,5,No,No
+Male,43,Working Professional,Teacher,,2.0,,,4.0,Less than 5 hours,Healthy,B.Arch,Yes,12,5,Yes,No
+Female,18,Working Professional,,,2.0,,,5.0,7-8 hours,Unhealthy,Class 12,Yes,4,4,Yes,Yes
+Female,46,Working Professional,Teacher,,1.0,,,3.0,More than 8 hours,Moderate,M.Tech,No,6,4,Yes,No
+Male,42,Working Professional,Teacher,,1.0,,,1.0,7-8 hours,Unhealthy,B.Pharm,Yes,7,3,Yes,No
+Male,49,Working Professional,Plumber,,1.0,,,3.0,5-6 hours,Unhealthy,ME,No,2,4,No,No
+Female,32,Working Professional,Mechanical Engineer,,3.0,,,4.0,5-6 hours,Moderate,B.Tech,No,8,4,No,No
+Female,27,Student,,5.0,,5.6,2.0,,Less than 5 hours,Unhealthy,M.Ed,No,5,5,No,Yes
+Male,41,Working Professional,Pharmacist,,5.0,,,4.0,7-8 hours,Unhealthy,M.Pharm,No,12,4,Yes,No
+Female,49,Working Professional,Plumber,,1.0,,,5.0,More than 8 hours,Unhealthy,PhD,Yes,0,5,Yes,No
+Female,35,Working Professional,Teacher,,3.0,,,3.0,5-6 hours,Healthy,MBA,Yes,8,3,Yes,No
+Female,52,Working Professional,Educational Consultant,,1.0,,,2.0,More than 8 hours,Moderate,B.Ed,No,5,5,Yes,No
+Male,29,Student,,5.0,,5.69,5.0,,More than 8 hours,Moderate,MCA,Yes,4,1,Yes,No
+Male,21,Student,,5.0,,6.16,1.0,,More than 8 hours,Unhealthy,M.Com,Yes,3,5,Yes,Yes
+Female,19,Student,,4.0,,5.85,5.0,,Less than 5 hours,Moderate,Class 12,No,6,2,Yes,No
+Female,44,Working Professional,Customer Support,,1.0,,,4.0,7-8 hours,Unhealthy,BA,Yes,8,1,No,No
+Female,50,Working Professional,Entrepreneur,,5.0,,,2.0,7-8 hours,Healthy,PhD,Yes,5,5,No,No
+Female,31,Student,,1.0,,6.73,3.0,,7-8 hours,Unhealthy,B.Tech,No,10,1,Yes,No
+Male,22,Student,,5.0,,8.35,2.0,,7-8 hours,Unhealthy,BHM,Yes,12,4,No,Yes
+Male,56,Working Professional,Pharmacist,,4.0,,,3.0,More than 8 hours,Moderate,M.Pharm,Yes,9,5,Yes,No
+Female,48,Working Professional,Teacher,,5.0,,,1.0,Less than 5 hours,Unhealthy,MD,No,0,4,Yes,No
+Female,24,Student,,3.0,,6.99,1.0,,More than 8 hours,Unhealthy,MBA,Yes,11,3,Yes,Yes
+Male,58,Working Professional,Electrician,,5.0,,,4.0,Less than 5 hours,Unhealthy,ME,No,1,1,No,No
+Female,54,Working Professional,Content Writer,,5.0,,,5.0,7-8 hours,Healthy,B.Ed,No,4,4,No,No
+Female,33,Working Professional,HR Manager,,4.0,,,2.0,7-8 hours,Unhealthy,MBA,Yes,2,1,Yes,No
+Male,59,Working Professional,Teacher,,2.0,,,5.0,7-8 hours,Healthy,B.Ed,Yes,9,5,Yes,No
+Female,45,Working Professional,Teacher,,2.0,,,1.0,7-8 hours,Moderate,B.Arch,No,1,5,No,No
+Male,45,Working Professional,Teacher,,3.0,,,4.0,Less than 5 hours,Moderate,B.Pharm,No,10,3,Yes,No
+Female,27,Student,,3.0,,7.08,4.0,,5-6 hours,Healthy,B.Arch,No,0,2,No,No
+Male,34,Working Professional,Teacher,,2.0,,,2.0,7-8 hours,Unhealthy,M.Ed,Yes,8,3,Yes,No
+Male,22,Student,,1.0,,6.19,5.0,,More than 8 hours,Moderate,MA,No,12,4,No,No
+Female,36,Working Professional,Chef,,1.0,,,1.0,5-6 hours,Healthy,BHM,No,12,1,No,No
+Male,53,Working Professional,Teacher,,3.0,,,1.0,5-6 hours,Unhealthy,B.Pharm,No,1,1,Yes,No
+Male,39,Working Professional,Entrepreneur,,3.0,,,1.0,Less than 5 hours,Moderate,BCA,Yes,8,2,Yes,No
+Female,34,Student,,3.0,,9.49,4.0,,Less than 5 hours,Unhealthy,BE,Yes,12,1,Yes,Yes
+Female,28,Working Professional,Architect,,1.0,,,5.0,More than 8 hours,Unhealthy,B.Arch,Yes,12,5,Yes,No
+Male,57,Working Professional,Manager,,4.0,,,1.0,7-8 hours,Healthy,BHM,Yes,11,4,Yes,No
+Female,49,Working Professional,Civil Engineer,,3.0,,,3.0,7-8 hours,Unhealthy,BSc,Yes,3,2,Yes,No
+Female,32,Student,,4.0,,5.25,4.0,,Less than 5 hours,Unhealthy,PhD,Yes,4,1,No,No
+Female,29,Student,,3.0,,5.75,3.0,,7-8 hours,Healthy,MBBS,Yes,5,5,Yes,Yes
+Female,56,Working Professional,Teacher,,5.0,,,3.0,5-6 hours,Unhealthy,B.Pharm,No,2,3,No,No
+Female,18,Student,,4.0,,6.88,4.0,,5-6 hours,Unhealthy,Class 12,No,10,2,No,Yes
+Female,40,Working Professional,Teacher,,2.0,,,2.0,Less than 5 hours,Unhealthy,B.Ed,Yes,11,5,Yes,Yes
+Male,35,Working Professional,Consultant,,3.0,,,5.0,5-6 hours,Moderate,MCA,No,5,5,Yes,No
+Female,28,Working Professional,Pilot,,4.0,,,2.0,Less than 5 hours,Healthy,MCA,Yes,10,5,Yes,Yes
+Female,29,Working Professional,Teacher,,2.0,,,3.0,Less than 5 hours,Healthy,MBBS,No,4,3,No,No
+Male,48,Working Professional,Digital Marketer,,1.0,,,4.0,Less than 5 hours,Healthy,B.Com,Yes,9,1,Yes,No
+Male,56,Working Professional,Customer Support,,5.0,,,1.0,7-8 hours,Healthy,M.Com,Yes,0,1,Yes,No
+Female,41,Working Professional,Content Writer,,4.0,,,3.0,Less than 5 hours,Unhealthy,M.Ed,No,4,3,Yes,No
+Male,58,Working Professional,UX/UI Designer,,2.0,,,1.0,Less than 5 hours,Unhealthy,M.Tech,Yes,1,1,No,No
+Male,40,Working Professional,Pilot,,2.0,,,4.0,Less than 5 hours,Moderate,BE,No,8,2,No,No
+Male,41,Working Professional,,,2.0,,,3.0,More than 8 hours,Unhealthy,Class 12,Yes,12,4,No,No
+Female,31,Student,,1.0,,7.53,4.0,,More than 8 hours,Unhealthy,M.Com,Yes,0,1,No,No
+Male,42,Working Professional,Pharmacist,,4.0,,,2.0,More than 8 hours,Moderate,MD,No,8,1,Yes,No
+Male,25,Student,,3.0,,8.0,5.0,,7-8 hours,Unhealthy,MHM,Yes,2,1,No,No
+Male,36,Working Professional,Business Analyst,,4.0,,,4.0,Less than 5 hours,Healthy,BCA,No,0,1,No,No
+Male,29,Student,,1.0,,7.32,1.0,,7-8 hours,Healthy,BE,No,6,1,Yes,No
+Male,52,Working Professional,Customer Support,,4.0,,,1.0,5-6 hours,Unhealthy,BA,No,11,2,No,No
+Female,40,Working Professional,Doctor,,5.0,,,4.0,5-6 hours,Unhealthy,MD,No,6,3,No,No
+Male,28,Working Professional,Teacher,,3.0,,,5.0,Less than 5 hours,Unhealthy,LLM,Yes,12,2,Yes,Yes
+Female,59,Working Professional,UX/UI Designer,,3.0,,,3.0,More than 8 hours,Unhealthy,BCA,No,8,4,Yes,No
+Female,50,Working Professional,Entrepreneur,,5.0,,,5.0,Less than 5 hours,Unhealthy,ME,Yes,7,5,No,No
+Male,24,Working Professional,Manager,,3.0,,,1.0,More than 8 hours,Unhealthy,BHM,No,5,1,Yes,No
+Female,39,Working Professional,Business Analyst,,1.0,,,1.0,Less than 5 hours,Moderate,M.Com,Yes,1,1,Yes,No
+Female,37,Working Professional,Architect,,4.0,,,4.0,Less than 5 hours,Moderate,MSc,Yes,0,4,No,No
+Female,38,Working Professional,Doctor,,5.0,,,2.0,More than 8 hours,Moderate,B.Pharm,No,11,4,Yes,No
+Female,26,Student,,4.0,,5.7,5.0,,More than 8 hours,Healthy,BBA,No,7,4,Yes,No
+Female,33,Working Professional,Business Analyst,,5.0,,,4.0,More than 8 hours,Moderate,BSc,Yes,3,3,No,No
+Female,57,Working Professional,Entrepreneur,,5.0,,,3.0,7-8 hours,Moderate,BBA,Yes,2,1,No,No
+Female,25,Working Professional,Chemist,,1.0,,,4.0,5-6 hours,Moderate,M.Pharm,No,11,2,No,No
+Male,33,Student,,4.0,,5.37,4.0,,7-8 hours,Healthy,B.Ed,Yes,11,1,Yes,No
+Male,23,Student,,4.0,,6.03,5.0,,5-6 hours,Moderate,B.Tech,No,4,1,No,No
+Female,45,Working Professional,Teacher,,1.0,,,3.0,Less than 5 hours,Healthy,LLM,Yes,2,5,Yes,No
+Female,51,Working Professional,Digital Marketer,,3.0,,,1.0,More than 8 hours,Moderate,BA,Yes,1,3,Yes,No
+Female,38,Working Professional,Data Scientist,,3.0,,,1.0,Less than 5 hours,Healthy,MSc,Yes,11,4,Yes,Yes
+Male,59,Working Professional,Manager,,4.0,,,1.0,Less than 5 hours,Unhealthy,BHM,No,4,4,No,No
+Male,47,Working Professional,Pharmacist,,5.0,,,5.0,5-6 hours,Healthy,MD,Yes,2,4,Yes,No
+Male,18,Student,,3.0,,5.03,4.0,,5-6 hours,Healthy,Class 12,Yes,8,4,Yes,Yes
+Male,58,Working Professional,Teacher,,1.0,,,2.0,More than 8 hours,Healthy,B.Ed,No,8,4,No,No
+Female,43,Working Professional,Teacher,,2.0,,,1.0,7-8 hours,Healthy,B.Pharm,No,7,2,No,No
+Female,29,Working Professional,Research Analyst,,5.0,,,1.0,5-6 hours,Healthy,MBA,Yes,2,1,No,Yes
+Female,35,Working Professional,Sales Executive,,5.0,,,2.0,7-8 hours,Moderate,BBA,No,6,4,No,No
+Female,48,Working Professional,Manager,,5.0,,,5.0,5-6 hours,Unhealthy,MHM,No,12,2,Yes,No
+Male,20,Student,,4.0,,9.21,3.0,,5-6 hours,Healthy,Class 12,No,9,5,No,Yes
+Female,41,Working Professional,Researcher,,5.0,,,1.0,More than 8 hours,Unhealthy,MCA,No,11,3,Yes,No
+Female,39,Working Professional,Researcher,,2.0,,,3.0,Less than 5 hours,Unhealthy,MSc,Yes,4,5,No,No
+Female,26,Working Professional,Plumber,,2.0,,,5.0,More than 8 hours,Healthy,MCA,No,6,2,Yes,No
+Female,52,Working Professional,Educational Consultant,,2.0,,,3.0,5-6 hours,Moderate,M.Ed,Yes,7,3,No,No
+Female,35,Working Professional,Manager,,1.0,,,3.0,5-6 hours,Healthy,MHM,Yes,3,4,Yes,No
+Female,42,Working Professional,Consultant,,2.0,,,4.0,7-8 hours,Moderate,PhD,Yes,9,1,No,No
+Female,32,Student,,1.0,,8.25,3.0,,Less than 5 hours,Healthy,MBBS,Yes,5,4,Yes,No
+Female,31,Student,,3.0,,7.17,4.0,,7-8 hours,Moderate,LLB,No,0,2,Yes,No
+Female,56,Working Professional,HR Manager,,4.0,,,4.0,5-6 hours,Moderate,ME,No,9,2,Yes,No
+Female,45,Working Professional,Sales Executive,,1.0,,,1.0,Less than 5 hours,Moderate,BBA,Yes,6,3,Yes,No
+Female,28,Student,,4.0,,9.1,2.0,,Less than 5 hours,Moderate,Class 12,Yes,11,5,Yes,Yes
+Female,38,Working Professional,,,4.0,,,5.0,Less than 5 hours,Moderate,Class 12,Yes,5,3,Yes,No
+Male,26,Student,,2.0,,5.82,1.0,,5-6 hours,Moderate,BBA,No,8,3,Yes,No
+Female,52,Working Professional,Researcher,,3.0,,,4.0,Less than 5 hours,Unhealthy,B.Tech,No,4,1,No,No
+Female,40,Working Professional,Content Writer,,1.0,,,5.0,7-8 hours,Healthy,BSc,No,1,2,Yes,No
+Male,23,Student,,4.0,,5.26,1.0,,5-6 hours,Moderate,B.Com,No,8,2,No,Yes
+Male,29,Student,,1.0,,9.96,3.0,,5-6 hours,Unhealthy,B.Pharm,Yes,2,5,Yes,Yes
+Female,41,Working Professional,Teacher,,3.0,,,4.0,5-6 hours,Unhealthy,B.Ed,Yes,1,4,No,No
+Male,50,Working Professional,Architect,,1.0,,,2.0,5-6 hours,Moderate,PhD,Yes,7,5,Yes,No
+Male,30,Working Professional,Customer Support,,2.0,,,5.0,More than 8 hours,Unhealthy,B.Com,No,11,4,No,No
+Male,47,Working Professional,Content Writer,,4.0,,,5.0,Less than 5 hours,Unhealthy,B.Ed,No,9,2,Yes,No
+Male,42,Working Professional,Digital Marketer,,3.0,,,4.0,5-6 hours,Healthy,M.Com,No,12,2,Yes,No
+Female,34,Student,,2.0,,7.14,4.0,,7-8 hours,Moderate,BHM,No,10,1,No,No
+Male,20,Student,,3.0,,8.32,1.0,,7-8 hours,Moderate,Class 12,Yes,4,4,Yes,Yes
+Male,49,Working Professional,,,1.0,,,3.0,More than 8 hours,Healthy,Class 12,No,6,1,No,No
+Female,59,Working Professional,Doctor,,2.0,,,5.0,Less than 5 hours,Moderate,B.Pharm,No,4,1,No,No
+Male,23,Working Professional,Consultant,,4.0,,,3.0,More than 8 hours,Unhealthy,MCA,No,3,1,No,No
+Female,25,Working Professional,Finanancial Analyst,,4.0,,,2.0,5-6 hours,Moderate,PhD,Yes,5,1,No,Yes
+Female,48,Working Professional,Pilot,,2.0,,,3.0,More than 8 hours,Moderate,BCA,No,6,1,No,No
+Female,42,Working Professional,Consultant,,2.0,,,3.0,Less than 5 hours,Healthy,MBA,No,3,3,Yes,No
+Male,39,Working Professional,Pharmacist,,3.0,,,3.0,Less than 5 hours,Unhealthy,MD,Yes,2,5,No,No
+Female,45,Working Professional,Consultant,,2.0,,,3.0,5-6 hours,Moderate,BSc,No,3,4,Yes,No
+Female,52,Working Professional,Content Writer,,3.0,,,3.0,7-8 hours,Moderate,M.Ed,Yes,7,2,Yes,No
+Male,31,Working Professional,Pharmacist,,1.0,,,3.0,Less than 5 hours,Healthy,MBBS,No,0,3,Yes,No
+Female,57,Working Professional,HR Manager,,2.0,,,1.0,7-8 hours,Healthy,MA,No,5,5,Yes,No
+Female,60,Working Professional,Customer Support,,2.0,,,4.0,Less than 5 hours,Unhealthy,BA,No,1,1,No,No
+Male,42,Working Professional,Consultant,,4.0,,,5.0,More than 8 hours,Unhealthy,BE,No,3,4,No,No
+Male,19,Student,,4.0,,7.3,2.0,,5-6 hours,Moderate,Class 12,No,11,1,Yes,Yes
+Male,20,Student,,3.0,,8.61,5.0,,More than 8 hours,Unhealthy,Class 12,No,11,4,No,No
+Female,57,Working Professional,Electrician,,1.0,,,5.0,More than 8 hours,Healthy,M.Tech,No,7,1,No,No
+Male,35,Working Professional,Teacher,,2.0,,,4.0,Less than 5 hours,Unhealthy,LLB,Yes,8,5,Yes,Yes
+Female,40,Working Professional,Judge,,5.0,,,1.0,7-8 hours,Unhealthy,LLM,Yes,8,3,No,Yes
+Male,35,Working Professional,HR Manager,,5.0,,,5.0,Less than 5 hours,Healthy,MSc,No,11,4,Yes,No
+Female,42,Working Professional,Architect,,1.0,,,5.0,7-8 hours,Healthy,B.Arch,Yes,7,4,Yes,No
+Female,50,Working Professional,Business Analyst,,3.0,,,4.0,7-8 hours,Healthy,B.Com,Yes,2,4,No,No
+Female,39,Working Professional,Data Scientist,,1.0,,,2.0,5-6 hours,Unhealthy,ME,Yes,2,5,No,No
+Female,35,Working Professional,Finanancial Analyst,,4.0,,,3.0,Less than 5 hours,Unhealthy,PhD,No,12,5,No,No
+Female,31,Working Professional,HR Manager,,3.0,,,5.0,5-6 hours,Unhealthy,MA,Yes,11,5,No,Yes
+Female,22,Student,,1.0,,5.47,2.0,,More than 8 hours,Healthy,M.Com,Yes,3,4,No,No
+Male,32,Working Professional,Pharmacist,,1.0,,,3.0,Less than 5 hours,Healthy,MBBS,Yes,0,3,No,No
+Female,57,Working Professional,Architect,,3.0,,,2.0,More than 8 hours,Healthy,B.Arch,No,5,2,No,No
+Male,60,Working Professional,Manager,,3.0,,,1.0,More than 8 hours,Healthy,MHM,Yes,2,2,No,No
+Male,19,Student,,2.0,,7.13,4.0,,More than 8 hours,Unhealthy,Class 12,No,6,3,No,No
+Male,46,Working Professional,Plumber,,4.0,,,2.0,Less than 5 hours,Unhealthy,PhD,Yes,10,3,Yes,Yes
+Female,35,Working Professional,UX/UI Designer,,2.0,,,2.0,Less than 5 hours,Moderate,M.Tech,No,6,2,Yes,No
+Male,31,Working Professional,Doctor,,3.0,,,3.0,5-6 hours,Healthy,MD,No,2,3,Yes,No
+Male,39,Working Professional,Architect,,5.0,,,5.0,More than 8 hours,Unhealthy,PhD,Yes,4,4,No,No
+Male,24,Student,,2.0,,7.47,2.0,,5-6 hours,Healthy,Class 12,No,9,2,Yes,No
+Female,43,Working Professional,Electrician,,4.0,,,1.0,More than 8 hours,Healthy,BSc,No,5,1,No,No
+Male,42,Working Professional,HR Manager,,4.0,,,2.0,More than 8 hours,Unhealthy,PhD,No,3,3,No,No
+Male,50,Working Professional,Accountant,,1.0,,,1.0,7-8 hours,Unhealthy,B.Com,Yes,4,4,Yes,No
+Male,31,Working Professional,HR Manager,,5.0,,,3.0,5-6 hours,Moderate,BA,No,5,2,Yes,No
+Female,33,Working Professional,Content Writer,,4.0,,,2.0,Less than 5 hours,Healthy,B.Ed,Yes,11,1,Yes,Yes
+Female,34,Working Professional,Lawyer,,2.0,,,5.0,5-6 hours,Healthy,LLM,Yes,5,4,Yes,No
+Female,26,Working Professional,Entrepreneur,,1.0,,,4.0,Less than 5 hours,Unhealthy,MCA,No,5,2,Yes,No
+Male,31,Working Professional,Teacher,,4.0,,,3.0,Less than 5 hours,Unhealthy,LLB,Yes,12,5,Yes,Yes
+Male,25,Working Professional,Graphic Designer,,3.0,,,3.0,More than 8 hours,Moderate,M.Tech,No,2,3,No,No
+Male,20,Student,,3.0,,8.58,4.0,,Less than 5 hours,Healthy,Class 12,No,3,3,Yes,No
+Male,31,Working Professional,Accountant,,3.0,,,5.0,5-6 hours,Healthy,B.Com,Yes,6,5,No,No
+Female,37,Working Professional,Teacher,,4.0,,,5.0,7-8 hours,Unhealthy,B.Arch,Yes,12,2,No,No
+Male,49,Working Professional,Content Writer,,4.0,,,2.0,5-6 hours,Healthy,ME,Yes,2,4,No,No
+Female,43,Working Professional,Teacher,,5.0,,,1.0,5-6 hours,Moderate,M.Ed,Yes,12,3,No,Yes
+Female,45,Working Professional,Lawyer,,1.0,,,3.0,7-8 hours,Moderate,LLB,Yes,9,3,Yes,No
+Male,32,Student,,3.0,,9.02,2.0,,7-8 hours,Moderate,B.Tech,Yes,8,2,Yes,Yes
+Male,42,Working Professional,,,5.0,,,3.0,More than 8 hours,Moderate,Class 12,No,2,1,Yes,No
+Male,23,Working Professional,Software Engineer,,3.0,,,3.0,Less than 5 hours,Moderate,B.Tech,No,6,3,No,No
+Female,44,Working Professional,Teacher,,4.0,,,5.0,More than 8 hours,Unhealthy,B.Arch,No,3,5,No,No
+Male,30,Student,,5.0,,7.82,1.0,,Less than 5 hours,Unhealthy,B.Ed,No,2,5,Yes,Yes
+Female,51,Working Professional,Architect,,2.0,,,3.0,More than 8 hours,Healthy,BSc,Yes,5,3,Yes,No
+Male,45,Working Professional,Content Writer,,1.0,,,4.0,Less than 5 hours,Unhealthy,MSc,Yes,9,2,No,No
+Male,41,Working Professional,Teacher,,4.0,,,5.0,7-8 hours,Unhealthy,B.Ed,No,3,3,No,No
+Female,22,Working Professional,Entrepreneur,,1.0,,,4.0,More than 8 hours,Unhealthy,M.Tech,No,0,4,Yes,No
+Male,47,Working Professional,Content Writer,,2.0,,,1.0,5-6 hours,Moderate,M.Ed,No,0,3,Yes,No
+Male,38,Working Professional,Mechanical Engineer,,4.0,,,5.0,7-8 hours,Moderate,BE,No,9,5,No,No
+Male,35,Working Professional,Sales Executive,,4.0,,,5.0,Less than 5 hours,Unhealthy,BBA,No,8,1,Yes,No
+Female,54,Working Professional,Teacher,,3.0,,,3.0,More than 8 hours,Healthy,MBBS,No,3,5,No,No
+Male,34,Working Professional,Pharmacist,,3.0,,,4.0,Less than 5 hours,Moderate,MBBS,Yes,11,1,No,No
+Female,49,Working Professional,Educational Consultant,,4.0,,,4.0,More than 8 hours,Moderate,B.Ed,Yes,8,4,No,No
+Male,53,Working Professional,Pharmacist,,2.0,,,2.0,Less than 5 hours,Moderate,MBBS,No,10,1,No,No
+Female,25,Working Professional,Data Scientist,,5.0,,,4.0,Less than 5 hours,Unhealthy,M.Tech,Yes,1,2,Yes,Yes
+Female,37,Working Professional,Teacher,,4.0,,,4.0,Less than 5 hours,Healthy,BCA,Yes,11,2,No,No
+Female,54,Working Professional,Architect,,5.0,,,5.0,7-8 hours,Healthy,B.Arch,Yes,1,4,No,No
+Female,57,Working Professional,Business Analyst,,3.0,,,2.0,7-8 hours,Healthy,MBA,No,2,2,No,No
+Male,25,Working Professional,Consultant,,1.0,,,5.0,5-6 hours,Healthy,BBA,Yes,12,3,Yes,No
+Male,55,Working Professional,Data Scientist,,1.0,,,5.0,5-6 hours,Unhealthy,BSc,No,5,4,Yes,No
+Female,18,Working Professional,,,1.0,,,1.0,5-6 hours,Healthy,Class 12,Yes,7,2,Yes,Yes
+Male,40,Working Professional,Judge,,2.0,,,5.0,7-8 hours,Healthy,LLB,Yes,8,1,No,No
+Female,38,Working Professional,Teacher,,4.0,,,4.0,7-8 hours,Unhealthy,B.Ed,Yes,0,3,No,No
+Female,43,Working Professional,Researcher,,3.0,,,3.0,5-6 hours,Healthy,MCA,No,3,3,No,No
+Male,43,Working Professional,Judge,,4.0,,,5.0,More than 8 hours,Healthy,LLB,No,3,3,Yes,No
+Female,44,Working Professional,Marketing Manager,,3.0,,,2.0,5-6 hours,Unhealthy,MA,No,11,3,No,No
+Female,25,Working Professional,Electrician,,2.0,,,1.0,Less than 5 hours,Unhealthy,PhD,Yes,3,5,Yes,Yes
+Male,31,Student,,4.0,,9.41,1.0,,More than 8 hours,Healthy,MA,Yes,7,2,No,Yes
+Female,43,Working Professional,Content Writer,,3.0,,,2.0,Less than 5 hours,Healthy,B.Ed,Yes,9,3,Yes,No
+Female,28,Working Professional,Teacher,,1.0,,,1.0,Less than 5 hours,Moderate,MD,Yes,12,4,No,Yes
+Female,60,Working Professional,Pilot,,5.0,,,4.0,More than 8 hours,Healthy,M.Tech,Yes,5,3,No,No
+Male,18,Student,,5.0,,6.1,2.0,,Less than 5 hours,Moderate,Class 12,Yes,12,1,Yes,Yes
+Male,46,Working Professional,Civil Engineer,,3.0,,,4.0,More than 8 hours,Moderate,PhD,Yes,3,2,No,No
+Male,58,Working Professional,Data Scientist,,1.0,,,4.0,5-6 hours,Moderate,B.Tech,No,0,4,Yes,No
+Female,20,Student,,3.0,,8.91,4.0,,More than 8 hours,Unhealthy,Class 12,Yes,3,4,Yes,Yes
+Female,54,Working Professional,Researcher,,1.0,,,4.0,5-6 hours,Healthy,M.Tech,No,12,2,No,No
+Female,29,Student,,3.0,,7.28,5.0,,5-6 hours,Healthy,LLB,No,10,1,Yes,No
+Female,21,Student,,1.0,,6.02,4.0,,7-8 hours,Healthy,MSc,No,8,5,Yes,No
+Male,41,Working Professional,Architect,,2.0,,,3.0,7-8 hours,Unhealthy,B.Arch,Yes,12,5,Yes,No
+Male,27,Working Professional,Content Writer,,3.0,,,5.0,More than 8 hours,Healthy,MA,No,5,4,Yes,No
+Female,54,Working Professional,Teacher,,3.0,,,2.0,7-8 hours,Unhealthy,MA,No,4,5,Yes,No
+Female,40,Working Professional,Consultant,,4.0,,,5.0,More than 8 hours,Healthy,PhD,No,9,4,Yes,No
+Female,50,Working Professional,Doctor,,4.0,,,3.0,5-6 hours,Healthy,B.Pharm,No,9,3,Yes,No
+Female,23,Working Professional,Sales Executive,,1.0,,,5.0,Less than 5 hours,Unhealthy,B.Com,Yes,11,2,Yes,No
+Female,35,Working Professional,Content Writer,,1.0,,,2.0,5-6 hours,Moderate,MSc,Yes,8,5,No,No
+Male,47,Working Professional,Teacher,,4.0,,,5.0,7-8 hours,Healthy,B.Com,No,8,4,No,No
+Female,39,Working Professional,Software Engineer,,1.0,,,2.0,7-8 hours,Moderate,BSc,Yes,11,3,No,No
+Male,33,Working Professional,Doctor,,5.0,,,1.0,7-8 hours,Healthy,B.Pharm,No,4,3,Yes,No
+Female,49,Working Professional,Pharmacist,,2.0,,,2.0,7-8 hours,Unhealthy,MD,No,3,1,Yes,No
+Female,60,Working Professional,Teacher,,3.0,,,2.0,Less than 5 hours,Unhealthy,B.Arch,No,1,2,No,No
+Male,58,Working Professional,Consultant,,4.0,,,5.0,Less than 5 hours,Moderate,B.Tech,Yes,4,2,No,No
+Male,54,Working Professional,Travel Consultant,,1.0,,,3.0,5-6 hours,Unhealthy,BHM,No,12,5,Yes,No
+Female,31,Working Professional,Teacher,,1.0,,,3.0,More than 8 hours,Moderate,MBA,No,12,2,No,No
+Female,24,Student,,4.0,,5.16,5.0,,7-8 hours,Unhealthy,BSc,Yes,4,5,Yes,Yes
+Male,53,Working Professional,Teacher,,2.0,,,3.0,5-6 hours,Healthy,B.Arch,No,1,1,Yes,No
+Female,46,Working Professional,Teacher,,1.0,,,3.0,Less than 5 hours,Healthy,B.Ed,Yes,7,2,No,No
+Female,22,Working Professional,Sales Executive,,5.0,,,3.0,7-8 hours,Healthy,MBA,Yes,0,1,Yes,No
+Female,56,Working Professional,Pharmacist,,4.0,,,5.0,More than 8 hours,Unhealthy,MBBS,Yes,11,5,Yes,No
+Female,28,Student,,4.0,,7.7,4.0,,Less than 5 hours,Moderate,BA,No,2,1,No,No
+Male,53,Working Professional,Mechanical Engineer,,5.0,,,4.0,5-6 hours,Moderate,BE,Yes,2,3,No,No
+Female,53,Working Professional,Sales Executive,,3.0,,,1.0,5-6 hours,Healthy,BBA,No,7,2,Yes,No
+Male,45,Working Professional,Teacher,,5.0,,,1.0,Less than 5 hours,Healthy,B.Ed,No,9,5,Yes,No
+Female,20,Student,,4.0,,5.91,3.0,,7-8 hours,Healthy,Class 12,Yes,12,3,Yes,Yes
+Female,24,Working Professional,Marketing Manager,,2.0,,,1.0,More than 8 hours,Healthy,BA,No,6,5,Yes,No
+Female,37,Working Professional,Travel Consultant,,4.0,,,5.0,5-6 hours,Healthy,BHM,No,1,2,No,No
+Male,38,Working Professional,,,5.0,,,5.0,7-8 hours,Unhealthy,Class 12,No,8,2,No,No
+Male,60,Working Professional,,,2.0,,,3.0,Less than 5 hours,Unhealthy,Class 12,Yes,2,2,Yes,No
+Female,33,Student,,4.0,,9.39,1.0,,5-6 hours,Healthy,M.Tech,Yes,12,1,No,Yes
+Male,29,Working Professional,HR Manager,,1.0,,,1.0,More than 8 hours,Unhealthy,MCA,No,5,5,Yes,No
+Female,36,Working Professional,Teacher,,5.0,,,5.0,7-8 hours,Moderate,MBA,No,4,4,No,No
+Female,37,Working Professional,Architect,,3.0,,,2.0,5-6 hours,Unhealthy,B.Arch,Yes,12,5,No,Yes
+Male,55,Working Professional,Chemist,,3.0,,,5.0,7-8 hours,Unhealthy,MD,Yes,5,1,Yes,No
+Male,48,Working Professional,Teacher,,4.0,,,3.0,Less than 5 hours,Moderate,M.Tech,No,3,5,No,No
+Female,51,Working Professional,Financial Analyst,,4.0,,,1.0,Less than 5 hours,Unhealthy,M.Com,No,12,5,No,No
+Female,56,Working Professional,Mechanical Engineer,,4.0,,,3.0,More than 8 hours,Moderate,B.Tech,Yes,9,3,No,No
+Female,28,Student,,5.0,,8.96,1.0,,More than 8 hours,Moderate,B.Tech,No,8,3,Yes,Yes
+Male,33,Student,,4.0,,6.75,3.0,,Less than 5 hours,Unhealthy,MA,Yes,10,1,No,Yes
+Female,57,Working Professional,,,4.0,,,2.0,7-8 hours,Healthy,Class 12,Yes,10,4,Yes,No
+Male,25,Student,,2.0,,9.89,3.0,,More than 8 hours,Moderate,PhD,No,2,4,Yes,No
+Male,36,Working Professional,Finanancial Analyst,,4.0,,,5.0,More than 8 hours,Unhealthy,ME,No,2,5,No,No
+Male,50,Working Professional,Content Writer,,5.0,,,3.0,More than 8 hours,Moderate,B.Ed,Yes,2,3,Yes,No
+Female,57,Working Professional,Accountant,,3.0,,,3.0,5-6 hours,Moderate,B.Com,Yes,9,2,No,No
+Male,32,Working Professional,,,1.0,,,1.0,5-6 hours,Moderate,Class 12,No,10,1,Yes,No
+Female,25,Student,,3.0,,8.28,4.0,,5-6 hours,Healthy,BCA,No,4,2,No,No
+Female,54,Working Professional,Teacher,,2.0,,,4.0,5-6 hours,Healthy,B.Ed,No,9,3,Yes,No
+Male,20,Student,,1.0,,8.56,3.0,,More than 8 hours,Healthy,Class 12,Yes,0,1,No,No
+Male,38,Working Professional,Travel Consultant,,1.0,,,2.0,Less than 5 hours,Unhealthy,MHM,No,9,2,Yes,No
+Female,39,Working Professional,Teacher,,1.0,,,4.0,More than 8 hours,Healthy,PhD,Yes,4,1,Yes,No
+Male,50,Working Professional,Teacher,,1.0,,,2.0,7-8 hours,Healthy,B.Com,No,6,1,Yes,No
+Male,51,Working Professional,Marketing Manager,,3.0,,,5.0,7-8 hours,Unhealthy,BA,Yes,3,2,Yes,No
+Male,21,Working Professional,HR Manager,,3.0,,,2.0,Less than 5 hours,Unhealthy,B.Tech,No,9,5,No,Yes
+Male,28,Student,,5.0,,7.85,5.0,,More than 8 hours,Healthy,MSc,Yes,10,2,No,Yes
+Female,28,Student,,1.0,,5.79,1.0,,7-8 hours,Healthy,MBBS,No,2,3,Yes,No
+Female,29,Student,,3.0,,8.95,2.0,,Less than 5 hours,Moderate,MBBS,No,5,2,Yes,No
+Male,59,Working Professional,Content Writer,,1.0,,,1.0,Less than 5 hours,Healthy,ME,No,10,1,No,No
+Male,32,Student,,5.0,,8.04,1.0,,5-6 hours,Moderate,BCA,Yes,12,5,No,Yes
+Female,55,Working Professional,Graphic Designer,,1.0,,,2.0,More than 8 hours,Unhealthy,B.Tech,Yes,2,3,Yes,No
+Male,18,Working Professional,,,3.0,,,5.0,5-6 hours,Moderate,Class 12,Yes,7,3,Yes,Yes
+Male,27,Working Professional,Electrician,,4.0,,,5.0,5-6 hours,Moderate,M.Tech,No,10,1,Yes,No
+Female,33,Student,,1.0,,5.5600000000000005,4.0,,More than 8 hours,Unhealthy,MHM,No,12,5,No,No
+Male,38,Working Professional,Manager,,4.0,,,4.0,5-6 hours,Healthy,MHM,No,7,3,No,No
+Male,53,Working Professional,Chef,,5.0,,,5.0,5-6 hours,Healthy,BHM,Yes,4,2,Yes,No
+Female,23,Student,,5.0,,6.05,1.0,,7-8 hours,Healthy,BE,No,3,4,Yes,Yes
+Male,60,Working Professional,Data Scientist,,5.0,,,4.0,5-6 hours,Moderate,MSc,Yes,9,2,Yes,No
+Male,30,Working Professional,Lawyer,,4.0,,,1.0,5-6 hours,Unhealthy,LLB,Yes,2,5,No,Yes
+Male,54,Working Professional,Teacher,,4.0,,,2.0,7-8 hours,Healthy,LLM,Yes,5,1,Yes,No
+Female,41,Working Professional,Marketing Manager,,4.0,,,2.0,5-6 hours,Moderate,B.Com,Yes,2,4,No,No
+Male,33,Student,,5.0,,8.14,4.0,,5-6 hours,Moderate,B.Pharm,Yes,0,5,No,Yes
+Male,38,Working Professional,Researcher,,2.0,,,3.0,More than 8 hours,Moderate,M.Tech,Yes,7,2,No,No
+Female,24,Student,,5.0,,8.94,2.0,,5-6 hours,Healthy,MCA,No,3,5,No,Yes
+Female,36,Working Professional,Travel Consultant,,5.0,,,1.0,More than 8 hours,Healthy,MHM,No,11,5,No,No
+Male,38,Working Professional,Financial Analyst,,1.0,,,4.0,More than 8 hours,Healthy,MBA,No,5,3,No,No
+Female,55,Working Professional,Digital Marketer,,3.0,,,3.0,7-8 hours,Unhealthy,MA,No,1,4,No,No
+Male,51,Working Professional,HR Manager,,4.0,,,5.0,Less than 5 hours,Unhealthy,MBA,Yes,4,4,Yes,No
+Female,42,Working Professional,Teacher,,2.0,,,3.0,5-6 hours,Moderate,M.Com,No,0,2,No,No
+Male,37,Working Professional,Travel Consultant,,5.0,,,5.0,5-6 hours,Moderate,BHM,Yes,9,3,Yes,No
+Female,28,Student,,4.0,,8.59,3.0,,5-6 hours,Unhealthy,PhD,Yes,6,3,Yes,Yes
+Female,26,Working Professional,UX/UI Designer,,3.0,,,4.0,Less than 5 hours,Unhealthy,M.Tech,No,1,1,No,No
+Female,34,Working Professional,,,4.0,,,2.0,Less than 5 hours,Healthy,Class 12,No,7,1,No,No
+Female,25,Working Professional,Customer Support,,5.0,,,2.0,5-6 hours,Moderate,M.Com,Yes,0,2,No,Yes
+Female,39,Working Professional,Manager,,1.0,,,4.0,Less than 5 hours,Moderate,BHM,Yes,11,1,Yes,No
+Female,27,Working Professional,Financial Analyst,,3.0,,,1.0,7-8 hours,Healthy,B.Com,No,9,2,No,No
+Male,22,Working Professional,Teacher,,2.0,,,1.0,More than 8 hours,Healthy,B.Pharm,Yes,9,1,No,No
+Male,18,Student,,3.0,,8.7,4.0,,5-6 hours,Healthy,Class 12,Yes,9,1,No,Yes
+Female,24,Student,,2.0,,9.4,4.0,,5-6 hours,Unhealthy,BCA,No,5,2,No,No
+Female,55,Working Professional,Digital Marketer,,2.0,,,1.0,More than 8 hours,Unhealthy,M.Com,No,4,1,No,No
+Male,39,Working Professional,Pharmacist,,2.0,,,3.0,More than 8 hours,Healthy,M.Pharm,Yes,8,4,Yes,No
+Female,18,Working Professional,,,1.0,,,3.0,7-8 hours,Healthy,Class 12,Yes,12,3,Yes,Yes
+Male,36,Working Professional,Business Analyst,,4.0,,,3.0,More than 8 hours,Healthy,MSc,Yes,4,3,Yes,No
+Male,31,Working Professional,Finanancial Analyst,,5.0,,,5.0,5-6 hours,Unhealthy,BCA,Yes,12,2,Yes,Yes
+Male,48,Working Professional,Digital Marketer,,2.0,,,4.0,More than 8 hours,Unhealthy,B.Com,Yes,7,2,Yes,No
+Male,57,Working Professional,Mechanical Engineer,,2.0,,,2.0,5-6 hours,Moderate,PhD,Yes,2,5,Yes,No
+Female,30,Working Professional,Researcher,,3.0,,,4.0,7-8 hours,Moderate,BCA,Yes,4,4,No,No
+Male,57,Working Professional,Manager,,2.0,,,1.0,5-6 hours,Unhealthy,BHM,No,4,4,No,No
+Male,44,Working Professional,Manager,,3.0,,,2.0,7-8 hours,Unhealthy,BHM,No,8,5,No,No
+Male,30,Student,,3.0,,9.5,2.0,,5-6 hours,Moderate,MA,No,0,4,No,No
+Female,47,Working Professional,Chemist,,3.0,,,3.0,7-8 hours,Moderate,M.Pharm,No,6,3,Yes,No
+Male,53,Working Professional,Customer Support,,3.0,,,2.0,Less than 5 hours,Unhealthy,M.Com,No,4,1,Yes,No
+Male,37,Working Professional,Pilot,,5.0,,,3.0,7-8 hours,Unhealthy,BE,Yes,9,3,No,Yes
+Female,40,Working Professional,Digital Marketer,,2.0,,,5.0,7-8 hours,Healthy,M.Com,Yes,4,4,No,No
+Male,59,Working Professional,Mechanical Engineer,,5.0,,,2.0,5-6 hours,Unhealthy,BSc,Yes,1,3,Yes,No
+Female,51,Working Professional,Teacher,,3.0,,,3.0,Less than 5 hours,Unhealthy,LLB,No,9,1,No,No
+Female,46,Working Professional,Finanancial Analyst,,1.0,,,2.0,More than 8 hours,Healthy,PhD,Yes,12,4,No,No
+Male,47,Working Professional,Data Scientist,,3.0,,,1.0,Less than 5 hours,Moderate,M.Tech,Yes,3,3,No,No
+Female,36,Working Professional,Consultant,,4.0,,,3.0,More than 8 hours,Healthy,MCA,Yes,10,1,Yes,No
+Male,26,Working Professional,Pilot,,2.0,,,3.0,5-6 hours,Healthy,BCA,Yes,2,2,No,No
+Male,33,Working Professional,,,2.0,,,1.0,5-6 hours,Healthy,Class 12,Yes,5,1,No,No
+Male,39,Working Professional,,,4.0,,,4.0,Less than 5 hours,Healthy,Class 12,No,0,5,Yes,No
+Male,38,Working Professional,Architect,,1.0,,,5.0,5-6 hours,Unhealthy,B.Arch,No,7,2,Yes,No
+Male,26,Student,,5.0,,9.67,4.0,,7-8 hours,Unhealthy,M.Tech,No,3,2,Yes,No
+Male,54,Working Professional,Chemist,,2.0,,,5.0,Less than 5 hours,Healthy,MBBS,Yes,6,5,Yes,No
+Female,28,Working Professional,Customer Support,,2.0,,,1.0,7-8 hours,Moderate,B.Com,Yes,5,5,No,Yes
+Male,35,Working Professional,Teacher,,4.0,,,3.0,More than 8 hours,Unhealthy,LLB,No,11,3,No,No
+Female,49,Working Professional,Pharmacist,,3.0,,,4.0,Less than 5 hours,Moderate,MBBS,Yes,11,2,Yes,No
+Female,43,Working Professional,Educational Consultant,,1.0,,,5.0,Less than 5 hours,Unhealthy,B.Ed,No,5,4,No,No
+Male,49,Working Professional,Entrepreneur,,5.0,,,2.0,Less than 5 hours,Healthy,MSc,Yes,11,3,Yes,No
+Female,26,Student,,2.0,,7.15,5.0,,More than 8 hours,Moderate,M.Tech,Yes,10,4,Yes,Yes
+Male,47,Working Professional,Business Analyst,,1.0,,,1.0,More than 8 hours,Moderate,ME,Yes,11,2,Yes,No
+Female,28,Working Professional,Content Writer,,2.0,,,2.0,Less than 5 hours,Healthy,BCA,No,8,1,Yes,No
+Female,40,Working Professional,Chef,,1.0,,,2.0,More than 8 hours,Moderate,BHM,No,8,2,No,No
+Female,42,Working Professional,UX/UI Designer,,1.0,,,5.0,7-8 hours,Unhealthy,B.Tech,No,1,1,Yes,No
+Female,59,Working Professional,Chemist,,3.0,,,2.0,More than 8 hours,Unhealthy,B.Pharm,Yes,3,4,Yes,No
+Male,43,Working Professional,Digital Marketer,,4.0,,,4.0,More than 8 hours,Moderate,M.Com,No,9,4,Yes,No
+Female,39,Working Professional,Chemist,,2.0,,,3.0,More than 8 hours,Moderate,MD,No,3,3,No,No
+Female,35,Working Professional,Plumber,,2.0,,,4.0,5-6 hours,Healthy,BSc,No,8,2,Yes,No
+Female,49,Working Professional,Civil Engineer,,1.0,,,3.0,More than 8 hours,Healthy,ME,No,7,1,Yes,No
+Male,41,Working Professional,Content Writer,,3.0,,,4.0,7-8 hours,Healthy,BCA,No,12,4,Yes,No
+Female,36,Working Professional,UX/UI Designer,,5.0,,,1.0,More than 8 hours,Unhealthy,PhD,Yes,5,5,No,Yes
+Male,22,Student,,3.0,,7.64,4.0,,Less than 5 hours,Healthy,MSc,Yes,5,4,No,Yes
+Female,49,Working Professional,Sales Executive,,5.0,,,3.0,7-8 hours,Unhealthy,M.Com,Yes,0,4,No,No
+Female,59,Working Professional,Educational Consultant,,3.0,,,2.0,7-8 hours,Unhealthy,B.Ed,Yes,10,5,No,No
+Male,31,Working Professional,Software Engineer,,2.0,,,4.0,5-6 hours,Moderate,BSc,Yes,11,2,Yes,No
+Female,28,Working Professional,Teacher,,3.0,,,5.0,Less than 5 hours,Moderate,MD,Yes,12,2,No,No
+Female,48,Working Professional,Civil Engineer,,3.0,,,1.0,7-8 hours,Moderate,MCA,Yes,2,1,Yes,No
+Male,38,Working Professional,,,1.0,,,4.0,5-6 hours,Healthy,Class 12,No,2,1,Yes,No
+Male,20,Student,,3.0,,5.67,3.0,,More than 8 hours,Healthy,Class 12,Yes,6,5,Yes,Yes
+Male,59,Working Professional,HR Manager,,2.0,,,3.0,Less than 5 hours,Healthy,MA,Yes,1,4,Yes,No
+Male,18,Working Professional,,,5.0,,,5.0,More than 8 hours,Unhealthy,Class 12,Yes,12,2,Yes,Yes
+Female,34,Student,,3.0,,7.83,1.0,,More than 8 hours,Healthy,PhD,Yes,5,4,No,Yes
+Male,57,Working Professional,Content Writer,,1.0,,,5.0,More than 8 hours,Healthy,B.Ed,No,11,2,No,No
+Male,51,Working Professional,Teacher,,3.0,,,2.0,More than 8 hours,Moderate,MBBS,Yes,8,4,Yes,No
+Female,58,Working Professional,Finanancial Analyst,,5.0,,,4.0,7-8 hours,Moderate,BSc,No,11,4,Yes,No
+Male,54,Working Professional,Manager,,3.0,,,5.0,Less than 5 hours,Moderate,BHM,Yes,9,3,Yes,No
+Female,22,Student,,1.0,,7.35,4.0,,Less than 5 hours,Unhealthy,M.Tech,No,7,5,Yes,No
+Male,29,Student,,5.0,,6.65,5.0,,Less than 5 hours,Unhealthy,ME,No,11,5,Yes,Yes
+Male,24,Working Professional,Pilot,,2.0,,,2.0,7-8 hours,Healthy,MSc,Yes,10,1,No,No
+Female,43,Working Professional,Teacher,,5.0,,,5.0,Less than 5 hours,Unhealthy,B.Ed,No,0,5,No,No
+Female,29,Student,,1.0,,6.69,2.0,,Less than 5 hours,Unhealthy,MHM,Yes,4,5,No,Yes
+Male,22,Working Professional,Architect,,4.0,,,1.0,7-8 hours,Healthy,B.Arch,Yes,3,5,No,Yes
+Female,52,Working Professional,Content Writer,,1.0,,,1.0,5-6 hours,Moderate,B.Ed,Yes,4,3,Yes,No
+Female,57,Working Professional,Chef,,3.0,,,1.0,5-6 hours,Unhealthy,BHM,No,7,2,Yes,No
+Male,20,Working Professional,,,3.0,,,4.0,Less than 5 hours,Unhealthy,Class 12,No,7,3,Yes,No
+Male,35,Working Professional,Electrician,,4.0,,,3.0,More than 8 hours,Healthy,PhD,No,11,1,Yes,No
+Female,53,Working Professional,Data Scientist,,4.0,,,3.0,7-8 hours,Moderate,MCA,Yes,1,1,Yes,No
+Female,22,Working Professional,Teacher,,5.0,,,2.0,7-8 hours,Moderate,B.Ed,Yes,4,3,No,Yes
+Male,47,Working Professional,Travel Consultant,,2.0,,,2.0,5-6 hours,Healthy,MHM,No,9,5,Yes,No
+Male,31,Working Professional,Judge,,5.0,,,2.0,Less than 5 hours,Healthy,LLM,No,7,2,No,No
+Male,47,Working Professional,Pharmacist,,3.0,,,3.0,Less than 5 hours,Moderate,B.Pharm,Yes,8,5,No,No
+Female,22,Working Professional,Digital Marketer,,3.0,,,4.0,7-8 hours,Healthy,BA,Yes,2,4,No,No
+Male,33,Student,,3.0,,7.26,4.0,,More than 8 hours,Moderate,MCA,No,7,3,No,No
+Female,50,Working Professional,Customer Support,,3.0,,,2.0,7-8 hours,Healthy,BA,No,7,3,No,No
+Male,53,Working Professional,Teacher,,2.0,,,4.0,More than 8 hours,Unhealthy,B.Ed,Yes,1,5,No,No
+Male,49,Working Professional,Chemist,,5.0,,,2.0,More than 8 hours,Unhealthy,M.Pharm,No,3,4,No,No
+Female,43,Working Professional,Teacher,,1.0,,,1.0,7-8 hours,Moderate,BA,No,9,4,Yes,No
+Female,44,Working Professional,Judge,,2.0,,,2.0,5-6 hours,Healthy,LLM,Yes,10,3,No,No
+Male,47,Working Professional,Teacher,,1.0,,,5.0,Less than 5 hours,Unhealthy,B.Arch,Yes,11,5,Yes,No
+Male,52,Working Professional,Pharmacist,,1.0,,,4.0,7-8 hours,Healthy,MBBS,Yes,11,2,Yes,No
+Male,34,Student,,3.0,,9.24,4.0,,7-8 hours,Unhealthy,M.Ed,Yes,1,2,No,No
+Female,42,Working Professional,Chef,,5.0,,,2.0,More than 8 hours,Unhealthy,MHM,Yes,1,3,Yes,No
+Male,25,Working Professional,Software Engineer,,4.0,,,1.0,Less than 5 hours,Unhealthy,B.Tech,No,4,3,No,Yes
+Male,24,Student,,1.0,,7.5,4.0,,Less than 5 hours,Unhealthy,M.Com,No,9,5,No,No
+Male,19,Student,,5.0,,5.6,1.0,,More than 8 hours,Moderate,Class 12,No,2,3,No,Yes
+Male,43,Working Professional,Finanancial Analyst,,1.0,,,3.0,More than 8 hours,Healthy,MSc,Yes,12,3,Yes,No
+Female,49,Working Professional,Chemist,,5.0,,,2.0,Less than 5 hours,Moderate,MD,Yes,7,2,No,No
+Female,32,Working Professional,Chemist,,2.0,,,4.0,5-6 hours,Moderate,M.Pharm,Yes,1,4,No,No
+Female,52,Working Professional,Sales Executive,,2.0,,,5.0,More than 8 hours,Healthy,MBA,Yes,4,4,Yes,No
+Female,58,Working Professional,Teacher,,3.0,,,1.0,5-6 hours,Unhealthy,B.Arch,No,1,4,Yes,No
+Female,22,Student,,1.0,,5.58,2.0,,7-8 hours,Unhealthy,BCA,No,1,2,No,No
+Female,25,Student,,4.0,,5.46,4.0,,5-6 hours,Healthy,MSc,No,5,2,No,No
+Female,29,Student,,2.0,,6.08,4.0,,Less than 5 hours,Unhealthy,ME,No,11,2,Yes,No
+Male,22,Working Professional,Software Engineer,,1.0,,,3.0,Less than 5 hours,Unhealthy,MCA,Yes,7,1,No,No
+Male,35,Working Professional,Chef,,4.0,,,4.0,7-8 hours,Unhealthy,BHM,Yes,1,3,No,No
+Female,25,Student,,3.0,,9.04,2.0,,More than 8 hours,Moderate,BHM,No,0,4,Yes,No
+Male,60,Working Professional,Consultant,,2.0,,,3.0,7-8 hours,Moderate,B.Tech,Yes,12,4,Yes,No
+Female,23,Student,,2.0,,9.72,1.0,,7-8 hours,Unhealthy,BHM,Yes,10,4,Yes,Yes
+Male,43,Working Professional,Teacher,,3.0,,,2.0,Less than 5 hours,Unhealthy,M.Pharm,Yes,6,4,No,No
+Female,34,Student,,3.0,,6.27,5.0,,Less than 5 hours,Moderate,M.Com,Yes,3,5,No,No
+Male,34,Working Professional,Customer Support,,4.0,,,3.0,5-6 hours,Unhealthy,BA,Yes,6,1,No,No
+Female,57,Working Professional,Manager,,4.0,,,4.0,Less than 5 hours,Unhealthy,BHM,No,7,1,Yes,No
+Male,49,Working Professional,Entrepreneur,,3.0,,,3.0,Less than 5 hours,Moderate,MSc,Yes,11,1,Yes,No
+Female,40,Working Professional,Electrician,,3.0,,,4.0,7-8 hours,Healthy,BSc,No,8,1,No,No
+Male,33,Working Professional,Teacher,,5.0,,,2.0,7-8 hours,Unhealthy,M.Ed,Yes,3,2,No,Yes
+Male,33,Student,,3.0,,7.07,5.0,,5-6 hours,Healthy,PhD,Yes,1,4,No,No
+Male,57,Working Professional,Content Writer,,2.0,,,2.0,Less than 5 hours,Unhealthy,ME,Yes,9,2,No,No
+Female,27,Working Professional,Content Writer,,5.0,,,3.0,7-8 hours,Moderate,MA,Yes,6,4,No,Yes
+Female,36,Working Professional,Teacher,,4.0,,,5.0,7-8 hours,Unhealthy,LLB,Yes,3,3,No,No
+Male,60,Working Professional,Architect,,2.0,,,1.0,More than 8 hours,Unhealthy,B.Arch,Yes,10,3,Yes,No
+Male,37,Working Professional,Teacher,,1.0,,,4.0,7-8 hours,Healthy,B.Com,Yes,5,2,Yes,No
+Female,50,Working Professional,Software Engineer,,5.0,,,3.0,5-6 hours,Healthy,BCA,No,1,4,No,No
+Female,42,Working Professional,,,3.0,,,4.0,More than 8 hours,Healthy,Class 12,No,6,5,No,No
+Female,22,Working Professional,Educational Consultant,,5.0,,,1.0,Less than 5 hours,Moderate,B.Ed,Yes,9,5,Yes,Yes
+Male,23,Working Professional,Teacher,,1.0,,,1.0,7-8 hours,Unhealthy,BCA,Yes,7,5,No,Yes
+Female,21,Student,,3.0,,5.98,1.0,,Less than 5 hours,Healthy,MCA,Yes,9,3,Yes,Yes
+Male,24,Working Professional,Teacher,,4.0,,,3.0,Less than 5 hours,Healthy,LLB,Yes,9,1,Yes,Yes
+Female,42,Working Professional,Civil Engineer,,2.0,,,1.0,5-6 hours,Unhealthy,B.Tech,No,7,2,Yes,No
+Male,28,Working Professional,Digital Marketer,,5.0,,,4.0,Less than 5 hours,Healthy,B.Com,Yes,0,2,Yes,No
+Male,48,Working Professional,Customer Support,,4.0,,,5.0,More than 8 hours,Healthy,BA,Yes,6,1,Yes,No
+Male,33,Working Professional,Teacher,,3.0,,,1.0,7-8 hours,Healthy,M.Pharm,No,3,3,No,No
+Female,48,Working Professional,Teacher,,5.0,,,5.0,7-8 hours,Moderate,B.Arch,No,6,3,No,No
+Male,32,Student,,5.0,,9.96,2.0,,5-6 hours,Moderate,M.Com,Yes,12,3,No,Yes
+Female,50,Working Professional,Doctor,,5.0,,,2.0,7-8 hours,Moderate,MBBS,Yes,5,5,Yes,No
+Male,21,Student,,1.0,,7.85,2.0,,5-6 hours,Healthy,MCA,Yes,9,4,No,Yes
+Female,54,Working Professional,Lawyer,,2.0,,,5.0,7-8 hours,Healthy,LLB,Yes,1,5,No,No
+Female,38,Working Professional,UX/UI Designer,,3.0,,,2.0,Less than 5 hours,Healthy,MSc,No,5,4,No,No
+Male,34,Student,,1.0,,7.22,3.0,,More than 8 hours,Unhealthy,MD,Yes,11,2,Yes,No
+Female,59,Working Professional,,,2.0,,,1.0,5-6 hours,Unhealthy,Class 12,Yes,8,3,No,No
+Male,56,Working Professional,Travel Consultant,,3.0,,,5.0,7-8 hours,Moderate,MHM,No,2,1,Yes,No
+Male,24,Working Professional,Doctor,,2.0,,,5.0,Less than 5 hours,Healthy,MBBS,Yes,3,4,No,No
+Female,34,Student,,1.0,,8.98,4.0,,7-8 hours,Moderate,Class 12,No,5,1,Yes,No
+Male,53,Working Professional,Sales Executive,,4.0,,,1.0,Less than 5 hours,Healthy,B.Com,No,7,1,Yes,No
+Female,21,Working Professional,Accountant,,4.0,,,3.0,More than 8 hours,Healthy,B.Com,Yes,8,4,Yes,Yes
+Female,34,Student,,4.0,,9.96,2.0,,More than 8 hours,Moderate,B.Com,Yes,6,2,No,Yes
+Female,56,Working Professional,Content Writer,,5.0,,,2.0,5-6 hours,Unhealthy,B.Ed,Yes,3,5,Yes,No
+Male,47,Working Professional,Civil Engineer,,1.0,,,1.0,7-8 hours,Moderate,MSc,No,11,3,Yes,No
+Male,34,Working Professional,Teacher,,5.0,,,5.0,Less than 5 hours,Healthy,MBBS,Yes,9,3,No,No
+Male,28,Student,,4.0,,8.58,2.0,,7-8 hours,Unhealthy,MD,Yes,11,3,No,Yes
+Female,52,Working Professional,Teacher,,4.0,,,4.0,More than 8 hours,Moderate,MA,Yes,11,4,No,No
+Male,43,Working Professional,Pharmacist,,5.0,,,5.0,5-6 hours,Moderate,MD,No,9,2,Yes,No
+Male,48,Working Professional,Entrepreneur,,4.0,,,2.0,More than 8 hours,Healthy,BBA,No,5,4,Yes,No
+Male,25,Student,,1.0,,7.21,3.0,,5-6 hours,Unhealthy,MBBS,Yes,10,4,No,Yes
+Female,53,Working Professional,Software Engineer,,1.0,,,4.0,5-6 hours,Unhealthy,PhD,Yes,12,2,Yes,No
+Female,31,Working Professional,Research Analyst,,4.0,,,2.0,Less than 5 hours,Healthy,BBA,No,10,1,Yes,No
+Male,25,Student,,5.0,,6.75,3.0,,More than 8 hours,Unhealthy,B.Ed,No,7,3,No,Yes
+Female,25,Working Professional,Entrepreneur,,5.0,,,5.0,More than 8 hours,Healthy,MBA,Yes,3,3,No,No
+Female,34,Student,,3.0,,9.84,3.0,,More than 8 hours,Moderate,B.Ed,No,12,5,No,No
+Male,49,Working Professional,Content Writer,,3.0,,,5.0,Less than 5 hours,Moderate,PhD,No,0,5,No,No
+Female,58,Working Professional,,,2.0,,,4.0,Less than 5 hours,Moderate,Class 12,Yes,2,5,No,No
+Male,23,Working Professional,Teacher,,5.0,,,1.0,Less than 5 hours,Moderate,LLB,Yes,3,1,Yes,Yes
+Male,30,Student,,5.0,,7.94,2.0,,5-6 hours,Unhealthy,MHM,Yes,0,2,No,Yes
+Female,27,Working Professional,Mechanical Engineer,,4.0,,,2.0,7-8 hours,Unhealthy,BCA,Yes,10,5,No,Yes
+Male,23,Student,,3.0,,9.93,5.0,,5-6 hours,Healthy,MA,Yes,10,5,Yes,Yes
+Female,49,Working Professional,Sales Executive,,1.0,,,5.0,Less than 5 hours,Unhealthy,B.Com,No,5,1,No,No
+Female,42,Working Professional,Electrician,,3.0,,,5.0,Less than 5 hours,Unhealthy,PhD,No,6,3,Yes,No
+Female,49,Working Professional,Civil Engineer,,5.0,,,5.0,Less than 5 hours,Healthy,BE,Yes,4,1,No,No
+Female,35,Working Professional,Teacher,,2.0,,,1.0,More than 8 hours,Unhealthy,BBA,No,4,1,No,No
+Male,51,Working Professional,Doctor,,1.0,,,5.0,More than 8 hours,Moderate,MD,No,9,4,Yes,No
+Male,34,Student,,5.0,,7.43,3.0,,Less than 5 hours,Moderate,PhD,Yes,11,5,No,Yes
+Female,47,Working Professional,Chemist,,5.0,,,5.0,7-8 hours,Healthy,MD,No,11,4,No,No
+Female,23,Working Professional,Sales Executive,,5.0,,,3.0,5-6 hours,Moderate,B.Com,No,9,4,No,Yes
+Male,50,Working Professional,Electrician,,1.0,,,1.0,Less than 5 hours,Healthy,PhD,No,3,5,No,No
+Female,31,Working Professional,Pharmacist,,4.0,,,5.0,More than 8 hours,Moderate,MBBS,No,5,3,No,No
+Female,59,Working Professional,Data Scientist,,4.0,,,4.0,Less than 5 hours,Unhealthy,M.Tech,Yes,6,5,Yes,No
+Female,37,Working Professional,Teacher,,2.0,,,2.0,Less than 5 hours,Unhealthy,MD,No,2,4,No,No
+Male,45,Working Professional,Pharmacist,,1.0,,,4.0,7-8 hours,Moderate,M.Pharm,No,10,2,Yes,No
+Male,22,Working Professional,Teacher,,5.0,,,5.0,Less than 5 hours,Unhealthy,BCA,No,9,4,No,Yes
+Female,49,Working Professional,Teacher,,4.0,,,5.0,7-8 hours,Unhealthy,LLM,No,3,4,No,No
+Male,18,Student,,5.0,,7.25,5.0,,7-8 hours,Healthy,Class 12,Yes,6,2,No,Yes
+Female,60,Working Professional,,,1.0,,,1.0,5-6 hours,Unhealthy,Class 12,Yes,2,1,No,No
+Male,50,Working Professional,Chef,,3.0,,,3.0,More than 8 hours,Healthy,MHM,Yes,7,4,No,No
+Male,59,Working Professional,Educational Consultant,,3.0,,,3.0,Less than 5 hours,Healthy,M.Ed,Yes,9,3,No,No
+Female,58,Working Professional,Chemist,,4.0,,,3.0,More than 8 hours,Unhealthy,MD,No,5,2,Yes,No
+Male,30,Working Professional,Judge,,2.0,,,3.0,More than 8 hours,Healthy,LLB,Yes,8,2,No,No
+Female,25,Working Professional,Teacher,,4.0,,,5.0,Less than 5 hours,Healthy,B.Pharm,Yes,6,1,No,No
+Male,18,Student,,5.0,,6.8100000000000005,2.0,,7-8 hours,Unhealthy,Class 12,Yes,8,2,Yes,Yes
+Male,39,Working Professional,Business Analyst,,2.0,,,2.0,7-8 hours,Healthy,BSc,No,3,5,Yes,No
+Female,38,Working Professional,Architect,,3.0,,,3.0,5-6 hours,Moderate,M.Tech,No,0,4,Yes,No
+Female,48,Working Professional,Pilot,,5.0,,,1.0,7-8 hours,Moderate,M.Tech,Yes,11,5,Yes,Yes
+Male,53,Working Professional,Lawyer,,4.0,,,3.0,7-8 hours,Moderate,LLB,Yes,10,1,No,No
+Female,55,Working Professional,Teacher,,4.0,,,3.0,5-6 hours,Healthy,MCA,No,6,3,Yes,No
+Female,23,Student,,1.0,,5.1,3.0,,Less than 5 hours,Healthy,BBA,Yes,0,3,No,No
+Female,29,Student,,2.0,,9.44,4.0,,7-8 hours,Healthy,BCA,Yes,0,1,No,No
+Male,42,Working Professional,Chemist,,2.0,,,1.0,Less than 5 hours,Unhealthy,MD,No,1,1,No,No
+Male,41,Working Professional,Teacher,,3.0,,,2.0,5-6 hours,Healthy,M.Ed,Yes,12,3,Yes,No
+Female,46,Working Professional,Teacher,,5.0,,,4.0,7-8 hours,Unhealthy,BSc,Yes,9,5,No,No
+Male,29,Student,,3.0,,9.37,1.0,,7-8 hours,Unhealthy,BSc,Yes,9,3,Yes,Yes
+Male,60,Working Professional,Chemist,,5.0,,,3.0,Less than 5 hours,Moderate,B.Pharm,No,7,3,No,No
+Male,53,Working Professional,Business Analyst,,2.0,,,2.0,7-8 hours,Moderate,BCA,No,9,2,Yes,No
+Female,44,Working Professional,Teacher,,3.0,,,5.0,5-6 hours,Unhealthy,M.Com,No,6,5,No,No
+Female,30,Working Professional,Accountant,,4.0,,,2.0,More than 8 hours,Healthy,M.Com,No,3,1,No,No
+Male,54,Working Professional,Researcher,,1.0,,,1.0,Less than 5 hours,Unhealthy,ME,No,0,2,No,No
+Male,25,Working Professional,Mechanical Engineer,,5.0,,,2.0,More than 8 hours,Healthy,BE,Yes,12,1,No,Yes
+Female,49,Working Professional,Teacher,,4.0,,,5.0,7-8 hours,Moderate,MD,No,2,4,No,No
+Female,18,Student,,5.0,,7.79,2.0,,Less than 5 hours,Moderate,Class 12,No,2,3,Yes,Yes
+Male,46,Working Professional,Mechanical Engineer,,2.0,,,2.0,5-6 hours,Moderate,BSc,No,8,2,No,No
+Male,38,Working Professional,Teacher,,2.0,,,1.0,More than 8 hours,Moderate,BA,Yes,3,4,Yes,No
+Female,35,Working Professional,Content Writer,,4.0,,,5.0,5-6 hours,Unhealthy,BE,No,0,5,Yes,No
+Male,24,Working Professional,Judge,,3.0,,,3.0,Less than 5 hours,Moderate,LLB,Yes,8,2,Yes,Yes
+Female,45,Working Professional,Consultant,,1.0,,,3.0,5-6 hours,Healthy,PhD,Yes,0,4,No,No
+Male,60,Working Professional,,,5.0,,,3.0,5-6 hours,Healthy,Class 12,Yes,0,2,No,No
+Female,60,Working Professional,Educational Consultant,,1.0,,,3.0,More than 8 hours,Moderate,M.Ed,No,6,3,No,No
+Female,19,Student,,1.0,,6.52,1.0,,More than 8 hours,Unhealthy,Class 12,No,6,2,Yes,No
+Female,22,Working Professional,Electrician,,1.0,,,4.0,More than 8 hours,Healthy,BCA,No,8,4,No,No
+Male,32,Student,,3.0,,9.84,3.0,,5-6 hours,Healthy,BE,Yes,8,4,Yes,Yes
+Female,29,Working Professional,Researcher,,5.0,,,3.0,More than 8 hours,Unhealthy,MSc,Yes,7,4,No,Yes
+Female,43,Working Professional,Business Analyst,,2.0,,,2.0,Less than 5 hours,Unhealthy,BCA,Yes,12,1,No,No
+Male,39,Working Professional,HR Manager,,2.0,,,1.0,7-8 hours,Moderate,M.Tech,No,12,1,Yes,No
+Male,21,Working Professional,Marketing Manager,,3.0,,,4.0,Less than 5 hours,Unhealthy,MA,Yes,3,1,No,No
+Female,26,Working Professional,Civil Engineer,,2.0,,,4.0,More than 8 hours,Healthy,MSc,Yes,8,4,Yes,No
+Female,29,Working Professional,Finanancial Analyst,,5.0,,,4.0,More than 8 hours,Unhealthy,ME,Yes,0,4,No,No
+Male,34,Student,,5.0,,7.08,1.0,,Less than 5 hours,Moderate,MD,Yes,6,4,No,Yes
+Female,56,Working Professional,Digital Marketer,,2.0,,,4.0,7-8 hours,Unhealthy,BA,Yes,11,4,No,No
+Male,34,Working Professional,HR Manager,,4.0,,,4.0,5-6 hours,Unhealthy,MA,Yes,10,5,No,Yes
+Male,40,Working Professional,Software Engineer,,1.0,,,4.0,7-8 hours,Healthy,BSc,Yes,11,3,Yes,No
+Female,27,Working Professional,Business Analyst,,5.0,,,1.0,Less than 5 hours,Unhealthy,B.Com,No,10,1,No,Yes
+Male,40,Working Professional,Doctor,,5.0,,,1.0,Less than 5 hours,Moderate,B.Pharm,No,10,1,Yes,No
+Female,26,Working Professional,Chemist,,1.0,,,2.0,Less than 5 hours,Moderate,B.Pharm,No,1,1,Yes,No
+Female,42,Working Professional,Content Writer,,4.0,,,5.0,Less than 5 hours,Moderate,B.Ed,No,0,1,No,No
+Male,37,Working Professional,Business Analyst,,5.0,,,3.0,Less than 5 hours,Moderate,BSc,Yes,10,1,Yes,Yes
+Male,42,Working Professional,,,4.0,,,4.0,More than 8 hours,Unhealthy,Class 12,No,5,4,Yes,No
+Male,38,Working Professional,Doctor,,3.0,,,5.0,5-6 hours,Moderate,M.Pharm,No,8,4,No,No
+Male,33,Working Professional,Pilot,,3.0,,,5.0,7-8 hours,Moderate,BE,Yes,6,3,Yes,No
+Female,49,Working Professional,Content Writer,,2.0,,,5.0,5-6 hours,Moderate,B.Tech,Yes,12,1,Yes,No
+Female,34,Student,,2.0,,5.76,5.0,,7-8 hours,Healthy,B.Com,Yes,8,3,Yes,No
+Male,32,Working Professional,Content Writer,,5.0,,,3.0,5-6 hours,Moderate,M.Tech,Yes,0,1,No,No
+Female,49,Working Professional,Pharmacist,,5.0,,,3.0,Less than 5 hours,Moderate,MBBS,Yes,10,3,Yes,No
+Female,42,Working Professional,Plumber,,1.0,,,2.0,More than 8 hours,Moderate,PhD,Yes,0,3,Yes,No
+Female,41,Working Professional,Lawyer,,3.0,,,3.0,5-6 hours,Unhealthy,LLB,No,10,1,No,No
+Female,34,Student,,3.0,,5.9,5.0,,More than 8 hours,Moderate,B.Ed,Yes,4,5,No,No
+Male,28,Working Professional,Educational Consultant,,2.0,,,5.0,More than 8 hours,Healthy,B.Ed,No,5,3,Yes,No
+Male,42,Working Professional,Judge,,5.0,,,4.0,Less than 5 hours,Unhealthy,LLB,Yes,12,3,No,No
+Male,55,Working Professional,Data Scientist,,1.0,,,5.0,More than 8 hours,Unhealthy,B.Tech,Yes,9,1,Yes,No
+Female,31,Working Professional,Content Writer,,4.0,,,5.0,5-6 hours,Moderate,B.Ed,No,4,4,No,No
+Male,45,Working Professional,Teacher,,2.0,,,5.0,7-8 hours,Healthy,MCA,Yes,8,3,Yes,No
+Female,43,Working Professional,Pharmacist,,1.0,,,2.0,7-8 hours,Healthy,MBBS,Yes,2,1,No,No
+Male,59,Working Professional,Sales Executive,,2.0,,,1.0,5-6 hours,Unhealthy,BBA,Yes,10,4,No,No
+Female,54,Working Professional,Customer Support,,3.0,,,2.0,Less than 5 hours,Healthy,MA,Yes,1,1,Yes,No
+Female,24,Student,,4.0,,6.23,3.0,,Less than 5 hours,Healthy,BE,Yes,3,5,Yes,Yes
+Male,30,Student,,1.0,,5.44,5.0,,Less than 5 hours,Moderate,B.Com,Yes,0,1,No,No
+Female,50,Working Professional,Content Writer,,4.0,,,2.0,5-6 hours,Unhealthy,M.Ed,Yes,7,5,No,No
+Male,28,Student,,2.0,,6.51,4.0,,7-8 hours,Moderate,BA,Yes,9,2,Yes,No
+Female,29,Student,,3.0,,9.6,4.0,,More than 8 hours,Moderate,M.Com,Yes,6,5,No,Yes
+Female,57,Working Professional,Lawyer,,2.0,,,4.0,More than 8 hours,Moderate,LLB,No,7,4,Yes,No
+Male,55,Working Professional,Chemist,,3.0,,,2.0,7-8 hours,Healthy,B.Pharm,Yes,11,2,No,No
+Male,39,Working Professional,Architect,,2.0,,,5.0,5-6 hours,Healthy,MCA,No,5,2,Yes,No
+Female,52,Working Professional,Pharmacist,,1.0,,,5.0,5-6 hours,Unhealthy,M.Pharm,Yes,10,4,Yes,No
+Female,19,Working Professional,,,2.0,,,5.0,5-6 hours,Healthy,Class 12,No,4,2,No,No
+Female,34,Working Professional,Teacher,,2.0,,,2.0,5-6 hours,Unhealthy,M.Pharm,Yes,2,5,Yes,Yes
+Male,58,Working Professional,Civil Engineer,,3.0,,,5.0,5-6 hours,Unhealthy,PhD,No,7,1,Yes,No
+Male,30,Student,,3.0,,8.19,1.0,,7-8 hours,Moderate,PhD,No,10,1,No,No
+Male,33,Student,,1.0,,6.74,2.0,,Less than 5 hours,Healthy,B.Ed,No,1,3,No,No
+Male,20,Student,,2.0,,6.99,3.0,,More than 8 hours,Unhealthy,Class 12,No,0,3,Yes,No
+Female,44,Working Professional,Travel Consultant,,2.0,,,2.0,Less than 5 hours,Healthy,BHM,Yes,9,4,Yes,No
+Male,19,Working Professional,,,3.0,,,2.0,More than 8 hours,Unhealthy,Class 12,Yes,4,2,No,Yes
+Female,30,Student,,3.0,,8.92,4.0,,5-6 hours,Healthy,MSc,Yes,4,3,Yes,No
+Female,45,Working Professional,Teacher,,5.0,,,3.0,7-8 hours,Unhealthy,B.Ed,Yes,10,5,Yes,Yes
+Female,35,Working Professional,Sales Executive,,4.0,,,3.0,Less than 5 hours,Unhealthy,M.Com,Yes,1,3,Yes,No
+Female,50,Working Professional,Graphic Designer,,4.0,,,2.0,5-6 hours,Moderate,MCA,No,2,4,No,No
+Male,26,Working Professional,Chemist,,3.0,,,3.0,More than 8 hours,Healthy,MD,No,3,1,No,No
+Female,20,Student,,4.0,,9.5,5.0,,More than 8 hours,Healthy,Class 12,Yes,6,4,Yes,Yes
+Female,58,Working Professional,Researcher,,5.0,,,3.0,More than 8 hours,Healthy,ME,No,4,4,Yes,No
+Male,44,Working Professional,Content Writer,,3.0,,,1.0,More than 8 hours,Healthy,M.Ed,No,9,2,Yes,No
+Male,59,Working Professional,Chef,,5.0,,,5.0,5-6 hours,Healthy,MHM,No,6,3,Yes,No
+Male,18,Student,,3.0,,8.65,3.0,,7-8 hours,Moderate,Class 12,No,6,3,No,No
+Male,56,Working Professional,Researcher,,4.0,,,3.0,Less than 5 hours,Healthy,MCA,Yes,10,4,Yes,No
+Male,34,Student,,3.0,,5.12,5.0,,7-8 hours,Moderate,LLM,Yes,4,5,No,No
+Female,54,Working Professional,Electrician,,5.0,,,1.0,7-8 hours,Moderate,MSc,Yes,0,2,Yes,No
+Female,39,Working Professional,Chef,,2.0,,,5.0,5-6 hours,Healthy,BHM,No,6,5,No,No
+Female,40,Working Professional,UX/UI Designer,,1.0,,,5.0,5-6 hours,Unhealthy,M.Tech,No,10,3,No,No
+Female,44,Working Professional,Teacher,,4.0,,,3.0,Less than 5 hours,Healthy,B.Ed,No,11,2,No,No
+Male,58,Working Professional,Content Writer,,2.0,,,4.0,5-6 hours,Healthy,M.Ed,No,7,3,No,No
+Female,40,Working Professional,Finanancial Analyst,,2.0,,,1.0,7-8 hours,Healthy,B.Tech,No,0,3,No,No
+Male,54,Working Professional,Teacher,,2.0,,,3.0,5-6 hours,Healthy,M.Ed,No,3,5,No,No
+Female,31,Student,,1.0,,7.64,3.0,,5-6 hours,Moderate,LLB,No,8,1,Yes,No
+Female,24,Student,,1.0,,7.15,2.0,,5-6 hours,Moderate,B.Arch,Yes,9,5,No,Yes
+Female,42,Working Professional,Finanancial Analyst,,2.0,,,2.0,7-8 hours,Unhealthy,MCA,No,12,5,No,No
+Female,58,Working Professional,Graphic Designer,,2.0,,,1.0,More than 8 hours,Unhealthy,MCA,Yes,8,2,Yes,No
+Female,59,Working Professional,Educational Consultant,,5.0,,,3.0,7-8 hours,Unhealthy,B.Ed,Yes,8,4,No,No
+Female,53,Working Professional,Business Analyst,,3.0,,,3.0,More than 8 hours,Healthy,MSc,No,5,5,Yes,No
+Male,47,Working Professional,Content Writer,,1.0,,,3.0,More than 8 hours,Healthy,MSc,Yes,3,4,Yes,No
+Female,60,Working Professional,Content Writer,,4.0,,,3.0,7-8 hours,Moderate,B.Ed,No,2,2,No,No
+Male,24,Working Professional,Plumber,,5.0,,,4.0,More than 8 hours,Moderate,BCA,No,9,2,Yes,No
+Male,52,Working Professional,Chef,,4.0,,,1.0,7-8 hours,Moderate,BHM,Yes,5,2,No,No
+Male,25,Working Professional,Customer Support,,3.0,,,2.0,5-6 hours,Unhealthy,MA,No,0,2,No,No
+Female,48,Working Professional,Entrepreneur,,5.0,,,1.0,5-6 hours,Healthy,ME,Yes,5,1,Yes,No
+Male,43,Working Professional,Educational Consultant,,5.0,,,4.0,5-6 hours,Unhealthy,B.Ed,Yes,0,4,Yes,No
+Male,26,Working Professional,Architect,,1.0,,,1.0,Less than 5 hours,Moderate,PhD,Yes,4,1,Yes,No
+Male,56,Working Professional,Teacher,,2.0,,,1.0,More than 8 hours,Unhealthy,BCA,Yes,3,2,No,No
+Male,23,Working Professional,Entrepreneur,,3.0,,,3.0,7-8 hours,Unhealthy,B.Tech,Yes,9,5,No,Yes
+Female,39,Working Professional,HR Manager,,4.0,,,4.0,5-6 hours,Unhealthy,BBA,Yes,1,4,No,No
+Female,49,Working Professional,Financial Analyst,,1.0,,,4.0,More than 8 hours,Healthy,M.Com,No,9,1,No,No
+Female,23,Student,,3.0,,8.46,5.0,,5-6 hours,Healthy,MBA,No,1,5,Yes,No
+Male,54,Working Professional,Pilot,,1.0,,,1.0,5-6 hours,Moderate,BE,No,3,3,No,No
+Male,33,Student,,4.0,,9.94,1.0,,Less than 5 hours,Moderate,PhD,No,4,5,No,Yes
+Female,35,Working Professional,Chemist,,2.0,,,5.0,Less than 5 hours,Moderate,B.Pharm,Yes,10,1,No,No
+Male,25,Working Professional,Business Analyst,,3.0,,,5.0,5-6 hours,Unhealthy,BBA,No,8,5,No,No
+Male,45,Working Professional,Marketing Manager,,4.0,,,1.0,5-6 hours,Healthy,B.Com,No,10,5,Yes,No
+Male,32,Working Professional,Finanancial Analyst,,3.0,,,4.0,More than 8 hours,Unhealthy,MSc,Yes,1,4,Yes,No
+Female,36,Working Professional,Chemist,,2.0,,,2.0,5-6 hours,Unhealthy,MD,No,3,3,No,No
+Female,39,Working Professional,Plumber,,5.0,,,2.0,Less than 5 hours,Healthy,BE,No,0,2,Yes,No
+Female,25,Working Professional,Teacher,,1.0,,,1.0,7-8 hours,Unhealthy,M.Pharm,No,2,5,Yes,No
+Male,20,Student,,4.0,,8.69,3.0,,7-8 hours,Healthy,Class 12,No,11,2,Yes,Yes
+Female,32,Student,,5.0,,6.27,4.0,,Less than 5 hours,Unhealthy,BE,Yes,0,3,Yes,Yes
+Male,46,Working Professional,Content Writer,,5.0,,,3.0,More than 8 hours,Moderate,M.Ed,Yes,0,4,No,No
+Male,48,Working Professional,Entrepreneur,,5.0,,,5.0,5-6 hours,Moderate,BCA,No,1,3,Yes,No
+Male,47,Working Professional,Customer Support,,5.0,,,1.0,Less than 5 hours,Healthy,M.Com,Yes,5,4,No,No
+Male,55,Working Professional,Architect,,5.0,,,3.0,Less than 5 hours,Unhealthy,B.Arch,Yes,8,5,Yes,No
+Male,37,Working Professional,Business Analyst,,2.0,,,5.0,5-6 hours,Healthy,M.Tech,No,3,1,Yes,No
+Female,28,Working Professional,Chef,,3.0,,,1.0,Less than 5 hours,Healthy,BHM,Yes,7,2,No,Yes
+Male,18,Working Professional,,,4.0,,,1.0,5-6 hours,Healthy,Class 12,Yes,4,1,No,Yes
+Female,51,Working Professional,Entrepreneur,,2.0,,,2.0,Less than 5 hours,Moderate,MSc,Yes,1,1,Yes,No
+Male,24,Working Professional,Graphic Designer,,4.0,,,3.0,5-6 hours,Unhealthy,M.Tech,No,10,5,Yes,Yes
+Male,26,Student,,4.0,,5.16,3.0,,5-6 hours,Moderate,M.Pharm,Yes,6,3,Yes,Yes
+Male,54,Working Professional,Customer Support,,4.0,,,2.0,Less than 5 hours,Healthy,B.Com,No,12,2,No,No
+Male,39,Working Professional,HR Manager,,5.0,,,1.0,Less than 5 hours,Unhealthy,BA,No,4,3,Yes,No
+Female,39,Working Professional,Architect,,5.0,,,5.0,5-6 hours,Unhealthy,B.Arch,No,1,3,No,No
+Male,54,Working Professional,Educational Consultant,,3.0,,,3.0,5-6 hours,Unhealthy,B.Ed,Yes,9,1,No,No
+Female,27,Working Professional,Graphic Designer,,4.0,,,2.0,Less than 5 hours,Unhealthy,MSc,No,2,5,Yes,Yes
+Female,33,Working Professional,Architect,,2.0,,,4.0,More than 8 hours,Moderate,B.Arch,Yes,12,5,Yes,No
+Male,39,Working Professional,Digital Marketer,,2.0,,,1.0,5-6 hours,Healthy,B.Com,Yes,4,4,No,No
+Male,24,Student,,1.0,,6.04,2.0,,More than 8 hours,Unhealthy,B.Arch,Yes,0,2,Yes,No
+Male,22,Working Professional,Researcher,,1.0,,,4.0,More than 8 hours,Healthy,BE,No,2,1,Yes,No
+Female,57,Working Professional,Teacher,,5.0,,,2.0,More than 8 hours,Unhealthy,BA,No,12,3,No,No
+Male,38,Working Professional,Manager,,4.0,,,2.0,5-6 hours,Moderate,MHM,Yes,9,3,Yes,Yes
+Male,33,Working Professional,Judge,,4.0,,,3.0,5-6 hours,Moderate,LLM,No,8,2,No,No
+Female,29,Student,,5.0,,8.9,3.0,,7-8 hours,Moderate,BE,No,12,5,No,Yes
+Female,37,Working Professional,Electrician,,1.0,,,4.0,7-8 hours,Healthy,ME,Yes,11,2,No,No
+Male,26,Working Professional,Software Engineer,,3.0,,,3.0,Less than 5 hours,Healthy,PhD,Yes,2,1,Yes,No
+Female,51,Working Professional,HR Manager,,1.0,,,1.0,5-6 hours,Moderate,BSc,No,6,5,No,No
+Female,56,Working Professional,Customer Support,,4.0,,,5.0,Less than 5 hours,Healthy,BA,Yes,7,3,No,No
+Female,22,Working Professional,,,2.0,,,4.0,Less than 5 hours,Healthy,Class 12,Yes,4,2,Yes,No
+Female,25,Student,,3.0,,9.05,5.0,,7-8 hours,Unhealthy,B.Arch,No,9,5,No,No
+Male,56,Working Professional,Finanancial Analyst,,5.0,,,3.0,More than 8 hours,Moderate,M.Tech,No,5,2,No,No
+Male,39,Working Professional,Entrepreneur,,4.0,,,5.0,5-6 hours,Unhealthy,MBA,No,9,2,No,No
+Male,38,Working Professional,Travel Consultant,,3.0,,,4.0,7-8 hours,Healthy,MHM,No,0,2,No,No
+Female,20,Student,,3.0,,6.36,2.0,,5-6 hours,Unhealthy,Class 12,Yes,10,5,No,Yes
+Female,43,Working Professional,Manager,,3.0,,,2.0,5-6 hours,Healthy,MHM,No,8,1,Yes,No
+Male,34,Student,,2.0,,7.1,3.0,,5-6 hours,Moderate,Class 12,No,12,2,No,No
+Female,54,Working Professional,Marketing Manager,,2.0,,,2.0,More than 8 hours,Healthy,BA,Yes,0,4,Yes,No
+Male,44,Working Professional,Accountant,,2.0,,,3.0,Less than 5 hours,Healthy,B.Com,No,10,5,Yes,No
+Male,45,Working Professional,Content Writer,,4.0,,,2.0,Less than 5 hours,Unhealthy,BA,No,4,4,Yes,No
+Female,45,Working Professional,Teacher,,2.0,,,1.0,7-8 hours,Unhealthy,MBBS,No,9,4,Yes,No
+Female,50,Working Professional,Finanancial Analyst,,1.0,,,4.0,Less than 5 hours,Moderate,BSc,Yes,9,1,No,No
+Female,28,Working Professional,Business Analyst,,4.0,,,2.0,Less than 5 hours,Unhealthy,B.Com,Yes,4,4,No,Yes
+Male,51,Working Professional,Mechanical Engineer,,1.0,,,5.0,5-6 hours,Unhealthy,MSc,Yes,6,5,Yes,No
+Male,38,Working Professional,,,3.0,,,2.0,7-8 hours,Moderate,Class 12,No,5,2,No,No
+Male,21,Working Professional,Researcher,,1.0,,,2.0,More than 8 hours,Unhealthy,BE,No,3,4,Yes,No
+Male,47,Working Professional,UX/UI Designer,,4.0,,,1.0,5-6 hours,Moderate,M.Tech,No,10,4,Yes,No
+Male,22,Working Professional,Financial Analyst,,1.0,,,5.0,More than 8 hours,Healthy,MBA,Yes,5,5,No,No
+Male,27,Student,,5.0,,5.84,2.0,,7-8 hours,Healthy,B.Tech,Yes,8,1,No,Yes
+Female,27,Working Professional,Finanancial Analyst,,4.0,,,5.0,More than 8 hours,Unhealthy,BCA,Yes,10,2,No,No
+Male,50,Working Professional,Researcher,,5.0,,,4.0,More than 8 hours,Moderate,B.Tech,No,0,1,No,No
+Female,35,Working Professional,Teacher,,2.0,,,5.0,7-8 hours,Unhealthy,B.Pharm,Yes,4,1,Yes,No
+Male,21,Working Professional,,,2.0,,,5.0,Less than 5 hours,Moderate,Class 12,No,6,1,Yes,No
+Male,40,Working Professional,Chef,,5.0,,,4.0,5-6 hours,Unhealthy,BHM,No,7,5,No,No
+Male,52,Working Professional,Accountant,,1.0,,,3.0,7-8 hours,Unhealthy,B.Com,Yes,5,1,No,No
+Female,59,Working Professional,Digital Marketer,,5.0,,,5.0,More than 8 hours,Unhealthy,MA,No,9,1,Yes,No
+Male,40,Working Professional,Graphic Designer,,3.0,,,1.0,Less than 5 hours,Healthy,MCA,No,11,4,No,No
+Male,55,Working Professional,Pilot,,4.0,,,1.0,More than 8 hours,Unhealthy,BE,No,12,5,Yes,No
+Male,20,Student,,4.0,,8.42,1.0,,Less than 5 hours,Unhealthy,Class 12,No,4,4,Yes,Yes
+Male,29,Working Professional,Electrician,,3.0,,,1.0,Less than 5 hours,Healthy,BSc,Yes,11,1,Yes,Yes
+Male,20,Working Professional,,,3.0,,,5.0,Less than 5 hours,Moderate,Class 12,No,4,4,Yes,No
+Male,41,Working Professional,Architect,,1.0,,,2.0,5-6 hours,Moderate,BE,No,10,1,No,No
+Male,32,Student,,3.0,,8.46,4.0,,Less than 5 hours,Healthy,BCA,Yes,7,1,No,No
+Female,57,Working Professional,Software Engineer,,1.0,,,3.0,7-8 hours,Moderate,MSc,No,11,4,Yes,No
+Male,19,Student,,5.0,,7.77,3.0,,7-8 hours,Healthy,Class 12,Yes,5,2,Yes,Yes
+Male,35,Working Professional,Content Writer,,3.0,,,2.0,7-8 hours,Healthy,M.Ed,Yes,11,1,No,No
+Male,50,Working Professional,Finanancial Analyst,,2.0,,,5.0,7-8 hours,Unhealthy,MCA,Yes,1,2,No,No
+Male,55,Working Professional,Architect,,3.0,,,3.0,More than 8 hours,Unhealthy,ME,Yes,9,5,Yes,No
+Male,18,Working Professional,,,3.0,,,1.0,More than 8 hours,Unhealthy,Class 12,Yes,7,3,No,Yes
+Female,43,Working Professional,Lawyer,,3.0,,,3.0,More than 8 hours,Unhealthy,LLM,No,4,4,No,No
+Female,46,Working Professional,Content Writer,,1.0,,,4.0,7-8 hours,Moderate,M.Tech,No,9,2,Yes,No
+Female,50,Working Professional,Chef,,4.0,,,5.0,More than 8 hours,Healthy,BHM,Yes,6,4,No,No
+Male,44,Working Professional,Content Writer,,3.0,,,1.0,More than 8 hours,Unhealthy,M.Ed,Yes,8,3,Yes,No
+Male,56,Working Professional,Teacher,,5.0,,,5.0,7-8 hours,Healthy,LLB,No,1,4,Yes,No
+Female,42,Working Professional,Content Writer,,4.0,,,1.0,5-6 hours,Healthy,MA,Yes,9,2,Yes,No
+Male,47,Working Professional,Lawyer,,1.0,,,1.0,Less than 5 hours,Healthy,LLM,No,1,3,No,No
+Male,20,Student,,2.0,,5.51,3.0,,More than 8 hours,Unhealthy,Class 12,No,3,1,No,No
+Male,57,Working Professional,Entrepreneur,,1.0,,,3.0,Less than 5 hours,Healthy,BBA,No,4,1,No,No
+Female,53,Working Professional,Business Analyst,,3.0,,,4.0,7-8 hours,Healthy,BSc,Yes,6,3,Yes,No
+Male,55,Working Professional,Chef,,3.0,,,3.0,5-6 hours,Unhealthy,MHM,No,6,1,Yes,No
+Female,33,Working Professional,Content Writer,,3.0,,,2.0,5-6 hours,Moderate,M.Ed,Yes,9,3,No,No
+Female,50,Working Professional,Manager,,4.0,,,3.0,5-6 hours,Healthy,BHM,Yes,9,4,Yes,No
+Female,32,Working Professional,Content Writer,,1.0,,,5.0,Less than 5 hours,Moderate,M.Ed,No,10,2,Yes,No
+Male,54,Working Professional,HR Manager,,3.0,,,3.0,7-8 hours,Healthy,MA,No,2,5,No,No
+Female,25,Working Professional,Business Analyst,,1.0,,,3.0,Less than 5 hours,Moderate,PhD,Yes,9,3,Yes,Yes
+Female,56,Working Professional,,,2.0,,,3.0,Less than 5 hours,Moderate,Class 12,Yes,9,4,No,No
+Female,28,Student,,5.0,,8.81,2.0,,Less than 5 hours,Unhealthy,BSc,Yes,4,1,No,Yes
+Male,44,Working Professional,Content Writer,,2.0,,,4.0,7-8 hours,Unhealthy,PhD,No,6,2,Yes,No
+Female,25,Working Professional,Lawyer,,3.0,,,5.0,Less than 5 hours,Healthy,LLM,No,0,2,Yes,No
+Male,56,Working Professional,Content Writer,,3.0,,,5.0,5-6 hours,Unhealthy,BCA,No,11,2,Yes,No
+Female,57,Working Professional,Investment Banker,,5.0,,,5.0,More than 8 hours,Healthy,MBA,No,3,1,No,No
+Female,57,Working Professional,Marketing Manager,,5.0,,,3.0,7-8 hours,Healthy,BA,No,7,3,No,No
+Male,41,Working Professional,Teacher,,1.0,,,1.0,5-6 hours,Unhealthy,MBBS,No,5,2,Yes,No
+Male,52,Working Professional,Teacher,,1.0,,,5.0,Less than 5 hours,Moderate,B.Ed,No,5,4,Yes,No
+Male,24,Working Professional,Educational Consultant,,2.0,,,5.0,7-8 hours,Unhealthy,B.Ed,No,1,2,No,No
+Male,42,Working Professional,Researcher,,4.0,,,4.0,More than 8 hours,Unhealthy,M.Tech,No,9,1,No,No
+Female,41,Working Professional,Plumber,,5.0,,,5.0,More than 8 hours,Healthy,PhD,No,0,2,No,No
+Male,48,Working Professional,Teacher,,4.0,,,1.0,7-8 hours,Unhealthy,M.Pharm,No,12,3,No,No
+Female,22,Student,,2.0,,8.04,5.0,,More than 8 hours,Unhealthy,BCA,Yes,7,5,No,Yes
+Male,23,Working Professional,Judge,,3.0,,,5.0,More than 8 hours,Healthy,LLB,Yes,10,1,No,No
+Male,19,Working Professional,,,1.0,,,2.0,More than 8 hours,Unhealthy,Class 12,No,7,4,No,No
+Female,59,Working Professional,Researcher,,1.0,,,5.0,Less than 5 hours,Moderate,BSc,Yes,6,1,Yes,No
+Female,55,Working Professional,Accountant,,4.0,,,4.0,5-6 hours,Moderate,M.Com,Yes,2,3,No,No
+Male,24,Working Professional,Architect,,1.0,,,5.0,7-8 hours,Unhealthy,B.Arch,No,2,3,No,No
+Female,59,Working Professional,Consultant,,4.0,,,1.0,5-6 hours,Moderate,MSc,Yes,11,4,Yes,No
+Female,19,Student,,2.0,,5.75,5.0,,More than 8 hours,Moderate,Class 12,No,1,3,Yes,No
+Male,57,Working Professional,UX/UI Designer,,4.0,,,3.0,More than 8 hours,Moderate,BSc,Yes,12,4,Yes,No
+Male,26,Student,,4.0,,8.54,3.0,,7-8 hours,Healthy,BA,No,5,4,Yes,No
+Male,55,Working Professional,HR Manager,,4.0,,,4.0,More than 8 hours,Healthy,PhD,Yes,8,1,No,No
+Female,30,Student,,5.0,,7.94,2.0,,7-8 hours,Moderate,BA,Yes,9,2,No,Yes
+Female,35,Working Professional,Financial Analyst,,3.0,,,4.0,Less than 5 hours,Healthy,B.Com,No,10,3,No,No
+Female,34,Working Professional,Teacher,,2.0,,,1.0,5-6 hours,Unhealthy,B.Pharm,Yes,1,1,Yes,No
+Male,20,Working Professional,,,3.0,,,1.0,Less than 5 hours,Unhealthy,Class 12,No,6,4,Yes,Yes
+Female,30,Student,,2.0,,5.27,3.0,,Less than 5 hours,Unhealthy,BHM,No,2,1,No,No
+Male,55,Working Professional,Teacher,,4.0,,,1.0,5-6 hours,Unhealthy,B.Com,No,6,2,Yes,No
+Female,49,Working Professional,Manager,,5.0,,,4.0,5-6 hours,Healthy,BHM,No,1,2,Yes,No
+Female,45,Working Professional,Electrician,,5.0,,,4.0,7-8 hours,Moderate,BCA,Yes,11,2,Yes,No
+Male,30,Student,,3.0,,6.41,3.0,,5-6 hours,Moderate,MD,No,4,4,Yes,No
+Female,36,Working Professional,Chef,,5.0,,,4.0,Less than 5 hours,Healthy,MHM,Yes,2,3,Yes,No
+Male,19,Working Professional,,,2.0,,,4.0,Less than 5 hours,Unhealthy,Class 12,No,7,4,No,No
+Female,30,Student,,5.0,,7.52,3.0,,More than 8 hours,Moderate,MSc,Yes,6,2,No,Yes
+Female,36,Working Professional,,,3.0,,,5.0,Less than 5 hours,Unhealthy,Class 12,Yes,2,4,No,No
+Female,41,Working Professional,HR Manager,,4.0,,,3.0,7-8 hours,Healthy,MCA,No,8,5,Yes,No
+Male,24,Student,,4.0,,7.61,5.0,,7-8 hours,Moderate,LLB,No,4,1,No,No
+Female,56,Working Professional,Researcher,,1.0,,,3.0,More than 8 hours,Healthy,PhD,No,5,1,No,No
+Male,31,Student,,2.0,,9.92,2.0,,7-8 hours,Healthy,MA,No,2,4,Yes,No
+Female,24,Student,,4.0,,5.64,4.0,,Less than 5 hours,Healthy,BBA,Yes,11,2,No,Yes
+Female,45,Working Professional,Chemist,,5.0,,,4.0,7-8 hours,Moderate,B.Pharm,Yes,0,5,No,No
+Male,38,Working Professional,,,4.0,,,5.0,5-6 hours,Moderate,Class 12,Yes,8,2,Yes,No
+Female,46,Working Professional,Teacher,,2.0,,,5.0,More than 8 hours,Moderate,LLM,No,7,2,No,No
+Male,35,Working Professional,,,5.0,,,2.0,5-6 hours,Moderate,Class 12,No,3,5,Yes,No
+Female,38,Working Professional,Chemist,,4.0,,,3.0,Less than 5 hours,Unhealthy,M.Pharm,Yes,3,2,No,No
+Male,44,Working Professional,Marketing Manager,,5.0,,,3.0,Less than 5 hours,Healthy,BA,No,0,4,Yes,No
+Female,41,Working Professional,Pharmacist,,2.0,,,2.0,5-6 hours,Moderate,B.Pharm,No,3,3,Yes,No
+Female,60,Working Professional,Doctor,,1.0,,,3.0,Less than 5 hours,Healthy,MBBS,Yes,11,3,Yes,No
+Male,33,Student,,3.0,,9.85,4.0,,More than 8 hours,Unhealthy,M.Pharm,Yes,9,1,Yes,No
+Male,29,Working Professional,Lawyer,,2.0,,,3.0,5-6 hours,Healthy,LLB,Yes,10,4,Yes,Yes
+Male,28,Student,,5.0,,8.17,3.0,,Less than 5 hours,Healthy,BE,No,1,2,No,No
+Male,47,Working Professional,Pharmacist,,2.0,,,1.0,7-8 hours,Moderate,B.Pharm,Yes,9,1,Yes,No
+Male,36,Working Professional,Educational Consultant,,2.0,,,4.0,Less than 5 hours,Unhealthy,M.Ed,No,10,4,No,No
+Male,47,Working Professional,Teacher,,5.0,,,1.0,Less than 5 hours,Unhealthy,MBBS,Yes,11,5,Yes,Yes
+Female,20,Student,,3.0,,5.8,4.0,,Less than 5 hours,Moderate,Class 12,No,12,3,Yes,Yes
+Male,50,Working Professional,Investment Banker,,3.0,,,2.0,7-8 hours,Unhealthy,BBA,Yes,8,1,No,No
+Female,59,Working Professional,Content Writer,,1.0,,,4.0,Less than 5 hours,Unhealthy,MCA,No,6,1,Yes,No
+Female,49,Working Professional,Architect,,3.0,,,2.0,5-6 hours,Moderate,BE,No,0,1,No,No
+Male,58,Working Professional,Teacher,,3.0,,,5.0,5-6 hours,Unhealthy,ME,No,6,1,Yes,No
+Female,53,Working Professional,Chef,,1.0,,,1.0,More than 8 hours,Healthy,BHM,No,11,3,Yes,No
+Male,39,Working Professional,Chemist,,5.0,,,5.0,5-6 hours,Unhealthy,M.Pharm,No,8,2,Yes,No
+Female,20,Working Professional,,,5.0,,,2.0,More than 8 hours,Moderate,Class 12,Yes,0,2,No,Yes
+Male,18,Working Professional,,,1.0,,,4.0,More than 8 hours,Unhealthy,Class 12,Yes,2,4,Yes,No
+Male,29,Student,,1.0,,9.44,5.0,,More than 8 hours,Unhealthy,M.Com,No,2,1,No,No
+Female,20,Student,,3.0,,5.08,4.0,,7-8 hours,Healthy,Class 12,Yes,11,4,No,Yes
+Male,25,Working Professional,Mechanical Engineer,,4.0,,,3.0,More than 8 hours,Unhealthy,M.Tech,No,1,3,No,No
+Male,48,Working Professional,Doctor,,4.0,,,2.0,7-8 hours,Moderate,MBBS,Yes,11,2,Yes,No
+Male,57,Working Professional,Pilot,,1.0,,,1.0,7-8 hours,Moderate,BCA,No,1,3,No,No
+Female,57,Working Professional,Travel Consultant,,4.0,,,3.0,More than 8 hours,Healthy,BHM,Yes,12,1,Yes,No
+Male,47,Working Professional,Plumber,,1.0,,,5.0,7-8 hours,Healthy,MSc,Yes,6,4,Yes,No
+Female,30,Student,,2.0,,6.51,3.0,,7-8 hours,Unhealthy,MCA,Yes,2,3,No,No
+Female,46,Working Professional,Pilot,,3.0,,,2.0,5-6 hours,Healthy,PhD,No,4,5,No,No
+Female,58,Working Professional,Chef,,3.0,,,2.0,7-8 hours,Unhealthy,MHM,No,1,1,No,No
+Male,29,Student,,2.0,,9.56,5.0,,7-8 hours,Healthy,MA,No,11,1,No,No
+Female,26,Working Professional,Customer Support,,5.0,,,4.0,7-8 hours,Healthy,BA,No,7,4,Yes,No
+Male,54,Working Professional,Pilot,,3.0,,,2.0,7-8 hours,Healthy,M.Tech,No,11,4,No,No
+Male,33,Working Professional,Judge,,2.0,,,5.0,7-8 hours,Moderate,LLB,Yes,2,4,Yes,No
+Female,55,Working Professional,Electrician,,3.0,,,4.0,More than 8 hours,Unhealthy,B.Tech,No,3,5,Yes,No
+Female,43,Working Professional,Pharmacist,,1.0,,,3.0,7-8 hours,Moderate,M.Pharm,No,6,3,No,No
+Female,34,Student,,2.0,,9.43,5.0,,Less than 5 hours,Moderate,M.Tech,Yes,1,1,Yes,No
+Female,38,Working Professional,Consultant,,2.0,,,5.0,Less than 5 hours,Unhealthy,MSc,Yes,7,5,No,No
+Female,49,Working Professional,HR Manager,,2.0,,,5.0,More than 8 hours,Healthy,MA,Yes,1,2,Yes,No
+Male,26,Student,,4.0,,5.35,4.0,,5-6 hours,Unhealthy,Class 12,No,9,1,Yes,No
+Female,50,Working Professional,,,1.0,,,4.0,5-6 hours,Unhealthy,Class 12,Yes,10,4,Yes,No
+Male,31,Working Professional,Financial Analyst,,3.0,,,2.0,More than 8 hours,Moderate,BBA,Yes,1,5,Yes,Yes
+Female,47,Working Professional,Lawyer,,3.0,,,3.0,More than 8 hours,Moderate,LLM,No,0,1,Yes,No
+Female,39,Working Professional,Civil Engineer,,5.0,,,1.0,Less than 5 hours,Moderate,MCA,Yes,10,4,No,Yes
+Female,53,Working Professional,Researcher,,4.0,,,1.0,7-8 hours,Healthy,MSc,Yes,7,5,Yes,No
+Male,25,Student,,5.0,,7.38,2.0,,Less than 5 hours,Healthy,MA,No,9,1,Yes,Yes
+Male,46,Working Professional,Educational Consultant,,1.0,,,1.0,7-8 hours,Unhealthy,B.Ed,Yes,10,1,No,No
+Male,46,Working Professional,Architect,,4.0,,,1.0,Less than 5 hours,Moderate,MCA,Yes,5,5,Yes,Yes
+Male,43,Working Professional,Teacher,,5.0,,,3.0,Less than 5 hours,Moderate,B.Ed,No,1,4,No,No
+Female,47,Working Professional,Consultant,,3.0,,,5.0,5-6 hours,Healthy,B.Com,Yes,10,4,No,No
+Female,18,Working Professional,,,5.0,,,5.0,Less than 5 hours,Healthy,Class 12,No,6,5,Yes,Yes
+Female,20,Student,,2.0,,9.47,5.0,,More than 8 hours,Unhealthy,Class 12,Yes,4,2,No,No
+Female,24,Student,,1.0,,7.9,3.0,,5-6 hours,Moderate,MBBS,No,3,5,No,No
+Male,39,Working Professional,Electrician,,4.0,,,3.0,5-6 hours,Unhealthy,MSc,No,10,2,No,No
+Male,34,Working Professional,Business Analyst,,1.0,,,5.0,7-8 hours,Healthy,MBA,No,9,2,No,No
+Female,51,Working Professional,Sales Executive,,2.0,,,3.0,7-8 hours,Unhealthy,BBA,Yes,10,2,Yes,No
+Female,54,Working Professional,Architect,,3.0,,,2.0,5-6 hours,Healthy,B.Arch,Yes,6,2,Yes,No
+Female,44,Working Professional,HR Manager,,3.0,,,2.0,7-8 hours,Healthy,BBA,No,2,2,Yes,No
+Male,38,Working Professional,Software Engineer,,4.0,,,1.0,7-8 hours,Moderate,BSc,No,2,3,Yes,No
+Male,28,Student,,5.0,,9.72,1.0,,Less than 5 hours,Unhealthy,M.Ed,No,12,3,No,Yes
+Male,36,Working Professional,Business Analyst,,1.0,,,2.0,Less than 5 hours,Healthy,M.Com,No,5,1,Yes,No
+Male,56,Working Professional,Architect,,3.0,,,5.0,7-8 hours,Moderate,B.Arch,No,8,5,No,No
+Female,42,Working Professional,Teacher,,2.0,,,3.0,Less than 5 hours,Moderate,B.Arch,No,0,4,No,No
+Female,42,Working Professional,Data Scientist,,5.0,,,4.0,5-6 hours,Healthy,B.Tech,No,1,4,Yes,No
+Male,57,Working Professional,Business Analyst,,2.0,,,1.0,More than 8 hours,Healthy,BBA,No,2,5,Yes,No
+Female,49,Working Professional,Educational Consultant,,3.0,,,2.0,7-8 hours,Healthy,B.Ed,No,3,3,No,No
+Male,26,Working Professional,Teacher,,2.0,,,2.0,More than 8 hours,Healthy,B.Pharm,No,5,1,Yes,No
+Male,59,Working Professional,Consultant,,5.0,,,1.0,7-8 hours,Unhealthy,MSc,Yes,11,5,Yes,No
+Male,48,Working Professional,Chemist,,4.0,,,3.0,Less than 5 hours,Unhealthy,MD,No,12,3,No,No
+Male,26,Student,,1.0,,9.24,2.0,,Less than 5 hours,Moderate,BBA,No,7,5,Yes,No
+Male,34,Working Professional,Entrepreneur,,1.0,,,4.0,7-8 hours,Healthy,BCA,No,3,4,No,No
+Female,19,Working Professional,,,1.0,,,2.0,5-6 hours,Moderate,Class 12,Yes,6,5,No,Yes
+Male,58,Working Professional,Mechanical Engineer,,2.0,,,4.0,More than 8 hours,Healthy,MCA,No,12,3,Yes,No
+Male,46,Working Professional,Content Writer,,2.0,,,4.0,More than 8 hours,Moderate,B.Ed,No,3,5,Yes,No
+Female,44,Working Professional,Teacher,,3.0,,,5.0,7-8 hours,Healthy,MD,Yes,1,2,Yes,No
+Female,18,Working Professional,,,4.0,,,2.0,Less than 5 hours,Unhealthy,Class 12,Yes,7,1,Yes,Yes
+Male,38,Working Professional,Researcher,,3.0,,,2.0,More than 8 hours,Unhealthy,BSc,Yes,2,3,No,No
+Male,37,Working Professional,HR Manager,,4.0,,,3.0,Less than 5 hours,Healthy,PhD,No,8,1,Yes,No
+Female,60,Working Professional,Civil Engineer,,1.0,,,4.0,7-8 hours,Unhealthy,MCA,Yes,12,3,Yes,No
+Male,28,Working Professional,HR Manager,,4.0,,,5.0,Less than 5 hours,Healthy,MA,No,5,2,No,No
+Male,18,Working Professional,,,2.0,,,3.0,7-8 hours,Healthy,Class 12,Yes,9,4,Yes,Yes
+Male,24,Working Professional,Graphic Designer,,5.0,,,5.0,7-8 hours,Healthy,BSc,Yes,1,4,Yes,No
+Male,53,Working Professional,Data Scientist,,5.0,,,2.0,Less than 5 hours,Moderate,BCA,No,0,3,Yes,No
+Male,32,Student,,5.0,,8.74,1.0,,Less than 5 hours,Moderate,B.Ed,Yes,3,1,Yes,Yes
+Female,51,Working Professional,Researcher,,5.0,,,5.0,Less than 5 hours,Healthy,PhD,Yes,8,3,No,No
+Male,56,Working Professional,Chef,,2.0,,,5.0,7-8 hours,Healthy,BHM,Yes,3,2,No,No
+Female,43,Working Professional,Pilot,,3.0,,,3.0,Less than 5 hours,Unhealthy,ME,No,11,2,Yes,No
+Female,44,Working Professional,Civil Engineer,,5.0,,,3.0,More than 8 hours,Moderate,BCA,No,10,2,Yes,No
+Male,58,Working Professional,,,2.0,,,3.0,More than 8 hours,Unhealthy,Class 12,Yes,4,5,Yes,No
+Female,45,Working Professional,Teacher,,4.0,,,2.0,Less than 5 hours,Moderate,BSc,No,5,4,No,No
+Female,53,Working Professional,Entrepreneur,,2.0,,,4.0,Less than 5 hours,Moderate,BSc,No,5,1,No,No
+Female,50,Working Professional,Customer Support,,2.0,,,4.0,More than 8 hours,Healthy,MA,Yes,12,1,Yes,No
+Male,55,Working Professional,Teacher,,3.0,,,2.0,Less than 5 hours,Unhealthy,BSc,No,11,4,Yes,No
+Female,39,Working Professional,Business Analyst,,3.0,,,4.0,Less than 5 hours,Unhealthy,MBA,Yes,11,4,No,No
+Female,60,Working Professional,Teacher,,4.0,,,2.0,More than 8 hours,Healthy,MD,No,9,2,No,No
+Female,60,Working Professional,UX/UI Designer,,4.0,,,5.0,More than 8 hours,Unhealthy,MSc,No,11,3,Yes,No
+Female,59,Working Professional,Doctor,,2.0,,,4.0,5-6 hours,Unhealthy,M.Pharm,Yes,9,1,Yes,No
+Female,19,Working Professional,,,3.0,,,3.0,Less than 5 hours,Moderate,Class 12,Yes,9,2,No,Yes
+Male,26,Student,,4.0,,5.24,1.0,,More than 8 hours,Moderate,LLB,Yes,4,5,No,Yes
+Female,53,Working Professional,Chemist,,5.0,,,4.0,7-8 hours,Moderate,B.Pharm,No,11,2,No,No
+Male,41,Working Professional,Business Analyst,,2.0,,,1.0,7-8 hours,Moderate,M.Com,No,11,2,No,No
+Female,38,Working Professional,Electrician,,1.0,,,4.0,Less than 5 hours,Unhealthy,BCA,No,0,2,No,No
+Female,57,Working Professional,Teacher,,1.0,,,5.0,7-8 hours,Moderate,BBA,Yes,5,1,Yes,No
+Male,29,Student,,1.0,,7.06,3.0,,Less than 5 hours,Unhealthy,MBA,Yes,2,3,No,No
+Female,60,Working Professional,Sales Executive,,1.0,,,3.0,5-6 hours,Moderate,BBA,Yes,7,3,No,No
+Female,41,Working Professional,Plumber,,3.0,,,3.0,More than 8 hours,Moderate,ME,No,2,2,Yes,No
+Female,28,Student,,3.0,,7.28,2.0,,Less than 5 hours,Healthy,M.Ed,Yes,10,3,Yes,Yes
+Female,49,Working Professional,Lawyer,,1.0,,,5.0,5-6 hours,Unhealthy,LLM,Yes,10,4,Yes,No
+Female,29,Working Professional,Graphic Designer,,4.0,,,2.0,7-8 hours,Unhealthy,B.Tech,No,11,1,Yes,No
+Male,57,Working Professional,Data Scientist,,4.0,,,3.0,5-6 hours,Healthy,PhD,No,5,4,No,No
+Male,49,Working Professional,Pilot,,1.0,,,5.0,More than 8 hours,Healthy,BE,No,5,5,Yes,No
+Female,30,Student,,3.0,,9.21,5.0,,5-6 hours,Healthy,B.Ed,Yes,10,3,No,No
+Male,18,Working Professional,,,5.0,,,5.0,Less than 5 hours,Moderate,Class 12,Yes,11,1,No,Yes
+Male,38,Working Professional,Data Scientist,,5.0,,,3.0,Less than 5 hours,Moderate,BCA,Yes,4,2,No,No
+Female,43,Working Professional,Software Engineer,,2.0,,,3.0,Less than 5 hours,Unhealthy,BE,Yes,2,5,Yes,No
+Female,18,Working Professional,,,4.0,,,2.0,Less than 5 hours,Moderate,Class 12,No,2,4,Yes,Yes
+Female,19,Student,,1.0,,7.24,5.0,,Less than 5 hours,Moderate,Class 12,No,3,3,Yes,No
+Female,20,Working Professional,,,3.0,,,3.0,Less than 5 hours,Healthy,Class 12,No,8,5,No,No
+Male,20,Student,,2.0,,6.21,5.0,,More than 8 hours,Unhealthy,Class 12,Yes,8,5,Yes,Yes
+Female,30,Student,,3.0,,7.94,3.0,,More than 8 hours,Moderate,B.Ed,Yes,10,1,No,No
+Male,41,Working Professional,Pharmacist,,2.0,,,2.0,7-8 hours,Moderate,MD,No,7,5,No,No
+Male,51,Working Professional,Educational Consultant,,3.0,,,5.0,7-8 hours,Healthy,B.Ed,No,9,3,No,No
+Male,46,Working Professional,Chemist,,5.0,,,2.0,Less than 5 hours,Healthy,M.Pharm,Yes,6,1,Yes,No
+Male,23,Student,,3.0,,9.44,2.0,,5-6 hours,Moderate,MCA,No,8,5,No,Yes
+Male,55,Working Professional,Educational Consultant,,2.0,,,4.0,More than 8 hours,Moderate,M.Ed,No,10,1,Yes,No
+Male,25,Student,,2.0,,8.59,2.0,,More than 8 hours,Moderate,B.Arch,Yes,2,4,No,Yes
+Female,20,Working Professional,,,3.0,,,5.0,Less than 5 hours,Moderate,Class 12,Yes,9,5,No,Yes
+Female,40,Working Professional,Pharmacist,,5.0,,,5.0,5-6 hours,Unhealthy,B.Pharm,Yes,6,1,Yes,No
+Male,59,Working Professional,HR Manager,,2.0,,,2.0,Less than 5 hours,Healthy,MA,Yes,12,5,No,No
+Female,46,Working Professional,Sales Executive,,2.0,,,3.0,5-6 hours,Healthy,MBA,No,5,5,Yes,No
+Female,24,Student,,1.0,,9.74,1.0,,Less than 5 hours,Moderate,B.Arch,No,0,3,Yes,No
+Male,54,Working Professional,Teacher,,5.0,,,3.0,5-6 hours,Unhealthy,MSc,Yes,10,2,No,No
+Female,55,Working Professional,Business Analyst,,2.0,,,4.0,More than 8 hours,Healthy,BBA,No,9,2,Yes,No
+Male,31,Working Professional,,,4.0,,,1.0,Less than 5 hours,Unhealthy,Class 12,Yes,3,4,Yes,Yes
+Male,54,Working Professional,Electrician,,3.0,,,3.0,More than 8 hours,Unhealthy,ME,Yes,10,4,Yes,No
+Female,48,Working Professional,Architect,,1.0,,,2.0,7-8 hours,Moderate,MCA,No,6,5,No,No
+Male,38,Working Professional,Chef,,2.0,,,4.0,More than 8 hours,Moderate,MHM,Yes,9,3,Yes,No
+Male,60,Working Professional,Software Engineer,,1.0,,,5.0,7-8 hours,Moderate,BCA,Yes,4,5,No,No
+Male,21,Working Professional,HR Manager,,2.0,,,5.0,Less than 5 hours,Unhealthy,MBA,No,12,4,No,No
+Female,53,Working Professional,Teacher,,2.0,,,4.0,More than 8 hours,Unhealthy,B.Pharm,No,11,1,Yes,No
+Female,54,Working Professional,Doctor,,1.0,,,4.0,5-6 hours,Healthy,B.Pharm,No,11,2,No,No
+Male,41,Working Professional,Travel Consultant,,4.0,,,2.0,5-6 hours,Moderate,MHM,No,1,3,No,No
+Female,29,Working Professional,Pharmacist,,4.0,,,5.0,More than 8 hours,Moderate,M.Pharm,No,1,3,No,No
+Female,45,Working Professional,HR Manager,,2.0,,,2.0,More than 8 hours,Unhealthy,ME,No,2,4,No,No
+Male,55,Working Professional,Teacher,,5.0,,,2.0,7-8 hours,Moderate,MD,No,11,1,Yes,No
+Female,38,Working Professional,Business Analyst,,4.0,,,1.0,Less than 5 hours,Unhealthy,M.Com,Yes,7,5,Yes,Yes
+Male,18,Working Professional,,,4.0,,,4.0,5-6 hours,Unhealthy,Class 12,No,10,5,No,Yes
+Male,29,Student,,5.0,,6.33,3.0,,5-6 hours,Healthy,LLB,No,11,2,Yes,Yes
+Male,47,Working Professional,Architect,,1.0,,,3.0,7-8 hours,Healthy,B.Arch,Yes,1,4,Yes,No
+Female,38,Working Professional,Financial Analyst,,1.0,,,1.0,5-6 hours,Moderate,B.Com,Yes,2,1,Yes,No
+Female,44,Working Professional,Teacher,,1.0,,,5.0,Less than 5 hours,Moderate,LLM,Yes,12,2,Yes,No
+Female,25,Working Professional,HR Manager,,2.0,,,4.0,Less than 5 hours,Healthy,MSc,Yes,2,1,Yes,No
+Female,37,Working Professional,Content Writer,,3.0,,,1.0,5-6 hours,Healthy,B.Ed,No,9,4,No,No
+Female,29,Working Professional,Chemist,,4.0,,,2.0,7-8 hours,Moderate,MD,Yes,2,2,No,No
+Female,53,Working Professional,Teacher,,4.0,,,3.0,7-8 hours,Unhealthy,LLM,Yes,11,2,Yes,No
+Female,36,Working Professional,Travel Consultant,,3.0,,,5.0,5-6 hours,Unhealthy,MHM,No,12,5,Yes,No
+Male,27,Student,,2.0,,5.12,4.0,,More than 8 hours,Unhealthy,PhD,No,3,3,No,No
+Male,49,Working Professional,Financial Analyst,,4.0,,,4.0,Less than 5 hours,Healthy,MBA,No,0,4,No,No
+Male,38,Working Professional,Teacher,,1.0,,,5.0,7-8 hours,Unhealthy,BA,Yes,3,1,Yes,No
+Male,49,Working Professional,Content Writer,,2.0,,,4.0,5-6 hours,Unhealthy,B.Ed,Yes,2,3,No,No
+Female,41,Working Professional,Researcher,,4.0,,,3.0,More than 8 hours,Moderate,MCA,Yes,2,2,No,No
+Female,46,Working Professional,Research Analyst,,3.0,,,2.0,More than 8 hours,Healthy,MBA,No,7,4,Yes,No
+Female,29,Student,,2.0,,9.19,2.0,,Less than 5 hours,Moderate,LLB,Yes,12,1,No,Yes
+Male,31,Working Professional,Research Analyst,,4.0,,,1.0,7-8 hours,Moderate,BBA,Yes,4,2,No,Yes
+Female,20,Student,,3.0,,6.16,2.0,,7-8 hours,Moderate,Class 12,Yes,5,4,Yes,Yes
+Female,56,Working Professional,Educational Consultant,,2.0,,,1.0,More than 8 hours,Healthy,B.Ed,Yes,0,5,Yes,No
+Male,46,Working Professional,Software Engineer,,2.0,,,2.0,Less than 5 hours,Unhealthy,B.Tech,No,6,2,No,No
+Female,51,Working Professional,,,5.0,,,5.0,7-8 hours,Healthy,Class 12,Yes,7,5,No,No
+Male,56,Working Professional,Content Writer,,5.0,,,2.0,5-6 hours,Moderate,B.Tech,No,9,3,No,No
+Male,34,Working Professional,Consultant,,1.0,,,5.0,Less than 5 hours,Moderate,BSc,No,4,4,No,No
+Male,54,Working Professional,Sales Executive,,2.0,,,2.0,7-8 hours,Unhealthy,B.Com,Yes,0,5,No,No
+Male,37,Working Professional,Teacher,,5.0,,,2.0,5-6 hours,Healthy,MBA,No,4,3,No,No
+Female,53,Working Professional,Entrepreneur,,1.0,,,2.0,7-8 hours,Unhealthy,BSc,No,10,5,Yes,No
+Male,32,Working Professional,Pharmacist,,5.0,,,4.0,5-6 hours,Unhealthy,MBBS,Yes,1,3,No,No
+Male,37,Working Professional,Teacher,,5.0,,,1.0,5-6 hours,Unhealthy,MD,Yes,9,3,Yes,Yes
+Male,19,Working Professional,,,1.0,,,5.0,More than 8 hours,Unhealthy,Class 12,Yes,9,3,Yes,No
+Male,47,Working Professional,Teacher,,1.0,,,4.0,7-8 hours,Unhealthy,LLB,No,3,1,No,No
+Female,29,Student,,5.0,,8.95,5.0,,7-8 hours,Moderate,M.Ed,Yes,6,2,Yes,Yes
+Male,30,Working Professional,Teacher,,1.0,,,2.0,More than 8 hours,Unhealthy,BA,Yes,6,1,No,No
+Male,29,Working Professional,Consultant,,5.0,,,3.0,7-8 hours,Healthy,MBA,No,3,2,No,No
+Male,21,Working Professional,Doctor,,4.0,,,2.0,7-8 hours,Unhealthy,B.Pharm,Yes,5,5,No,Yes
+Male,22,Student,,2.0,,6.29,1.0,,Less than 5 hours,Unhealthy,B.Tech,Yes,12,2,No,Yes
+Female,27,Student,,2.0,,7.39,3.0,,Less than 5 hours,Healthy,BBA,Yes,8,3,Yes,Yes
+Male,22,Working Professional,,,4.0,,,4.0,5-6 hours,Healthy,Class 12,No,6,2,Yes,No
+Male,56,Working Professional,Consultant,,5.0,,,4.0,More than 8 hours,Healthy,MCA,No,3,2,Yes,No
+Female,35,Working Professional,,,1.0,,,5.0,5-6 hours,Moderate,Class 12,Yes,6,4,No,No
+Female,30,Working Professional,Judge,,2.0,,,1.0,7-8 hours,Moderate,LLM,Yes,2,4,Yes,Yes
+Male,51,Working Professional,Teacher,,3.0,,,3.0,Less than 5 hours,Healthy,M.Pharm,No,7,5,Yes,No
+Female,49,Working Professional,,,5.0,,,3.0,5-6 hours,Healthy,Class 12,No,5,4,No,No
+Female,36,Working Professional,Marketing Manager,,1.0,,,2.0,5-6 hours,Unhealthy,BA,Yes,9,3,Yes,No
+Male,46,Working Professional,Teacher,,2.0,,,1.0,7-8 hours,Unhealthy,PhD,Yes,5,3,Yes,No
+Male,25,Student,,4.0,,6.25,2.0,,Less than 5 hours,Moderate,Class 12,No,1,3,Yes,Yes
+Male,60,Working Professional,Teacher,,2.0,,,1.0,Less than 5 hours,Healthy,B.Ed,Yes,1,1,Yes,No
+Male,21,Student,,2.0,,8.73,4.0,,More than 8 hours,Unhealthy,BCA,Yes,3,3,Yes,Yes
+Female,42,Working Professional,Architect,,4.0,,,4.0,Less than 5 hours,Unhealthy,BCA,No,5,2,No,No
+Male,43,Working Professional,Teacher,,2.0,,,2.0,5-6 hours,Moderate,MA,No,8,1,No,No
+Male,60,Working Professional,Doctor,,2.0,,,1.0,7-8 hours,Healthy,MBBS,Yes,12,1,No,No
+Female,24,Student,,3.0,,8.37,1.0,,5-6 hours,Healthy,MBBS,No,6,4,Yes,Yes
+Female,55,Working Professional,Business Analyst,,3.0,,,3.0,5-6 hours,Moderate,M.Com,Yes,0,1,No,No
+Female,31,Working Professional,Architect,,1.0,,,5.0,7-8 hours,Unhealthy,B.Arch,No,12,2,Yes,No
+Male,36,Working Professional,Teacher,,3.0,,,3.0,7-8 hours,Healthy,LLB,No,11,3,Yes,No
+Male,50,Working Professional,Teacher,,3.0,,,3.0,More than 8 hours,Unhealthy,B.Arch,Yes,9,5,Yes,No
+Male,56,Working Professional,Software Engineer,,1.0,,,1.0,More than 8 hours,Moderate,MCA,No,10,3,No,No
+Male,20,Working Professional,,,3.0,,,5.0,7-8 hours,Unhealthy,Class 12,No,6,1,Yes,No
+Male,60,Working Professional,Business Analyst,,3.0,,,3.0,Less than 5 hours,Moderate,ME,Yes,1,1,Yes,No
+Female,49,Working Professional,Chef,,2.0,,,2.0,Less than 5 hours,Unhealthy,BHM,No,5,5,No,No
+Female,24,Working Professional,,,1.0,,,5.0,5-6 hours,Unhealthy,Class 12,No,12,4,No,No
+Female,59,Working Professional,Teacher,,4.0,,,1.0,7-8 hours,Unhealthy,B.Arch,Yes,11,4,No,No
+Male,56,Working Professional,,,1.0,,,4.0,7-8 hours,Moderate,Class 12,No,6,4,No,No
+Female,44,Working Professional,Financial Analyst,,1.0,,,2.0,Less than 5 hours,Moderate,B.Com,No,1,1,Yes,No
+Female,32,Working Professional,Teacher,,5.0,,,4.0,7-8 hours,Unhealthy,MBA,Yes,3,4,No,No
+Male,32,Student,,2.0,,7.47,1.0,,Less than 5 hours,Unhealthy,MBA,Yes,7,1,No,Yes
+Female,46,Working Professional,Architect,,2.0,,,3.0,Less than 5 hours,Healthy,B.Arch,No,5,1,Yes,No
+Female,39,Working Professional,Chef,,4.0,,,4.0,More than 8 hours,Unhealthy,MHM,Yes,10,1,Yes,No
+Female,19,Student,,1.0,,7.25,5.0,,More than 8 hours,Moderate,Class 12,No,2,1,Yes,No
+Male,46,Working Professional,Researcher,,4.0,,,2.0,5-6 hours,Moderate,BCA,Yes,5,3,Yes,No
+Female,54,Working Professional,Finanancial Analyst,,1.0,,,4.0,More than 8 hours,Moderate,BSc,Yes,6,3,No,No
+Male,31,Student,,2.0,,5.89,3.0,,More than 8 hours,Unhealthy,M.Tech,No,3,3,Yes,No
+Male,29,Working Professional,Civil Engineer,,5.0,,,1.0,Less than 5 hours,Healthy,ME,No,10,2,No,No
+Male,29,Student,,2.0,,9.66,3.0,,7-8 hours,Moderate,M.Pharm,No,1,2,No,No
+Female,27,Working Professional,Entrepreneur,,1.0,,,3.0,7-8 hours,Unhealthy,BE,No,8,2,Yes,No
+Female,28,Working Professional,Travel Consultant,,5.0,,,2.0,7-8 hours,Healthy,BHM,No,9,4,No,No
+Female,36,Working Professional,Electrician,,5.0,,,4.0,5-6 hours,Healthy,M.Tech,Yes,4,5,No,No
+Female,22,Student,,1.0,,6.78,4.0,,7-8 hours,Unhealthy,M.Com,Yes,10,2,Yes,Yes
+Male,19,Working Professional,,,1.0,,,3.0,Less than 5 hours,Moderate,Class 12,Yes,10,4,Yes,Yes
+Male,23,Working Professional,Teacher,,4.0,,,1.0,7-8 hours,Unhealthy,B.Arch,No,1,2,No,No
+Male,46,Working Professional,Pilot,,5.0,,,4.0,5-6 hours,Unhealthy,PhD,No,0,2,No,No
+Female,24,Working Professional,Customer Support,,4.0,,,3.0,More than 8 hours,Healthy,MA,No,0,5,Yes,No
+Female,19,Student,,1.0,,6.17,2.0,,More than 8 hours,Healthy,Class 12,No,7,5,No,No
+Male,56,Working Professional,Teacher,,2.0,,,2.0,Less than 5 hours,Unhealthy,LLM,Yes,12,3,Yes,No
+Female,28,Working Professional,Civil Engineer,,2.0,,,4.0,More than 8 hours,Healthy,M.Tech,No,6,3,Yes,No
+Female,48,Working Professional,,,4.0,,,3.0,Less than 5 hours,Unhealthy,Class 12,Yes,10,2,Yes,No
+Male,41,Working Professional,Marketing Manager,,5.0,,,2.0,7-8 hours,Unhealthy,BA,No,9,5,Yes,No
+Male,37,Working Professional,Travel Consultant,,4.0,,,4.0,7-8 hours,Unhealthy,BHM,No,12,2,No,No
+Female,51,Working Professional,,,3.0,,,1.0,5-6 hours,Unhealthy,Class 12,Yes,7,2,Yes,No
+Male,49,Working Professional,Teacher,,1.0,,,5.0,5-6 hours,Unhealthy,B.Arch,No,2,5,Yes,No
+Male,23,Student,,1.0,,8.47,5.0,,Less than 5 hours,Moderate,MBA,No,11,2,Yes,No
+Female,33,Student,,3.0,,8.52,2.0,,7-8 hours,Moderate,MSc,No,11,5,Yes,No
+Male,23,Working Professional,Graphic Designer,,3.0,,,2.0,5-6 hours,Healthy,B.Tech,Yes,7,5,No,Yes
+Male,36,Working Professional,Teacher,,4.0,,,3.0,7-8 hours,Moderate,BA,No,12,1,No,No
+Female,28,Working Professional,Manager,,2.0,,,3.0,Less than 5 hours,Unhealthy,BHM,Yes,8,1,No,No
+Female,25,Student,,1.0,,5.57,2.0,,7-8 hours,Healthy,M.Tech,No,12,4,Yes,No
+Female,59,Working Professional,Architect,,5.0,,,1.0,More than 8 hours,Moderate,ME,No,12,5,No,No
+Male,24,Student,,2.0,,9.79,1.0,,7-8 hours,Unhealthy,B.Arch,Yes,11,5,No,Yes
+Male,38,Working Professional,Business Analyst,,2.0,,,5.0,5-6 hours,Healthy,MBA,Yes,5,5,Yes,No
+Female,31,Student,,5.0,,9.86,2.0,,Less than 5 hours,Healthy,MD,Yes,8,5,Yes,Yes
+Male,48,Working Professional,Travel Consultant,,3.0,,,4.0,More than 8 hours,Healthy,MHM,Yes,5,2,No,No
+Male,42,Working Professional,Finanancial Analyst,,1.0,,,5.0,More than 8 hours,Moderate,MCA,Yes,8,3,Yes,No
+Male,18,Student,,1.0,,9.44,4.0,,Less than 5 hours,Unhealthy,Class 12,No,5,4,Yes,No
+Male,51,Working Professional,Educational Consultant,,1.0,,,5.0,7-8 hours,Unhealthy,B.Ed,No,6,3,No,No
+Female,24,Working Professional,Chemist,,3.0,,,1.0,7-8 hours,Moderate,B.Pharm,Yes,10,5,Yes,Yes
+Male,42,Working Professional,,,2.0,,,4.0,7-8 hours,Unhealthy,Class 12,No,7,5,No,No
+Female,40,Working Professional,Financial Analyst,,5.0,,,3.0,Less than 5 hours,Healthy,M.Com,No,9,3,No,No
+Female,47,Working Professional,,,4.0,,,5.0,More than 8 hours,Unhealthy,Class 12,Yes,5,1,Yes,No
+Male,23,Student,,5.0,,9.89,2.0,,More than 8 hours,Moderate,B.Ed,No,10,4,No,Yes
+Female,19,Student,,4.0,,5.64,5.0,,7-8 hours,Moderate,Class 12,Yes,12,5,No,Yes
+Female,49,Working Professional,Content Writer,,5.0,,,2.0,5-6 hours,Unhealthy,B.Tech,No,7,2,No,No
+Female,28,Student,,4.0,,5.08,5.0,,5-6 hours,Unhealthy,MD,No,3,4,No,No
+Female,45,Working Professional,Entrepreneur,,4.0,,,1.0,5-6 hours,Unhealthy,BE,No,4,3,Yes,No
+Female,44,Working Professional,Entrepreneur,,1.0,,,1.0,Less than 5 hours,Moderate,MBA,Yes,5,4,No,No
+Male,45,Working Professional,Entrepreneur,,4.0,,,2.0,Less than 5 hours,Healthy,MSc,Yes,7,2,Yes,No
+Male,40,Working Professional,Doctor,,4.0,,,3.0,Less than 5 hours,Healthy,MD,No,6,1,Yes,No
+Male,36,Working Professional,Teacher,,3.0,,,3.0,5-6 hours,Moderate,B.Arch,Yes,10,2,No,No
+Female,46,Working Professional,Manager,,2.0,,,2.0,More than 8 hours,Healthy,BHM,No,9,1,No,No
+Male,31,Working Professional,Travel Consultant,,4.0,,,3.0,Less than 5 hours,Unhealthy,MHM,No,12,3,No,No
+Male,39,Working Professional,Manager,,4.0,,,1.0,7-8 hours,Moderate,BHM,No,1,1,Yes,No
+Male,28,Working Professional,Civil Engineer,,2.0,,,2.0,5-6 hours,Healthy,BCA,No,7,3,Yes,No
+Male,36,Working Professional,Pharmacist,,5.0,,,1.0,More than 8 hours,Moderate,M.Pharm,No,5,5,Yes,No
+Male,59,Working Professional,Teacher,,2.0,,,4.0,5-6 hours,Healthy,B.Ed,No,9,1,Yes,No
+Male,28,Student,,5.0,,8.21,4.0,,More than 8 hours,Moderate,BE,Yes,6,4,No,Yes
+Male,42,Working Professional,Researcher,,2.0,,,1.0,Less than 5 hours,Unhealthy,BE,Yes,10,4,Yes,Yes
+Male,26,Working Professional,Doctor,,2.0,,,1.0,7-8 hours,Healthy,MBBS,No,5,5,No,No
+Male,54,Working Professional,Judge,,3.0,,,3.0,Less than 5 hours,Unhealthy,LLB,No,11,4,Yes,No
+Male,60,Working Professional,Entrepreneur,,2.0,,,3.0,5-6 hours,Moderate,ME,Yes,4,2,Yes,No
+Male,20,Working Professional,,,5.0,,,1.0,5-6 hours,Healthy,Class 12,Yes,1,5,No,Yes
+Male,58,Working Professional,Graphic Designer,,2.0,,,2.0,7-8 hours,Unhealthy,BCA,Yes,7,4,No,No
+Male,30,Student,,3.0,,7.09,2.0,,7-8 hours,Moderate,M.Pharm,Yes,10,5,Yes,Yes
+Female,29,Student,,4.0,,6.47,3.0,,7-8 hours,Unhealthy,MBA,Yes,4,2,Yes,Yes
+Male,44,Working Professional,Business Analyst,,1.0,,,4.0,7-8 hours,Healthy,B.Com,No,10,4,No,No
+Female,33,Student,,2.0,,5.16,4.0,,Less than 5 hours,Moderate,M.Tech,Yes,10,3,Yes,Yes
+Male,47,Working Professional,Teacher,,2.0,,,1.0,7-8 hours,Healthy,B.Arch,Yes,11,1,No,No
+Female,30,Student,,4.0,,8.88,3.0,,More than 8 hours,Unhealthy,B.Arch,No,8,2,Yes,No
+Female,22,Student,,5.0,,8.79,2.0,,7-8 hours,Moderate,MCA,Yes,5,1,Yes,Yes
+Female,28,Working Professional,Educational Consultant,,5.0,,,2.0,More than 8 hours,Unhealthy,M.Ed,No,6,1,Yes,No
+Male,20,Working Professional,,,3.0,,,2.0,Less than 5 hours,Healthy,Class 12,No,0,5,No,No
+Female,42,Working Professional,Teacher,,3.0,,,2.0,Less than 5 hours,Unhealthy,M.Ed,Yes,5,4,No,No
+Female,36,Working Professional,Plumber,,4.0,,,2.0,7-8 hours,Moderate,BE,Yes,7,3,Yes,Yes
+Male,28,Working Professional,Lawyer,,4.0,,,2.0,5-6 hours,Unhealthy,LLM,No,2,5,Yes,Yes
+Male,57,Working Professional,,,1.0,,,3.0,Less than 5 hours,Moderate,Class 12,Yes,10,4,Yes,No
+Male,49,Working Professional,Chemist,,4.0,,,5.0,7-8 hours,Moderate,MBBS,No,5,5,No,No
+Male,32,Student,,1.0,,8.09,3.0,,7-8 hours,Unhealthy,MCA,Yes,0,4,Yes,No
+Male,40,Working Professional,HR Manager,,3.0,,,3.0,7-8 hours,Healthy,B.Tech,No,11,3,No,No
+Female,26,Working Professional,Architect,,5.0,,,1.0,More than 8 hours,Unhealthy,BCA,No,0,5,Yes,Yes
+Male,39,Working Professional,Consultant,,1.0,,,5.0,5-6 hours,Unhealthy,BBA,No,7,3,Yes,No
+Female,60,Working Professional,Lawyer,,4.0,,,3.0,7-8 hours,Moderate,LLB,Yes,8,4,Yes,No
+Male,20,Working Professional,,,3.0,,,5.0,Less than 5 hours,Moderate,Class 12,No,1,4,No,No
+Male,27,Student,,5.0,,7.52,5.0,,Less than 5 hours,Healthy,LLB,Yes,6,3,Yes,Yes
+Male,30,Working Professional,Teacher,,2.0,,,2.0,5-6 hours,Healthy,MA,Yes,0,2,No,No
+Female,26,Working Professional,Digital Marketer,,5.0,,,1.0,7-8 hours,Moderate,BA,Yes,3,3,No,Yes
+Female,22,Working Professional,Finanancial Analyst,,4.0,,,5.0,5-6 hours,Healthy,MCA,No,1,1,Yes,No
+Female,44,Working Professional,Chemist,,4.0,,,4.0,Less than 5 hours,Healthy,M.Pharm,Yes,0,5,Yes,No
+Male,36,Working Professional,Teacher,,5.0,,,1.0,5-6 hours,Healthy,BSc,No,2,4,Yes,No
+Male,38,Working Professional,Architect,,2.0,,,2.0,7-8 hours,Healthy,B.Arch,Yes,11,1,No,No
+Female,44,Working Professional,Digital Marketer,,3.0,,,3.0,Less than 5 hours,Unhealthy,M.Com,No,3,4,Yes,No
+Male,31,Student,,1.0,,8.81,4.0,,More than 8 hours,Healthy,LLM,No,4,4,Yes,No
+Female,32,Student,,4.0,,9.21,3.0,,Less than 5 hours,Healthy,LLB,Yes,11,4,No,Yes
+Female,23,Working Professional,Teacher,,3.0,,,1.0,Less than 5 hours,Moderate,MA,Yes,8,3,No,Yes
+Male,52,Working Professional,Entrepreneur,,3.0,,,3.0,Less than 5 hours,Moderate,MSc,Yes,7,3,No,No
+Male,24,Student,,3.0,,6.53,5.0,,Less than 5 hours,Healthy,B.Pharm,No,6,1,Yes,No
+Male,23,Student,,1.0,,9.9,4.0,,More than 8 hours,Unhealthy,MSc,Yes,7,2,Yes,No
+Male,39,Working Professional,Pharmacist,,5.0,,,2.0,7-8 hours,Unhealthy,B.Pharm,No,6,3,No,No
+Female,38,Working Professional,Teacher,,5.0,,,3.0,Less than 5 hours,Moderate,B.Ed,Yes,7,2,No,No
+Female,52,Working Professional,Educational Consultant,,1.0,,,4.0,7-8 hours,Unhealthy,B.Ed,Yes,12,3,Yes,No
+Female,32,Student,,5.0,,5.74,3.0,,7-8 hours,Healthy,MBBS,Yes,3,3,No,Yes
+Female,46,Working Professional,,,5.0,,,4.0,7-8 hours,Moderate,Class 12,Yes,0,2,No,No
+Male,19,Student,,3.0,,5.37,1.0,,Less than 5 hours,Unhealthy,Class 12,No,10,4,No,Yes
+Male,52,Working Professional,Chef,,4.0,,,3.0,More than 8 hours,Unhealthy,BHM,Yes,9,1,No,No
+Male,42,Working Professional,Chef,,3.0,,,4.0,7-8 hours,Unhealthy,BHM,No,8,4,Yes,No
+Female,19,Working Professional,,,1.0,,,5.0,5-6 hours,Unhealthy,Class 12,Yes,6,3,No,No
+Female,37,Working Professional,Teacher,,2.0,,,4.0,7-8 hours,Moderate,MA,No,6,2,No,No
+Male,26,Working Professional,Teacher,,2.0,,,1.0,7-8 hours,Moderate,B.Ed,No,6,3,Yes,No
+Female,54,Working Professional,Entrepreneur,,5.0,,,5.0,More than 8 hours,Healthy,B.Tech,Yes,1,2,Yes,No
+Male,41,Working Professional,Business Analyst,,1.0,,,2.0,7-8 hours,Unhealthy,BSc,No,5,2,No,No
+Female,36,Working Professional,,,1.0,,,4.0,More than 8 hours,Unhealthy,Class 12,No,1,5,No,No
+Female,48,Working Professional,HR Manager,,4.0,,,5.0,More than 8 hours,Moderate,MCA,Yes,12,2,Yes,No
+Female,45,Working Professional,Finanancial Analyst,,3.0,,,5.0,5-6 hours,Healthy,MCA,Yes,0,5,No,No
+Female,54,Working Professional,Pharmacist,,2.0,,,3.0,5-6 hours,Unhealthy,MD,No,8,5,Yes,No
+Female,26,Student,,3.0,,5.5600000000000005,2.0,,Less than 5 hours,Unhealthy,B.Ed,No,6,5,Yes,Yes
+Male,55,Working Professional,UX/UI Designer,,4.0,,,5.0,More than 8 hours,Moderate,MSc,No,3,5,No,No
+Female,28,Working Professional,Teacher,,5.0,,,5.0,7-8 hours,Moderate,BA,Yes,6,1,No,No
+Female,19,Student,,4.0,,8.96,5.0,,7-8 hours,Moderate,Class 12,Yes,4,4,Yes,Yes
+Female,20,Student,,3.0,,6.91,2.0,,7-8 hours,Moderate,Class 12,Yes,2,1,Yes,Yes
+Female,52,Working Professional,Teacher,,2.0,,,5.0,5-6 hours,Healthy,LLB,Yes,6,5,No,No
+Male,19,Working Professional,,,1.0,,,5.0,More than 8 hours,Unhealthy,Class 12,Yes,7,2,No,No
+Female,48,Working Professional,,,5.0,,,5.0,Less than 5 hours,Unhealthy,Class 12,No,11,5,No,No
+Male,51,Working Professional,Investment Banker,,5.0,,,1.0,5-6 hours,Moderate,BBA,Yes,4,3,No,No
+Female,39,Working Professional,Marketing Manager,,2.0,,,1.0,Less than 5 hours,Unhealthy,B.Com,Yes,2,2,No,No
+Male,47,Working Professional,Teacher,,4.0,,,1.0,5-6 hours,Unhealthy,B.Pharm,Yes,9,4,Yes,Yes
+Female,38,Working Professional,Architect,,3.0,,,2.0,5-6 hours,Healthy,MCA,No,12,5,No,No
+Male,36,Working Professional,Teacher,,2.0,,,5.0,5-6 hours,Healthy,BA,No,3,2,Yes,No
+Male,43,Working Professional,Financial Analyst,,5.0,,,4.0,7-8 hours,Healthy,MBA,No,0,5,No,No
+Female,36,Working Professional,Doctor,,1.0,,,5.0,Less than 5 hours,Healthy,MBBS,No,8,3,Yes,No
+Male,54,Working Professional,Content Writer,,1.0,,,3.0,5-6 hours,Moderate,BSc,No,0,2,No,No
+Female,39,Working Professional,Sales Executive,,4.0,,,2.0,Less than 5 hours,Healthy,B.Com,No,7,5,No,No
+Male,58,Working Professional,Financial Analyst,,3.0,,,3.0,Less than 5 hours,Healthy,M.Com,Yes,11,5,No,No
+Male,51,Working Professional,Content Writer,,1.0,,,1.0,More than 8 hours,Unhealthy,MCA,Yes,12,1,Yes,No
+Female,29,Working Professional,HR Manager,,4.0,,,2.0,7-8 hours,Moderate,ME,Yes,10,2,Yes,Yes
+Male,57,Working Professional,Teacher,,3.0,,,2.0,5-6 hours,Moderate,B.Com,Yes,0,3,No,No
+Male,56,Working Professional,Pharmacist,,3.0,,,2.0,Less than 5 hours,Moderate,B.Pharm,Yes,0,2,Yes,No
+Male,24,Student,,2.0,,8.43,5.0,,7-8 hours,Unhealthy,B.Ed,Yes,5,4,No,Yes
+Female,56,Working Professional,Doctor,,5.0,,,4.0,Less than 5 hours,Unhealthy,MBBS,No,10,5,Yes,No
+Male,25,Working Professional,Doctor,,4.0,,,2.0,More than 8 hours,Unhealthy,B.Pharm,Yes,4,3,No,Yes
+Male,45,Working Professional,Plumber,,5.0,,,1.0,7-8 hours,Moderate,PhD,Yes,0,1,Yes,No
+Female,39,Working Professional,Doctor,,5.0,,,5.0,7-8 hours,Unhealthy,M.Pharm,No,12,1,No,No
+Male,25,Student,,5.0,,9.7,2.0,,More than 8 hours,Moderate,BHM,No,4,5,No,Yes
+Male,34,Working Professional,Entrepreneur,,4.0,,,4.0,7-8 hours,Healthy,BE,Yes,5,1,Yes,No
+Female,27,Working Professional,HR Manager,,3.0,,,1.0,5-6 hours,Unhealthy,ME,No,12,4,Yes,Yes
+Female,34,Student,,1.0,,5.86,4.0,,More than 8 hours,Moderate,MA,No,11,3,No,No
+Male,51,Working Professional,Consultant,,5.0,,,2.0,More than 8 hours,Healthy,ME,No,3,2,Yes,No
+Female,56,Working Professional,Software Engineer,,1.0,,,1.0,7-8 hours,Healthy,M.Tech,Yes,9,5,No,No
+Female,20,Working Professional,,,4.0,,,4.0,5-6 hours,Moderate,Class 12,No,0,2,Yes,No
+Female,56,Working Professional,Entrepreneur,,3.0,,,2.0,Less than 5 hours,Unhealthy,MSc,No,8,2,Yes,No
+Male,25,Working Professional,Manager,,3.0,,,1.0,More than 8 hours,Moderate,MHM,No,9,3,No,No
+Female,31,Student,,5.0,,7.88,4.0,,More than 8 hours,Healthy,BHM,No,6,2,No,No
+Female,39,Working Professional,Finanancial Analyst,,5.0,,,4.0,5-6 hours,Healthy,BCA,No,10,2,Yes,No
+Female,23,Student,,1.0,,8.69,4.0,,More than 8 hours,Moderate,MCA,Yes,4,1,No,No
+Female,39,Working Professional,Content Writer,,2.0,,,3.0,More than 8 hours,Healthy,M.Ed,No,0,2,No,No
+Male,55,Working Professional,,,1.0,,,1.0,7-8 hours,Healthy,Class 12,No,0,4,No,No
+Male,47,Working Professional,Sales Executive,,3.0,,,3.0,Less than 5 hours,Moderate,B.Com,Yes,7,2,No,No
+Female,55,Working Professional,Entrepreneur,,4.0,,,1.0,5-6 hours,Unhealthy,BBA,Yes,9,1,Yes,No
+Female,57,Working Professional,Pharmacist,,5.0,,,4.0,Less than 5 hours,Moderate,B.Pharm,Yes,4,1,No,No
+Female,35,Working Professional,Content Writer,,3.0,,,4.0,Less than 5 hours,Moderate,BCA,No,6,4,Yes,No
+Female,18,Student,,2.0,,8.49,4.0,,7-8 hours,Healthy,Class 12,No,9,2,No,No
+Female,45,Working Professional,Educational Consultant,,2.0,,,1.0,Less than 5 hours,Healthy,M.Ed,Yes,2,1,No,No
+Male,25,Student,,1.0,,8.74,4.0,,7-8 hours,Unhealthy,B.Ed,Yes,12,4,No,Yes
+Male,54,Working Professional,Pilot,,2.0,,,2.0,More than 8 hours,Unhealthy,MSc,Yes,5,3,No,No
+Male,60,Working Professional,Teacher,,4.0,,,1.0,5-6 hours,Moderate,B.Arch,Yes,12,1,Yes,No
+Male,37,Working Professional,Content Writer,,1.0,,,1.0,5-6 hours,Unhealthy,MA,Yes,4,2,Yes,No
+Female,58,Working Professional,Educational Consultant,,1.0,,,2.0,5-6 hours,Moderate,M.Ed,Yes,10,3,No,No
+Male,33,Student,,3.0,,9.17,2.0,,7-8 hours,Healthy,MBBS,No,8,2,Yes,No
+Male,18,Student,,5.0,,6.08,5.0,,More than 8 hours,Healthy,Class 12,No,7,1,Yes,No
+Male,41,Working Professional,Lawyer,,3.0,,,2.0,7-8 hours,Healthy,LLM,No,9,2,No,No
+Female,22,Working Professional,Marketing Manager,,1.0,,,3.0,Less than 5 hours,Moderate,B.Com,No,5,3,Yes,No
+Female,38,Working Professional,Teacher,,1.0,,,4.0,7-8 hours,Healthy,ME,Yes,4,2,No,No
+Female,38,Working Professional,Doctor,,3.0,,,5.0,Less than 5 hours,Healthy,MD,No,10,3,Yes,No
+Male,35,Working Professional,Content Writer,,1.0,,,5.0,More than 8 hours,Moderate,ME,No,3,3,Yes,No
+Female,28,Working Professional,Judge,,5.0,,,2.0,5-6 hours,Unhealthy,LLM,Yes,10,2,No,Yes
+Male,45,Working Professional,Teacher,,2.0,,,4.0,7-8 hours,Healthy,B.Arch,No,0,5,No,No
+Female,51,Working Professional,Civil Engineer,,4.0,,,4.0,5-6 hours,Moderate,B.Tech,No,3,3,No,No
+Male,44,Working Professional,Entrepreneur,,3.0,,,3.0,7-8 hours,Unhealthy,MBA,Yes,5,3,Yes,No
+Male,34,Working Professional,Finanancial Analyst,,5.0,,,2.0,5-6 hours,Healthy,ME,No,8,1,No,No
+Female,51,Working Professional,HR Manager,,1.0,,,2.0,5-6 hours,Unhealthy,BSc,Yes,9,5,Yes,No
+Male,56,Working Professional,Doctor,,2.0,,,2.0,5-6 hours,Moderate,M.Pharm,Yes,0,3,Yes,No
+Male,22,Working Professional,Data Scientist,,2.0,,,1.0,Less than 5 hours,Healthy,BCA,No,2,4,No,No
+Female,22,Student,,5.0,,5.09,5.0,,5-6 hours,Unhealthy,BBA,No,0,3,No,No
+Female,20,Working Professional,,,5.0,,,5.0,More than 8 hours,Healthy,Class 12,Yes,5,5,No,Yes
+Female,33,Student,,5.0,,5.59,4.0,,7-8 hours,Moderate,BCA,Yes,12,3,No,Yes
+Male,19,Student,,4.0,,9.05,4.0,,5-6 hours,Unhealthy,Class 12,Yes,1,4,Yes,Yes
+Female,57,Working Professional,Pharmacist,,5.0,,,5.0,Less than 5 hours,Unhealthy,MBBS,No,9,1,No,No
+Male,40,Working Professional,Teacher,,1.0,,,5.0,5-6 hours,Moderate,B.Arch,No,3,5,No,No
+Male,19,Student,,2.0,,9.26,5.0,,5-6 hours,Healthy,Class 12,No,9,1,Yes,No
+Male,46,Working Professional,Teacher,,1.0,,,3.0,5-6 hours,Unhealthy,B.Pharm,Yes,12,4,Yes,No
+Male,26,Working Professional,Architect,,1.0,,,4.0,5-6 hours,Moderate,BE,Yes,4,4,Yes,No
+Female,35,Working Professional,Architect,,5.0,,,5.0,7-8 hours,Moderate,B.Arch,No,6,2,Yes,No
+Female,35,Working Professional,Customer Support,,4.0,,,1.0,Less than 5 hours,Healthy,BA,No,8,2,No,No
+Female,59,Working Professional,Software Engineer,,1.0,,,3.0,5-6 hours,Moderate,MCA,Yes,1,3,No,No
+Female,43,Working Professional,Doctor,,4.0,,,5.0,5-6 hours,Unhealthy,B.Pharm,Yes,6,5,Yes,No
+Male,36,Working Professional,Travel Consultant,,4.0,,,5.0,Less than 5 hours,Healthy,BHM,Yes,8,1,No,No
+Male,26,Student,,2.0,,9.03,1.0,,More than 8 hours,Unhealthy,BE,Yes,3,3,No,Yes
+Male,32,Student,,5.0,,9.34,3.0,,More than 8 hours,Healthy,B.Ed,No,7,1,No,No
+Female,58,Working Professional,Teacher,,4.0,,,2.0,5-6 hours,Moderate,ME,Yes,7,4,No,No
+Male,59,Working Professional,Customer Support,,5.0,,,1.0,More than 8 hours,Healthy,M.Com,No,11,3,Yes,No
+Male,56,Working Professional,Graphic Designer,,5.0,,,2.0,7-8 hours,Moderate,B.Tech,Yes,2,3,No,No
+Female,47,Working Professional,Teacher,,5.0,,,4.0,5-6 hours,Moderate,LLB,No,7,2,No,No
+Male,31,Working Professional,Pilot,,1.0,,,4.0,Less than 5 hours,Unhealthy,PhD,No,10,5,No,No
+Female,58,Working Professional,Consultant,,5.0,,,2.0,5-6 hours,Healthy,B.Com,No,12,4,No,No
+Male,54,Working Professional,Researcher,,4.0,,,2.0,Less than 5 hours,Moderate,MSc,Yes,6,3,No,No
+Male,20,Student,,4.0,,8.24,4.0,,5-6 hours,Unhealthy,Class 12,Yes,11,2,Yes,Yes
+Male,31,Working Professional,Manager,,5.0,,,3.0,5-6 hours,Unhealthy,MHM,Yes,10,5,No,Yes
+Male,37,Working Professional,Lawyer,,2.0,,,1.0,7-8 hours,Unhealthy,LLM,Yes,7,4,No,No
+Male,35,Working Professional,Mechanical Engineer,,2.0,,,2.0,More than 8 hours,Moderate,BSc,Yes,0,4,No,No
+Male,29,Working Professional,Architect,,2.0,,,2.0,More than 8 hours,Unhealthy,MCA,No,9,2,No,No
+Male,40,Working Professional,Civil Engineer,,1.0,,,4.0,7-8 hours,Healthy,MCA,No,11,4,Yes,No
+Female,30,Working Professional,Chef,,3.0,,,2.0,7-8 hours,Moderate,BHM,Yes,3,5,Yes,Yes
+Male,49,Working Professional,Teacher,,2.0,,,5.0,More than 8 hours,Moderate,BA,Yes,6,2,No,No
+Male,22,Student,,3.0,,5.14,4.0,,5-6 hours,Moderate,MSc,No,2,4,Yes,No
+Female,47,Working Professional,Content Writer,,5.0,,,5.0,Less than 5 hours,Moderate,M.Ed,No,4,2,Yes,No
+Male,22,Working Professional,Lawyer,,2.0,,,1.0,7-8 hours,Moderate,LLB,No,8,5,No,No
+Female,31,Student,,5.0,,5.52,1.0,,7-8 hours,Healthy,M.Ed,Yes,2,5,Yes,Yes
+Male,25,Working Professional,Teacher,,3.0,,,1.0,More than 8 hours,Moderate,B.Tech,No,6,3,No,No
+Male,58,Working Professional,HR Manager,,5.0,,,4.0,More than 8 hours,Moderate,MSc,Yes,4,2,Yes,No
+Female,33,Student,,4.0,,6.89,5.0,,7-8 hours,Healthy,MA,No,12,4,Yes,No
+Female,58,Working Professional,Content Writer,,5.0,,,1.0,5-6 hours,Healthy,MA,No,3,4,Yes,No
+Male,45,Working Professional,Civil Engineer,,5.0,,,3.0,Less than 5 hours,Moderate,M.Tech,Yes,0,1,No,No
+Female,46,Working Professional,HR Manager,,3.0,,,1.0,More than 8 hours,Unhealthy,MA,Yes,12,3,Yes,No
+Female,48,Working Professional,,,3.0,,,5.0,5-6 hours,Healthy,Class 12,Yes,4,4,Yes,No
+Male,51,Working Professional,Content Writer,,3.0,,,1.0,5-6 hours,Unhealthy,M.Ed,Yes,0,2,No,No
+Male,21,Student,,1.0,,7.77,4.0,,Less than 5 hours,Moderate,BA,No,2,2,No,No
+Male,42,Working Professional,Teacher,,2.0,,,1.0,Less than 5 hours,Unhealthy,B.Pharm,Yes,7,5,No,Yes
+Male,22,Working Professional,Travel Consultant,,3.0,,,4.0,7-8 hours,Healthy,BHM,Yes,10,2,Yes,Yes
+Male,19,Student,,3.0,,8.04,3.0,,More than 8 hours,Unhealthy,Class 12,Yes,8,1,No,Yes
+Male,41,Working Professional,HR Manager,,1.0,,,1.0,More than 8 hours,Unhealthy,BBA,Yes,11,5,No,No
+Male,36,Working Professional,HR Manager,,4.0,,,2.0,More than 8 hours,Healthy,MA,No,10,4,No,No
+Male,25,Working Professional,HR Manager,,1.0,,,2.0,5-6 hours,Moderate,MA,No,11,2,Yes,No
+Female,57,Working Professional,Chemist,,4.0,,,5.0,More than 8 hours,Healthy,MBBS,No,1,5,No,No
+Male,31,Working Professional,Teacher,,3.0,,,5.0,7-8 hours,Moderate,B.Arch,No,4,2,No,No
+Male,19,Working Professional,,,2.0,,,4.0,Less than 5 hours,Moderate,Class 12,Yes,11,4,No,Yes
+Male,55,Working Professional,Content Writer,,4.0,,,5.0,More than 8 hours,Moderate,B.Ed,Yes,12,5,No,No
+Female,25,Student,,4.0,,8.04,4.0,,Less than 5 hours,Moderate,LLM,No,1,1,No,No
+Female,44,Working Professional,Content Writer,,2.0,,,1.0,More than 8 hours,Healthy,M.Ed,Yes,4,3,Yes,No
+Male,41,Working Professional,Teacher,,5.0,,,1.0,5-6 hours,Unhealthy,B.Pharm,No,11,4,No,No
+Male,27,Student,,5.0,,7.1,2.0,,5-6 hours,Unhealthy,MSc,Yes,12,3,Yes,Yes
+Female,47,Working Professional,Judge,,5.0,,,4.0,7-8 hours,Healthy,LLB,No,0,4,Yes,No
+Male,27,Working Professional,Mechanical Engineer,,1.0,,,5.0,More than 8 hours,Moderate,PhD,Yes,0,1,No,No
+Male,46,Working Professional,Entrepreneur,,3.0,,,1.0,7-8 hours,Moderate,M.Tech,Yes,1,2,Yes,No
+Male,30,Student,,3.0,,5.46,4.0,,7-8 hours,Moderate,MSc,Yes,0,2,Yes,No
+Female,28,Student,,4.0,,8.13,2.0,,Less than 5 hours,Healthy,M.Tech,No,3,5,No,No
+Male,48,Working Professional,Teacher,,1.0,,,5.0,5-6 hours,Unhealthy,MBA,Yes,11,1,Yes,No
+Male,40,Working Professional,Teacher,,5.0,,,2.0,5-6 hours,Moderate,B.Arch,No,10,1,No,No
+Male,44,Working Professional,Teacher,,5.0,,,3.0,Less than 5 hours,Healthy,B.Pharm,No,8,3,No,No
+Male,59,Working Professional,Travel Consultant,,5.0,,,5.0,5-6 hours,Moderate,MHM,Yes,1,5,No,No
+Male,45,Working Professional,Teacher,,5.0,,,1.0,5-6 hours,Healthy,LLB,Yes,6,1,Yes,No
+Male,50,Working Professional,Judge,,1.0,,,3.0,Less than 5 hours,Unhealthy,LLB,No,1,1,Yes,No
+Female,26,Working Professional,Chef,,4.0,,,5.0,7-8 hours,Healthy,MHM,No,10,2,Yes,No
+Male,59,Working Professional,Architect,,2.0,,,5.0,5-6 hours,Moderate,B.Arch,Yes,1,2,No,No
+Male,26,Student,,5.0,,10.0,2.0,,More than 8 hours,Unhealthy,B.Com,No,8,3,No,Yes
+Male,49,Working Professional,Teacher,,1.0,,,1.0,5-6 hours,Moderate,B.Ed,Yes,3,4,Yes,No
+Male,31,Student,,5.0,,5.72,2.0,,More than 8 hours,Unhealthy,Class 12,No,10,5,Yes,Yes
+Female,49,Working Professional,Marketing Manager,,3.0,,,2.0,5-6 hours,Moderate,BA,Yes,1,2,Yes,No
+Female,42,Working Professional,Software Engineer,,2.0,,,3.0,Less than 5 hours,Moderate,MCA,Yes,9,1,No,No
+Female,21,Working Professional,Software Engineer,,5.0,,,5.0,More than 8 hours,Healthy,BCA,No,6,3,No,No
+Female,24,Working Professional,Teacher,,3.0,,,5.0,More than 8 hours,Unhealthy,BBA,No,3,1,Yes,No
+Male,41,Working Professional,,,5.0,,,1.0,More than 8 hours,Unhealthy,Class 12,Yes,1,5,No,Yes
+Male,42,Working Professional,Doctor,,5.0,,,4.0,7-8 hours,Unhealthy,B.Pharm,Yes,8,2,Yes,No
+Male,33,Working Professional,Architect,,4.0,,,4.0,7-8 hours,Unhealthy,M.Tech,No,8,4,No,No
+Female,48,Working Professional,Manager,,1.0,,,5.0,Less than 5 hours,Moderate,MHM,No,10,1,Yes,No
+Female,32,Student,,3.0,,7.51,1.0,,7-8 hours,Moderate,MBBS,Yes,7,3,Yes,Yes
+Female,38,Working Professional,Educational Consultant,,1.0,,,2.0,7-8 hours,Unhealthy,M.Ed,Yes,7,3,No,No
+Female,52,Working Professional,Chef,,3.0,,,4.0,5-6 hours,Healthy,BHM,No,7,5,No,No
+Male,39,Working Professional,Teacher,,3.0,,,5.0,More than 8 hours,Healthy,LLM,No,10,5,No,No
+Male,28,Working Professional,Software Engineer,,4.0,,,4.0,7-8 hours,Unhealthy,BSc,No,1,2,No,No
+Male,53,Working Professional,Software Engineer,,1.0,,,3.0,More than 8 hours,Healthy,BE,Yes,10,3,Yes,No
+Female,27,Working Professional,Chef,,2.0,,,5.0,Less than 5 hours,Healthy,MHM,Yes,5,1,Yes,No
+Male,36,Working Professional,Accountant,,5.0,,,2.0,5-6 hours,Moderate,B.Com,Yes,8,5,Yes,Yes
+Male,53,Working Professional,Teacher,,5.0,,,5.0,5-6 hours,Moderate,B.Arch,No,12,4,Yes,No
+Female,26,Working Professional,Data Scientist,,3.0,,,1.0,Less than 5 hours,Moderate,BCA,Yes,12,4,No,Yes
+Female,44,Working Professional,Content Writer,,3.0,,,4.0,Less than 5 hours,Healthy,MCA,No,2,2,Yes,No
+Female,59,Working Professional,Doctor,,5.0,,,5.0,Less than 5 hours,Moderate,M.Pharm,No,3,3,No,No
+Male,43,Working Professional,Research Analyst,,5.0,,,4.0,7-8 hours,Unhealthy,MBA,No,0,4,Yes,No
+Male,53,Working Professional,Researcher,,1.0,,,5.0,Less than 5 hours,Unhealthy,ME,Yes,0,3,No,No
+Female,47,Working Professional,Business Analyst,,1.0,,,4.0,Less than 5 hours,Unhealthy,B.Com,Yes,1,1,Yes,No
+Female,35,Working Professional,Judge,,5.0,,,1.0,5-6 hours,Moderate,LLB,No,0,1,No,No
+Male,36,Working Professional,,,2.0,,,5.0,7-8 hours,Moderate,Class 12,Yes,5,1,No,No
+Female,40,Working Professional,Teacher,,3.0,,,2.0,5-6 hours,Healthy,LLB,Yes,3,2,No,No
+Male,45,Working Professional,Pharmacist,,5.0,,,4.0,5-6 hours,Moderate,B.Pharm,Yes,9,2,No,No
+Female,55,Working Professional,Finanancial Analyst,,5.0,,,5.0,7-8 hours,Healthy,BSc,No,10,4,Yes,No
+Male,34,Student,,1.0,,9.01,4.0,,7-8 hours,Healthy,M.Pharm,No,4,3,No,No
+Female,27,Working Professional,Sales Executive,,4.0,,,3.0,More than 8 hours,Moderate,MBA,Yes,2,4,Yes,Yes
+Female,34,Working Professional,,,2.0,,,2.0,5-6 hours,Unhealthy,Class 12,No,4,3,Yes,No
+Male,23,Student,,1.0,,8.14,1.0,,5-6 hours,Unhealthy,B.Tech,Yes,1,4,No,Yes
+Female,49,Working Professional,Teacher,,3.0,,,2.0,More than 8 hours,Unhealthy,MA,Yes,10,3,Yes,No
+Female,21,Student,,1.0,,6.82,1.0,,Less than 5 hours,Moderate,B.Arch,No,12,1,No,No
+Male,49,Working Professional,Pilot,,1.0,,,4.0,Less than 5 hours,Healthy,B.Tech,Yes,2,2,Yes,No
+Female,48,Working Professional,Lawyer,,3.0,,,1.0,More than 8 hours,Unhealthy,LLM,No,0,3,Yes,No
+Male,60,Working Professional,Mechanical Engineer,,4.0,,,1.0,7-8 hours,Healthy,M.Tech,Yes,4,3,No,No
+Female,20,Working Professional,,,5.0,,,4.0,Less than 5 hours,Unhealthy,Class 12,Yes,2,3,Yes,Yes
+Male,53,Working Professional,Chef,,5.0,,,1.0,More than 8 hours,Moderate,MHM,Yes,2,4,Yes,No
+Female,49,Working Professional,Consultant,,5.0,,,5.0,5-6 hours,Unhealthy,MSc,No,7,5,No,No
+Male,34,Student,,1.0,,9.36,3.0,,More than 8 hours,Moderate,BBA,Yes,8,1,No,No
+Male,51,Working Professional,Content Writer,,5.0,,,4.0,Less than 5 hours,Healthy,B.Ed,Yes,2,5,Yes,No
+Male,47,Working Professional,Entrepreneur,,2.0,,,1.0,More than 8 hours,Moderate,ME,No,6,3,Yes,No
+Female,48,Working Professional,Marketing Manager,,4.0,,,3.0,Less than 5 hours,Moderate,B.Com,Yes,5,4,Yes,No
+Female,36,Working Professional,Entrepreneur,,5.0,,,3.0,More than 8 hours,Healthy,MBA,No,7,4,Yes,No
+Male,45,Working Professional,Teacher,,1.0,,,3.0,7-8 hours,Moderate,MD,No,6,2,No,No
+Female,49,Working Professional,Entrepreneur,,1.0,,,1.0,More than 8 hours,Healthy,BE,Yes,4,1,No,No
+Female,40,Working Professional,Content Writer,,2.0,,,2.0,7-8 hours,Healthy,BA,Yes,2,2,No,No
+Female,31,Working Professional,Doctor,,5.0,,,2.0,5-6 hours,Moderate,M.Pharm,No,0,1,No,No
+Male,54,Working Professional,Plumber,,4.0,,,4.0,5-6 hours,Moderate,ME,Yes,2,1,No,No
+Male,49,Working Professional,Doctor,,1.0,,,1.0,5-6 hours,Unhealthy,M.Pharm,No,12,5,No,No
+Male,34,Working Professional,Marketing Manager,,4.0,,,2.0,7-8 hours,Unhealthy,B.Com,No,12,5,No,No
+Male,47,Working Professional,Pharmacist,,4.0,,,4.0,5-6 hours,Unhealthy,MBBS,Yes,3,4,No,No
+Male,21,Student,,5.0,,7.75,3.0,,7-8 hours,Unhealthy,M.Tech,No,6,4,Yes,Yes
+Male,32,Working Professional,Pilot,,3.0,,,1.0,More than 8 hours,Healthy,PhD,No,3,3,Yes,No
+Male,33,Student,,2.0,,8.24,4.0,,Less than 5 hours,Unhealthy,MD,Yes,12,4,Yes,Yes
+Male,35,Working Professional,Chemist,,4.0,,,3.0,7-8 hours,Unhealthy,B.Pharm,No,11,4,No,No
+Female,51,Working Professional,Chemist,,5.0,,,5.0,5-6 hours,Moderate,MBBS,No,12,1,Yes,No
+Male,52,Working Professional,Pharmacist,,2.0,,,3.0,7-8 hours,Unhealthy,MD,No,5,2,No,No
+Male,42,Working Professional,Software Engineer,,2.0,,,3.0,7-8 hours,Moderate,M.Tech,No,9,3,No,No
+Male,54,Working Professional,Chef,,2.0,,,5.0,7-8 hours,Healthy,MHM,No,9,3,No,No
+Female,45,Working Professional,Pilot,,4.0,,,5.0,5-6 hours,Unhealthy,MSc,No,3,3,No,No
+Male,35,Working Professional,Teacher,,5.0,,,3.0,More than 8 hours,Unhealthy,BA,Yes,12,1,Yes,Yes
+Male,52,Working Professional,Business Analyst,,4.0,,,4.0,More than 8 hours,Unhealthy,ME,Yes,2,5,Yes,No
+Female,43,Working Professional,,,2.0,,,4.0,7-8 hours,Unhealthy,Class 12,Yes,11,1,Yes,No
+Female,28,Student,,4.0,,7.37,2.0,,More than 8 hours,Moderate,BHM,No,0,3,No,No
+Female,19,Working Professional,,,4.0,,,4.0,More than 8 hours,Moderate,Class 12,Yes,8,5,No,Yes
+Female,26,Student,,4.0,,8.17,1.0,,5-6 hours,Unhealthy,B.Pharm,Yes,0,1,No,Yes
+Male,37,Working Professional,Research Analyst,,1.0,,,2.0,5-6 hours,Unhealthy,MBA,No,3,1,Yes,No
+Male,55,Working Professional,Judge,,5.0,,,1.0,5-6 hours,Unhealthy,LLB,Yes,0,4,No,No
+Male,56,Working Professional,Pharmacist,,2.0,,,2.0,7-8 hours,Moderate,M.Pharm,Yes,10,5,Yes,No
+Male,44,Working Professional,Financial Analyst,,1.0,,,2.0,Less than 5 hours,Moderate,M.Com,No,8,4,Yes,No
+Male,33,Student,,2.0,,9.54,5.0,,More than 8 hours,Unhealthy,MA,Yes,6,5,Yes,No
+Male,31,Working Professional,Accountant,,3.0,,,5.0,Less than 5 hours,Moderate,B.Com,No,11,2,No,No
+Female,34,Working Professional,Business Analyst,,3.0,,,4.0,5-6 hours,Moderate,BE,No,9,5,No,No
+Male,51,Working Professional,Teacher,,5.0,,,3.0,More than 8 hours,Moderate,LLB,No,8,4,No,No
+Female,30,Student,,2.0,,7.92,2.0,,Less than 5 hours,Healthy,BE,No,10,4,No,No
+Female,51,Working Professional,Chemist,,5.0,,,1.0,5-6 hours,Healthy,M.Pharm,No,11,4,Yes,No
+Male,43,Working Professional,Business Analyst,,5.0,,,2.0,More than 8 hours,Healthy,BBA,Yes,1,2,Yes,No
+Male,23,Working Professional,Digital Marketer,,5.0,,,4.0,Less than 5 hours,Healthy,MA,Yes,1,1,No,No
+Female,52,Working Professional,Doctor,,1.0,,,2.0,7-8 hours,Moderate,MD,Yes,5,3,No,No
+Male,46,Working Professional,Mechanical Engineer,,4.0,,,5.0,Less than 5 hours,Moderate,BSc,Yes,8,2,No,No
+Male,19,Student,,3.0,,7.04,2.0,,More than 8 hours,Unhealthy,Class 12,Yes,3,1,No,Yes
+Male,55,Working Professional,Lawyer,,3.0,,,5.0,7-8 hours,Moderate,LLB,Yes,6,3,No,No
+Female,56,Working Professional,Entrepreneur,,2.0,,,3.0,5-6 hours,Healthy,BBA,No,9,3,Yes,No
+Male,52,Working Professional,Content Writer,,5.0,,,5.0,Less than 5 hours,Moderate,M.Ed,Yes,0,2,No,No
+Male,19,Working Professional,,,5.0,,,1.0,Less than 5 hours,Healthy,Class 12,No,3,5,Yes,Yes
+Female,25,Working Professional,Teacher,,5.0,,,1.0,More than 8 hours,Healthy,MBBS,No,7,3,No,No
+Male,35,Working Professional,Chef,,1.0,,,2.0,More than 8 hours,Unhealthy,MHM,Yes,10,5,No,No
+Female,19,Working Professional,,,3.0,,,2.0,Less than 5 hours,Healthy,Class 12,Yes,3,5,No,Yes
+Male,60,Working Professional,Travel Consultant,,5.0,,,3.0,7-8 hours,Healthy,MHM,Yes,3,2,No,No
+Male,29,Student,,4.0,,7.53,3.0,,More than 8 hours,Unhealthy,BCA,Yes,1,3,No,Yes
+Male,39,Working Professional,Judge,,3.0,,,1.0,5-6 hours,Moderate,LLM,No,5,2,No,No
+Female,24,Student,,2.0,,8.9,3.0,,More than 8 hours,Healthy,BSc,Yes,0,5,Yes,Yes
+Female,25,Student,,3.0,,7.46,3.0,,5-6 hours,Unhealthy,BE,Yes,12,4,Yes,Yes
+Male,57,Working Professional,Content Writer,,1.0,,,2.0,Less than 5 hours,Healthy,B.Ed,No,10,1,No,No
+Male,24,Working Professional,Teacher,,5.0,,,4.0,Less than 5 hours,Unhealthy,BA,No,11,5,No,Yes
+Male,45,Working Professional,Business Analyst,,2.0,,,1.0,5-6 hours,Moderate,M.Com,Yes,12,4,No,No
+Male,52,Working Professional,Travel Consultant,,2.0,,,3.0,More than 8 hours,Unhealthy,BHM,Yes,0,5,Yes,No
+Male,20,Student,,1.0,,8.5,3.0,,More than 8 hours,Moderate,Class 12,No,7,2,No,No
+Female,51,Working Professional,Lawyer,,4.0,,,4.0,7-8 hours,Moderate,LLM,Yes,7,1,Yes,No
+Male,22,Student,,2.0,,6.63,4.0,,7-8 hours,Moderate,BHM,Yes,0,2,No,No
+Male,59,Working Professional,Plumber,,5.0,,,2.0,7-8 hours,Unhealthy,BCA,No,9,5,No,No
+Male,46,Working Professional,Electrician,,2.0,,,3.0,5-6 hours,Healthy,MSc,No,6,4,Yes,No
+Male,47,Working Professional,Entrepreneur,,4.0,,,1.0,7-8 hours,Unhealthy,B.Tech,Yes,5,4,No,No
+Male,45,Working Professional,Teacher,,4.0,,,4.0,More than 8 hours,Healthy,MD,No,6,1,Yes,No
+Male,27,Student,,1.0,,6.5600000000000005,2.0,,7-8 hours,Unhealthy,BHM,Yes,12,1,No,No
+Female,41,Working Professional,Data Scientist,,1.0,,,3.0,5-6 hours,Unhealthy,MCA,Yes,11,4,No,No
+Female,53,Working Professional,Researcher,,2.0,,,1.0,7-8 hours,Healthy,B.Tech,No,12,5,Yes,No
+Female,48,Working Professional,Business Analyst,,2.0,,,5.0,More than 8 hours,Moderate,M.Com,Yes,0,2,No,No
+Female,27,Student,,3.0,,5.87,3.0,,7-8 hours,Unhealthy,BHM,No,11,1,No,No
+Male,21,Student,,3.0,,9.06,5.0,,5-6 hours,Healthy,MSc,No,5,2,No,No
+Male,49,Working Professional,Data Scientist,,5.0,,,2.0,Less than 5 hours,Healthy,MCA,Yes,4,4,Yes,No
+Female,47,Working Professional,Business Analyst,,2.0,,,4.0,More than 8 hours,Moderate,BBA,Yes,4,4,No,No
+Female,35,Working Professional,Manager,,2.0,,,1.0,7-8 hours,Healthy,BHM,Yes,9,3,No,No
+Female,53,Working Professional,Teacher,,1.0,,,5.0,5-6 hours,Unhealthy,LLM,No,5,5,Yes,No
+Male,41,Working Professional,Plumber,,4.0,,,5.0,7-8 hours,Moderate,ME,Yes,2,2,No,No
+Female,28,Student,,3.0,,6.95,5.0,,7-8 hours,Unhealthy,MD,Yes,5,1,Yes,No
+Male,30,Working Professional,Judge,,4.0,,,3.0,7-8 hours,Unhealthy,LLM,Yes,0,4,No,No
+Female,58,Working Professional,Financial Analyst,,4.0,,,2.0,Less than 5 hours,Unhealthy,B.Com,No,5,3,No,No
+Male,24,Working Professional,Teacher,,2.0,,,2.0,More than 8 hours,Healthy,MA,Yes,10,3,Yes,Yes
+Male,19,Student,,5.0,,8.59,2.0,,5-6 hours,Healthy,Class 12,Yes,11,3,Yes,Yes
+Male,42,Working Professional,Business Analyst,,1.0,,,2.0,More than 8 hours,Unhealthy,BBA,No,2,3,Yes,No
+Female,56,Working Professional,Teacher,,2.0,,,2.0,Less than 5 hours,Moderate,M.Tech,No,12,2,No,No
+Female,51,Working Professional,Doctor,,5.0,,,5.0,7-8 hours,Moderate,MBBS,No,1,4,Yes,No
+Female,22,Working Professional,Marketing Manager,,1.0,,,3.0,Less than 5 hours,Moderate,MA,Yes,1,5,No,No
+Female,33,Working Professional,Content Writer,,1.0,,,1.0,More than 8 hours,Moderate,B.Ed,Yes,3,4,Yes,No
+Male,60,Working Professional,Judge,,1.0,,,5.0,More than 8 hours,Moderate,LLM,No,12,2,No,No
+Male,33,Working Professional,Architect,,5.0,,,4.0,5-6 hours,Unhealthy,BSc,Yes,3,3,Yes,Yes
+Male,25,Working Professional,Teacher,,1.0,,,4.0,5-6 hours,Unhealthy,B.Arch,Yes,3,4,No,No
+Female,27,Working Professional,Research Analyst,,1.0,,,5.0,More than 8 hours,Moderate,MBA,Yes,5,5,No,No
+Female,37,Working Professional,Doctor,,4.0,,,4.0,More than 8 hours,Moderate,M.Pharm,No,10,4,Yes,No
+Male,56,Working Professional,Customer Support,,3.0,,,2.0,7-8 hours,Healthy,M.Com,No,1,5,Yes,No
+Female,20,Student,,3.0,,7.0,2.0,,More than 8 hours,Healthy,Class 12,No,2,2,No,No
+Female,59,Working Professional,Researcher,,5.0,,,5.0,More than 8 hours,Healthy,MSc,No,10,3,No,No
+Female,30,Working Professional,Pharmacist,,2.0,,,2.0,7-8 hours,Healthy,M.Pharm,Yes,12,4,No,Yes
+Female,59,Working Professional,Sales Executive,,3.0,,,4.0,Less than 5 hours,Healthy,MBA,Yes,0,4,Yes,No
+Male,48,Working Professional,Research Analyst,,5.0,,,5.0,5-6 hours,Healthy,BBA,Yes,5,5,No,No
+Female,27,Working Professional,Chemist,,2.0,,,4.0,7-8 hours,Moderate,B.Pharm,Yes,8,4,No,No
+Female,24,Working Professional,Teacher,,1.0,,,3.0,Less than 5 hours,Healthy,B.Ed,No,9,1,Yes,No
+Male,18,Student,,3.0,,5.42,4.0,,Less than 5 hours,Moderate,Class 12,Yes,9,1,No,Yes
+Female,19,Working Professional,,,3.0,,,4.0,More than 8 hours,Healthy,Class 12,No,2,2,Yes,No
+Female,40,Working Professional,Consultant,,5.0,,,5.0,More than 8 hours,Unhealthy,BBA,No,7,3,No,No
+Female,59,Working Professional,Electrician,,3.0,,,2.0,5-6 hours,Healthy,B.Tech,Yes,7,2,No,No
+Male,44,Working Professional,Educational Consultant,,3.0,,,5.0,Less than 5 hours,Healthy,M.Ed,No,6,4,No,No
+Male,38,Working Professional,HR Manager,,4.0,,,2.0,Less than 5 hours,Moderate,BE,Yes,4,3,No,No
+Female,21,Working Professional,Architect,,5.0,,,2.0,Less than 5 hours,Unhealthy,B.Arch,Yes,3,3,Yes,Yes
+Male,32,Student,,5.0,,9.59,1.0,,More than 8 hours,Healthy,B.Ed,No,2,3,Yes,No
+Male,43,Working Professional,Teacher,,1.0,,,5.0,5-6 hours,Moderate,B.Ed,Yes,4,5,Yes,No
+Male,18,Working Professional,,,2.0,,,3.0,5-6 hours,Unhealthy,Class 12,No,10,5,No,Yes
+Female,40,Working Professional,Teacher,,5.0,,,4.0,Less than 5 hours,Healthy,MCA,No,9,5,No,No
+Male,24,Student,,3.0,,7.34,4.0,,More than 8 hours,Healthy,MBBS,Yes,1,3,No,No
+Male,42,Working Professional,Researcher,,3.0,,,1.0,Less than 5 hours,Healthy,BSc,Yes,2,4,No,No
+Male,51,Working Professional,Digital Marketer,,5.0,,,2.0,More than 8 hours,Healthy,BA,No,2,5,Yes,No
+Female,41,Working Professional,Teacher,,2.0,,,2.0,7-8 hours,Unhealthy,MCA,No,7,1,Yes,No
+Male,56,Working Professional,Consultant,,5.0,,,3.0,More than 8 hours,Moderate,B.Com,Yes,1,5,Yes,No
+Male,36,Working Professional,Sales Executive,,2.0,,,1.0,5-6 hours,Unhealthy,MBA,No,4,1,No,No
+Male,27,Student,,3.0,,8.75,1.0,,5-6 hours,Moderate,MBBS,Yes,9,5,Yes,Yes
+Female,40,Working Professional,Teacher,,3.0,,,4.0,7-8 hours,Healthy,PhD,Yes,9,5,No,No
+Female,20,Student,,2.0,,9.91,3.0,,7-8 hours,Unhealthy,Class 12,Yes,0,3,Yes,Yes
+Female,49,Working Professional,Teacher,,4.0,,,1.0,5-6 hours,Moderate,BSc,Yes,4,2,Yes,No
+Male,41,Working Professional,Content Writer,,4.0,,,5.0,7-8 hours,Moderate,PhD,No,8,5,Yes,No
+Female,38,Working Professional,Doctor,,3.0,,,2.0,More than 8 hours,Healthy,B.Pharm,No,5,5,Yes,No
+Female,38,Working Professional,Consultant,,1.0,,,2.0,Less than 5 hours,Unhealthy,MBA,No,6,2,Yes,No
+Female,27,Student,,4.0,,6.42,2.0,,7-8 hours,Unhealthy,MSc,Yes,0,2,No,Yes
+Male,55,Working Professional,Consultant,,5.0,,,4.0,7-8 hours,Unhealthy,MSc,No,6,4,Yes,No
+Female,22,Working Professional,Financial Analyst,,4.0,,,5.0,5-6 hours,Unhealthy,BBA,Yes,12,3,Yes,Yes
+Male,41,Working Professional,Architect,,3.0,,,3.0,7-8 hours,Healthy,MSc,Yes,4,1,No,No
+Male,53,Working Professional,Plumber,,2.0,,,5.0,7-8 hours,Unhealthy,BE,Yes,12,5,No,No
+Male,41,Working Professional,Travel Consultant,,4.0,,,5.0,5-6 hours,Unhealthy,MHM,No,8,4,No,No
+Female,33,Working Professional,Teacher,,4.0,,,3.0,7-8 hours,Unhealthy,MCA,No,4,2,No,No
+Female,20,Student,,4.0,,6.99,5.0,,5-6 hours,Moderate,Class 12,Yes,11,4,No,Yes
+Male,48,Working Professional,UX/UI Designer,,4.0,,,3.0,7-8 hours,Moderate,BE,Yes,6,5,Yes,No
+Female,33,Working Professional,Plumber,,1.0,,,2.0,More than 8 hours,Unhealthy,BCA,Yes,9,5,No,No
+Male,29,Working Professional,Data Scientist,,2.0,,,3.0,7-8 hours,Unhealthy,BE,No,3,5,No,No
+Male,60,Working Professional,Teacher,,5.0,,,5.0,5-6 hours,Unhealthy,MA,Yes,3,1,No,No
+Female,56,Working Professional,Teacher,,4.0,,,1.0,5-6 hours,Unhealthy,ME,No,11,1,Yes,No
+Female,49,Working Professional,Lawyer,,1.0,,,5.0,Less than 5 hours,Moderate,LLM,Yes,12,2,Yes,No
+Female,37,Working Professional,Chef,,1.0,,,5.0,Less than 5 hours,Healthy,BHM,Yes,10,5,Yes,No
+Male,40,Working Professional,Customer Support,,3.0,,,5.0,Less than 5 hours,Moderate,M.Com,No,1,2,No,No
+Female,59,Working Professional,Consultant,,4.0,,,5.0,Less than 5 hours,Healthy,BSc,Yes,5,2,No,No
+Female,33,Student,,1.0,,6.5,4.0,,More than 8 hours,Moderate,MBBS,No,10,3,No,No
+Male,47,Working Professional,Teacher,,2.0,,,5.0,Less than 5 hours,Moderate,LLM,Yes,9,5,No,No
+Male,34,Working Professional,Teacher,,3.0,,,4.0,7-8 hours,Healthy,B.Ed,Yes,5,3,Yes,No
+Male,41,Working Professional,Consultant,,2.0,,,3.0,5-6 hours,Unhealthy,BBA,No,1,1,No,No
+Male,35,Working Professional,Educational Consultant,,4.0,,,1.0,More than 8 hours,Moderate,M.Ed,No,0,5,Yes,No
+Male,33,Student,,5.0,,5.74,1.0,,Less than 5 hours,Healthy,M.Pharm,No,10,2,No,Yes
+Female,42,Working Professional,Researcher,,1.0,,,2.0,More than 8 hours,Unhealthy,BCA,No,10,2,Yes,No
+Female,24,Student,,1.0,,9.87,5.0,,5-6 hours,Healthy,BA,No,11,2,Yes,No
+Male,37,Working Professional,Mechanical Engineer,,4.0,,,2.0,More than 8 hours,Unhealthy,BE,Yes,0,2,Yes,No
+Female,54,Working Professional,Consultant,,1.0,,,1.0,7-8 hours,Unhealthy,B.Com,Yes,7,5,No,No
+Male,28,Student,,4.0,,7.48,5.0,,5-6 hours,Healthy,MD,Yes,7,1,Yes,No
+Male,60,Working Professional,Teacher,,1.0,,,4.0,More than 8 hours,Unhealthy,M.Pharm,No,2,1,No,No
+Female,31,Student,,1.0,,5.97,5.0,,More than 8 hours,Healthy,LLM,Yes,4,2,Yes,No
+Female,43,Working Professional,Chef,,5.0,,,2.0,Less than 5 hours,Healthy,MHM,Yes,6,1,Yes,No
+Female,24,Student,,5.0,,9.39,1.0,,7-8 hours,Healthy,BSc,No,8,5,No,Yes
+Female,19,Student,,3.0,,8.63,4.0,,7-8 hours,Healthy,Class 12,Yes,10,2,No,Yes
+Female,39,Working Professional,Pilot,,4.0,,,4.0,Less than 5 hours,Moderate,B.Tech,No,7,3,Yes,No
+Male,37,Working Professional,Accountant,,4.0,,,4.0,Less than 5 hours,Healthy,B.Com,No,7,4,Yes,No
+Female,47,Working Professional,Research Analyst,,3.0,,,5.0,Less than 5 hours,Unhealthy,MBA,Yes,12,5,No,No
+Male,57,Working Professional,Doctor,,5.0,,,4.0,7-8 hours,Healthy,M.Pharm,No,2,1,No,No
+Female,21,Student,,5.0,,8.62,1.0,,5-6 hours,Moderate,BHM,No,12,3,No,Yes
+Male,41,Working Professional,Pharmacist,,3.0,,,2.0,7-8 hours,Unhealthy,M.Pharm,No,2,3,No,No
+Female,45,Working Professional,Educational Consultant,,4.0,,,2.0,5-6 hours,Healthy,M.Ed,Yes,1,4,No,No
+Female,18,Student,,4.0,,7.25,4.0,,7-8 hours,Unhealthy,Class 12,No,7,2,No,Yes
+Female,18,Working Professional,,,5.0,,,4.0,5-6 hours,Unhealthy,Class 12,No,10,4,No,Yes
+Female,21,Student,,5.0,,5.82,1.0,,More than 8 hours,Unhealthy,Class 12,No,11,5,No,Yes
+Female,28,Student,,1.0,,5.83,2.0,,5-6 hours,Healthy,BBA,Yes,3,4,Yes,No
+Male,54,Working Professional,Finanancial Analyst,,1.0,,,1.0,7-8 hours,Healthy,MCA,Yes,3,5,Yes,No
+Female,21,Working Professional,Data Scientist,,3.0,,,4.0,7-8 hours,Healthy,BCA,Yes,11,4,No,Yes
+Male,24,Working Professional,Marketing Manager,,3.0,,,3.0,5-6 hours,Healthy,MA,Yes,5,1,Yes,No
+Male,56,Working Professional,Manager,,1.0,,,4.0,More than 8 hours,Unhealthy,MHM,No,8,3,Yes,No
+Female,36,Working Professional,UX/UI Designer,,1.0,,,3.0,7-8 hours,Healthy,BCA,Yes,9,4,Yes,No
+Female,30,Working Professional,Teacher,,4.0,,,3.0,5-6 hours,Unhealthy,BA,No,2,4,No,No
+Female,33,Student,,2.0,,5.48,3.0,,7-8 hours,Moderate,BE,Yes,12,5,Yes,Yes
+Male,43,Working Professional,Pharmacist,,3.0,,,3.0,5-6 hours,Unhealthy,M.Pharm,No,7,5,No,No
+Female,30,Student,,5.0,,9.93,4.0,,7-8 hours,Healthy,BHM,No,6,4,Yes,No
+Female,40,Working Professional,Manager,,5.0,,,5.0,5-6 hours,Healthy,BHM,Yes,9,1,No,No
+Female,22,Student,,1.0,,7.45,1.0,,Less than 5 hours,Healthy,MSc,No,2,2,No,No
+Female,49,Working Professional,Marketing Manager,,4.0,,,2.0,Less than 5 hours,Unhealthy,B.Com,Yes,5,5,Yes,Yes
+Male,25,Working Professional,Graphic Designer,,4.0,,,2.0,Less than 5 hours,Unhealthy,MCA,Yes,1,4,Yes,Yes
+Male,18,Working Professional,,,5.0,,,5.0,5-6 hours,Unhealthy,Class 12,No,3,4,No,No
+Male,59,Working Professional,Architect,,4.0,,,4.0,5-6 hours,Unhealthy,M.Tech,Yes,12,1,Yes,No
+Male,51,Working Professional,Teacher,,3.0,,,1.0,7-8 hours,Healthy,LLM,Yes,5,3,Yes,No
+Female,19,Working Professional,,,3.0,,,5.0,More than 8 hours,Healthy,Class 12,No,3,1,Yes,No
+Female,38,Working Professional,Marketing Manager,,5.0,,,1.0,More than 8 hours,Moderate,B.Com,No,2,4,No,No
+Female,55,Working Professional,HR Manager,,5.0,,,3.0,5-6 hours,Moderate,ME,Yes,3,3,Yes,No
+Male,29,Working Professional,Entrepreneur,,5.0,,,3.0,More than 8 hours,Healthy,BE,Yes,4,1,No,No
+Male,43,Working Professional,HR Manager,,5.0,,,5.0,5-6 hours,Moderate,MSc,Yes,1,4,Yes,No
+Female,29,Student,,3.0,,8.4,3.0,,5-6 hours,Healthy,BHM,Yes,10,1,Yes,Yes
+Female,35,Working Professional,Travel Consultant,,2.0,,,2.0,7-8 hours,Moderate,MHM,Yes,0,1,No,No
+Male,31,Working Professional,Judge,,3.0,,,4.0,7-8 hours,Healthy,LLB,No,9,5,No,No
+Male,24,Student,,2.0,,6.39,1.0,,Less than 5 hours,Unhealthy,MCA,Yes,8,5,No,Yes
+Female,25,Student,,2.0,,9.93,2.0,,More than 8 hours,Moderate,B.Ed,No,11,2,Yes,No
+Female,48,Working Professional,Teacher,,4.0,,,4.0,5-6 hours,Healthy,MA,No,11,2,No,No
+Female,20,Working Professional,,,4.0,,,2.0,More than 8 hours,Healthy,Class 12,Yes,9,2,Yes,Yes
+Female,47,Working Professional,Teacher,,1.0,,,1.0,Less than 5 hours,Unhealthy,B.Arch,Yes,11,1,No,No
+Male,24,Working Professional,Financial Analyst,,1.0,,,1.0,More than 8 hours,Healthy,MBA,Yes,5,1,No,No
+Female,29,Student,,5.0,,6.0,2.0,,5-6 hours,Moderate,M.Ed,Yes,8,4,No,Yes
+Female,41,Working Professional,Travel Consultant,,4.0,,,4.0,7-8 hours,Unhealthy,BHM,Yes,7,4,Yes,No
+Female,49,Working Professional,Lawyer,,4.0,,,3.0,Less than 5 hours,Healthy,LLM,Yes,4,3,Yes,No
+Male,42,Working Professional,Pharmacist,,3.0,,,4.0,5-6 hours,Healthy,MBBS,No,5,4,No,No
+Male,37,Working Professional,Pharmacist,,2.0,,,3.0,More than 8 hours,Moderate,MBBS,No,9,2,No,No
+Female,48,Working Professional,Manager,,4.0,,,5.0,Less than 5 hours,Moderate,BHM,No,2,1,Yes,No
+Male,37,Working Professional,,,2.0,,,2.0,More than 8 hours,Healthy,Class 12,No,11,1,No,No
+Female,28,Student,,3.0,,5.1,3.0,,Less than 5 hours,Healthy,B.Com,No,3,1,No,No
+Female,54,Working Professional,Content Writer,,4.0,,,2.0,7-8 hours,Healthy,M.Tech,Yes,11,2,No,No
+Male,39,Working Professional,Consultant,,5.0,,,2.0,Less than 5 hours,Healthy,ME,Yes,9,3,Yes,Yes
+Female,24,Working Professional,Pilot,,5.0,,,4.0,7-8 hours,Moderate,M.Tech,No,6,5,Yes,No
+Male,57,Working Professional,Financial Analyst,,4.0,,,4.0,Less than 5 hours,Unhealthy,BBA,Yes,2,3,No,No
+Female,36,Working Professional,Teacher,,3.0,,,2.0,5-6 hours,Unhealthy,LLM,Yes,5,3,No,No
+Female,36,Working Professional,Pharmacist,,1.0,,,4.0,More than 8 hours,Moderate,MD,No,12,3,Yes,No
+Male,47,Working Professional,HR Manager,,2.0,,,5.0,5-6 hours,Unhealthy,BCA,No,4,2,Yes,No
+Male,40,Working Professional,Chef,,4.0,,,2.0,7-8 hours,Unhealthy,MHM,Yes,5,4,Yes,Yes
+Female,49,Working Professional,Teacher,,1.0,,,4.0,More than 8 hours,Moderate,B.Arch,No,11,4,Yes,No
+Female,40,Working Professional,Lawyer,,1.0,,,1.0,Less than 5 hours,Unhealthy,LLB,No,3,1,No,No
+Male,24,Student,,3.0,,9.21,2.0,,Less than 5 hours,Unhealthy,BCA,Yes,5,1,Yes,Yes
+Female,33,Student,,4.0,,6.0,1.0,,Less than 5 hours,Healthy,BA,Yes,10,3,Yes,Yes
+Female,36,Working Professional,Plumber,,1.0,,,5.0,7-8 hours,Healthy,MCA,Yes,10,1,Yes,No
+Male,26,Working Professional,Architect,,4.0,,,5.0,5-6 hours,Moderate,B.Arch,No,4,3,Yes,No
+Female,53,Working Professional,HR Manager,,5.0,,,1.0,7-8 hours,Unhealthy,ME,No,5,2,Yes,No
+Male,41,Working Professional,Manager,,2.0,,,1.0,5-6 hours,Healthy,BHM,Yes,3,4,No,No
+Male,41,Working Professional,Entrepreneur,,3.0,,,1.0,More than 8 hours,Unhealthy,BSc,No,0,2,No,No
+Female,54,Working Professional,HR Manager,,5.0,,,4.0,Less than 5 hours,Unhealthy,MSc,Yes,3,1,Yes,No
+Male,32,Working Professional,Pharmacist,,5.0,,,2.0,Less than 5 hours,Unhealthy,MBBS,No,1,5,No,No
+Male,48,Working Professional,UX/UI Designer,,3.0,,,5.0,More than 8 hours,Unhealthy,MCA,No,11,5,Yes,No
+Female,49,Working Professional,Manager,,5.0,,,1.0,7-8 hours,Healthy,MHM,No,9,2,No,No
+Male,27,Working Professional,Teacher,,4.0,,,3.0,7-8 hours,Moderate,MA,No,9,4,No,No
+Female,57,Working Professional,Business Analyst,,1.0,,,4.0,Less than 5 hours,Healthy,BBA,Yes,10,1,No,No
+Female,37,Working Professional,Electrician,,5.0,,,1.0,5-6 hours,Healthy,M.Tech,No,0,5,No,No
+Male,22,Working Professional,Content Writer,,1.0,,,4.0,7-8 hours,Moderate,B.Ed,Yes,8,4,Yes,No
+Male,46,Working Professional,Electrician,,3.0,,,4.0,5-6 hours,Unhealthy,M.Tech,No,7,4,Yes,No
+Female,32,Student,,2.0,,5.88,4.0,,5-6 hours,Moderate,MBA,No,10,1,Yes,No
+Male,59,Working Professional,Judge,,4.0,,,2.0,7-8 hours,Moderate,LLB,Yes,5,3,Yes,No
+Male,31,Working Professional,Consultant,,3.0,,,5.0,More than 8 hours,Healthy,M.Com,No,7,5,Yes,No
+Male,56,Working Professional,Teacher,,3.0,,,2.0,More than 8 hours,Moderate,B.Ed,Yes,7,5,No,No
+Male,26,Student,,4.0,,8.83,3.0,,7-8 hours,Healthy,BBA,Yes,7,4,Yes,Yes
+Female,30,Working Professional,Teacher,,5.0,,,3.0,Less than 5 hours,Unhealthy,MBBS,No,7,2,Yes,No
+Female,49,Working Professional,Doctor,,4.0,,,1.0,5-6 hours,Unhealthy,MBBS,Yes,0,4,Yes,No
+Female,24,Student,,5.0,,9.95,2.0,,5-6 hours,Moderate,Class 12,Yes,7,3,No,Yes
+Male,18,Working Professional,,,5.0,,,4.0,Less than 5 hours,Moderate,Class 12,Yes,2,5,Yes,Yes
+Female,32,Student,,3.0,,8.95,4.0,,5-6 hours,Moderate,MCA,Yes,12,1,No,No
+Male,28,Student,,3.0,,8.0,4.0,,5-6 hours,Moderate,BBA,Yes,10,2,No,Yes
+Female,38,Working Professional,Researcher,,5.0,,,3.0,Less than 5 hours,Moderate,BCA,No,2,2,No,No
+Male,30,Student,,3.0,,9.42,2.0,,7-8 hours,Unhealthy,M.Com,Yes,2,4,Yes,Yes
+Female,50,Working Professional,Doctor,,4.0,,,4.0,5-6 hours,Unhealthy,B.Pharm,No,10,1,Yes,No
+Female,60,Working Professional,Teacher,,2.0,,,4.0,More than 8 hours,Healthy,MD,No,3,1,Yes,No
+Female,35,Working Professional,Teacher,,3.0,,,2.0,7-8 hours,Healthy,LLM,Yes,9,3,Yes,No
+Male,30,Student,,1.0,,7.71,4.0,,Less than 5 hours,Healthy,B.Tech,No,10,1,Yes,No
+Male,44,Working Professional,Chemist,,2.0,,,4.0,Less than 5 hours,Healthy,M.Pharm,No,10,2,No,No
+Male,31,Working Professional,Chef,,1.0,,,3.0,Less than 5 hours,Healthy,BHM,No,2,3,No,No
+Female,20,Working Professional,,,3.0,,,5.0,7-8 hours,Healthy,Class 12,No,2,1,Yes,No
+Female,31,Student,,1.0,,7.91,2.0,,7-8 hours,Moderate,B.Ed,Yes,9,4,No,No
+Female,54,Working Professional,Pharmacist,,4.0,,,1.0,Less than 5 hours,Healthy,MBBS,Yes,4,2,No,No
+Male,23,Working Professional,Teacher,,2.0,,,2.0,5-6 hours,Moderate,M.Com,No,2,1,Yes,No
+Female,53,Working Professional,Finanancial Analyst,,2.0,,,5.0,Less than 5 hours,Healthy,BSc,No,9,5,Yes,No
+Male,52,Working Professional,Lawyer,,1.0,,,3.0,7-8 hours,Moderate,LLB,No,11,1,Yes,No
+Female,47,Working Professional,Teacher,,3.0,,,3.0,Less than 5 hours,Moderate,LLM,No,10,2,No,No
+Female,23,Working Professional,Data Scientist,,1.0,,,5.0,5-6 hours,Healthy,BE,No,11,4,No,No
+Female,38,Working Professional,Teacher,,4.0,,,4.0,Less than 5 hours,Moderate,BBA,No,0,2,No,No
+Male,48,Working Professional,Data Scientist,,4.0,,,2.0,More than 8 hours,Unhealthy,B.Tech,No,9,4,No,No
+Female,59,Working Professional,Teacher,,1.0,,,4.0,5-6 hours,Moderate,BSc,Yes,10,3,Yes,No
+Male,35,Working Professional,HR Manager,,1.0,,,5.0,7-8 hours,Healthy,B.Tech,No,8,3,No,No
+Male,56,Working Professional,Civil Engineer,,5.0,,,1.0,5-6 hours,Moderate,MCA,No,1,4,No,No
+Male,18,Working Professional,,,5.0,,,4.0,5-6 hours,Moderate,Class 12,No,11,2,Yes,Yes
+Male,29,Student,,5.0,,7.49,4.0,,7-8 hours,Unhealthy,M.Pharm,Yes,5,5,No,Yes
+Female,26,Student,,3.0,,9.97,3.0,,More than 8 hours,Moderate,MA,No,10,3,No,No
+Male,49,Working Professional,Finanancial Analyst,,5.0,,,5.0,More than 8 hours,Moderate,MCA,No,7,1,No,No
+Male,50,Working Professional,Entrepreneur,,2.0,,,5.0,More than 8 hours,Healthy,MBA,No,11,5,No,No
+Male,58,Working Professional,Civil Engineer,,2.0,,,2.0,5-6 hours,Healthy,MCA,No,8,1,No,No
+Female,30,Working Professional,,,2.0,,,5.0,Less than 5 hours,Unhealthy,Class 12,No,5,2,No,No
+Female,41,Working Professional,Teacher,,1.0,,,2.0,7-8 hours,Unhealthy,LLM,Yes,6,3,Yes,No
+Male,20,Working Professional,,,4.0,,,2.0,5-6 hours,Unhealthy,Class 12,Yes,0,1,Yes,Yes
+Male,34,Student,,4.0,,7.51,1.0,,7-8 hours,Unhealthy,MSc,Yes,11,5,No,Yes
+Female,43,Working Professional,Business Analyst,,4.0,,,2.0,Less than 5 hours,Unhealthy,M.Tech,Yes,1,3,No,No
+Male,50,Working Professional,Lawyer,,5.0,,,1.0,More than 8 hours,Unhealthy,LLM,Yes,10,5,Yes,Yes
+Male,38,Working Professional,Teacher,,2.0,,,5.0,5-6 hours,Healthy,B.Pharm,No,10,4,Yes,No
+Male,40,Working Professional,Teacher,,1.0,,,2.0,5-6 hours,Healthy,MBA,Yes,5,2,No,No
+Male,56,Working Professional,Customer Support,,2.0,,,5.0,More than 8 hours,Healthy,BA,No,1,5,No,No
+Female,24,Student,,1.0,,8.44,5.0,,7-8 hours,Unhealthy,M.Com,Yes,10,5,Yes,Yes
+Female,35,Working Professional,Researcher,,1.0,,,1.0,7-8 hours,Moderate,BE,Yes,7,1,Yes,No
+Male,28,Working Professional,Content Writer,,3.0,,,5.0,More than 8 hours,Moderate,BA,No,3,1,Yes,No
+Female,39,Working Professional,HR Manager,,3.0,,,2.0,5-6 hours,Unhealthy,BBA,No,2,5,Yes,No
+Female,50,Working Professional,Chef,,2.0,,,3.0,Less than 5 hours,Unhealthy,MHM,Yes,0,3,No,No
+Female,43,Working Professional,Architect,,2.0,,,4.0,More than 8 hours,Moderate,MCA,Yes,5,1,Yes,No
+Female,32,Student,,4.0,,7.09,4.0,,5-6 hours,Healthy,MCA,No,2,2,No,No
+Female,58,Working Professional,Entrepreneur,,2.0,,,2.0,7-8 hours,Unhealthy,BE,Yes,1,2,Yes,No
+Male,21,Working Professional,Civil Engineer,,5.0,,,2.0,7-8 hours,Moderate,BE,No,11,3,No,Yes
+Male,45,Working Professional,UX/UI Designer,,4.0,,,1.0,Less than 5 hours,Healthy,PhD,No,0,2,Yes,No
+Male,26,Working Professional,Pharmacist,,1.0,,,5.0,More than 8 hours,Healthy,MBBS,No,3,2,Yes,No
+Male,58,Working Professional,Consultant,,4.0,,,3.0,More than 8 hours,Unhealthy,MCA,Yes,7,5,Yes,No
+Female,24,Working Professional,Consultant,,4.0,,,5.0,5-6 hours,Healthy,MSc,Yes,11,5,Yes,Yes
+Male,46,Working Professional,Researcher,,3.0,,,2.0,Less than 5 hours,Healthy,BSc,Yes,0,1,Yes,No
+Male,35,Working Professional,HR Manager,,2.0,,,3.0,More than 8 hours,Healthy,M.Tech,No,10,2,Yes,No
+Male,41,Working Professional,Customer Support,,2.0,,,2.0,More than 8 hours,Healthy,M.Com,No,3,1,Yes,No
+Female,54,Working Professional,Accountant,,3.0,,,2.0,More than 8 hours,Moderate,B.Com,Yes,6,2,Yes,No
+Male,46,Working Professional,Teacher,,4.0,,,2.0,More than 8 hours,Healthy,M.Pharm,Yes,1,4,Yes,No
+Male,47,Working Professional,Chemist,,1.0,,,2.0,More than 8 hours,Healthy,B.Pharm,No,11,4,No,No
+Female,27,Working Professional,Data Scientist,,5.0,,,2.0,5-6 hours,Moderate,ME,Yes,8,5,Yes,Yes
+Female,23,Student,,2.0,,5.32,2.0,,More than 8 hours,Healthy,BSc,No,1,1,Yes,No
+Male,47,Working Professional,Teacher,,2.0,,,2.0,Less than 5 hours,Healthy,B.Com,No,10,3,Yes,No
+Male,57,Working Professional,HR Manager,,1.0,,,3.0,7-8 hours,Moderate,MBA,No,6,5,No,No
+Male,60,Working Professional,Financial Analyst,,4.0,,,3.0,5-6 hours,Unhealthy,B.Com,Yes,0,4,Yes,No
+Male,33,Working Professional,Lawyer,,4.0,,,3.0,7-8 hours,Healthy,LLM,Yes,2,2,No,No
+Female,28,Student,,2.0,,9.63,4.0,,7-8 hours,Healthy,B.Arch,Yes,2,4,Yes,No
+Male,53,Working Professional,HR Manager,,4.0,,,5.0,7-8 hours,Healthy,MBA,No,11,2,No,No
+Male,34,Student,,3.0,,9.71,1.0,,7-8 hours,Moderate,LLM,No,7,3,No,No
+Male,43,Working Professional,Software Engineer,,5.0,,,5.0,5-6 hours,Healthy,MSc,Yes,9,5,No,No
+Female,33,Working Professional,Teacher,,1.0,,,1.0,More than 8 hours,Moderate,B.Arch,No,2,3,Yes,No
+Male,42,Working Professional,Architect,,1.0,,,2.0,Less than 5 hours,Healthy,B.Arch,No,4,4,No,No
+Female,33,Working Professional,Travel Consultant,,4.0,,,5.0,5-6 hours,Healthy,BHM,Yes,5,1,Yes,No
+Female,56,Working Professional,Teacher,,4.0,,,3.0,More than 8 hours,Moderate,LLB,No,12,3,No,No
+Female,43,Working Professional,Content Writer,,2.0,,,3.0,Less than 5 hours,Moderate,M.Ed,No,1,1,Yes,No
+Male,58,Working Professional,Business Analyst,,3.0,,,2.0,7-8 hours,Moderate,MBA,No,9,5,No,No
+Female,52,Working Professional,Content Writer,,2.0,,,1.0,More than 8 hours,Healthy,ME,No,9,5,Yes,No
+Male,35,Working Professional,Pharmacist,,4.0,,,3.0,Less than 5 hours,Moderate,MD,No,9,5,Yes,No
+Female,34,Working Professional,Consultant,,2.0,,,1.0,More than 8 hours,Healthy,B.Tech,Yes,3,2,Yes,No
+Male,19,Student,,2.0,,7.38,4.0,,Less than 5 hours,Moderate,Class 12,Yes,5,4,Yes,Yes
+Male,27,Student,,4.0,,8.44,2.0,,More than 8 hours,Moderate,LLB,Yes,4,3,No,Yes
+Male,47,Working Professional,HR Manager,,2.0,,,5.0,More than 8 hours,Unhealthy,BA,Yes,4,4,Yes,No
+Male,29,Working Professional,Chef,,2.0,,,5.0,Less than 5 hours,Unhealthy,BHM,No,2,2,No,No
+Female,56,Working Professional,Judge,,2.0,,,5.0,5-6 hours,Healthy,LLB,No,7,5,No,No
+Male,43,Working Professional,Mechanical Engineer,,4.0,,,4.0,5-6 hours,Healthy,MSc,Yes,8,2,No,No
+Male,47,Working Professional,Mechanical Engineer,,5.0,,,1.0,More than 8 hours,Unhealthy,BSc,Yes,10,4,No,Yes
+Male,53,Working Professional,Teacher,,4.0,,,5.0,More than 8 hours,Healthy,B.Ed,Yes,5,5,Yes,No
+Male,39,Working Professional,Doctor,,1.0,,,5.0,More than 8 hours,Healthy,B.Pharm,No,0,5,No,No
+Male,33,Student,,4.0,,9.29,3.0,,Less than 5 hours,Unhealthy,M.Ed,Yes,8,3,Yes,Yes
+Male,18,Working Professional,,,2.0,,,5.0,More than 8 hours,Moderate,Class 12,No,5,1,Yes,No
+Male,57,Working Professional,Marketing Manager,,2.0,,,1.0,5-6 hours,Unhealthy,BA,Yes,3,2,Yes,No
+Male,59,Working Professional,,,5.0,,,1.0,5-6 hours,Moderate,Class 12,Yes,11,2,No,No
+Male,40,Working Professional,Content Writer,,5.0,,,3.0,7-8 hours,Unhealthy,BA,No,5,2,Yes,No
+Male,40,Working Professional,Chef,,5.0,,,4.0,Less than 5 hours,Healthy,BHM,No,12,1,Yes,No
+Female,18,Student,,5.0,,9.63,4.0,,7-8 hours,Moderate,Class 12,Yes,9,1,No,Yes
+Female,18,Working Professional,,,3.0,,,2.0,7-8 hours,Unhealthy,Class 12,Yes,1,4,No,Yes
+Female,33,Working Professional,HR Manager,,2.0,,,1.0,5-6 hours,Moderate,BBA,Yes,5,1,Yes,No
+Female,24,Working Professional,Chemist,,1.0,,,4.0,5-6 hours,Unhealthy,MBBS,No,3,1,Yes,No
+Female,50,Working Professional,Entrepreneur,,2.0,,,5.0,7-8 hours,Unhealthy,MCA,No,4,2,Yes,No
+Female,20,Working Professional,,,3.0,,,2.0,5-6 hours,Healthy,Class 12,No,11,2,Yes,No
+Male,47,Working Professional,Electrician,,1.0,,,1.0,Less than 5 hours,Healthy,ME,Yes,10,5,No,No
+Female,51,Working Professional,Doctor,,3.0,,,5.0,More than 8 hours,Unhealthy,B.Pharm,Yes,10,3,No,No
+Male,41,Working Professional,Pharmacist,,4.0,,,4.0,7-8 hours,Healthy,MD,No,4,1,Yes,No
+Female,47,Working Professional,Chef,,1.0,,,1.0,Less than 5 hours,Moderate,MHM,Yes,5,5,Yes,No
+Female,56,Working Professional,Pharmacist,,5.0,,,1.0,Less than 5 hours,Unhealthy,MD,No,3,4,Yes,No
+Male,29,Student,,3.0,,6.26,3.0,,7-8 hours,Unhealthy,LLM,Yes,1,3,Yes,Yes
+Female,19,Student,,1.0,,8.7,1.0,,5-6 hours,Healthy,Class 12,Yes,10,3,No,Yes
+Female,34,Working Professional,Chef,,3.0,,,1.0,Less than 5 hours,Unhealthy,MHM,No,11,1,Yes,No
+Male,25,Student,,1.0,,7.74,1.0,,More than 8 hours,Healthy,MHM,No,9,2,No,No
+Female,48,Working Professional,Lawyer,,3.0,,,4.0,More than 8 hours,Moderate,LLM,Yes,2,4,Yes,No
+Female,41,Working Professional,Business Analyst,,1.0,,,2.0,5-6 hours,Moderate,BE,No,0,5,Yes,No
+Female,51,Working Professional,Digital Marketer,,2.0,,,5.0,7-8 hours,Healthy,BA,No,9,3,No,No
+Female,51,Working Professional,Architect,,5.0,,,5.0,7-8 hours,Unhealthy,MSc,Yes,7,1,No,No
+Female,56,Working Professional,Finanancial Analyst,,1.0,,,1.0,Less than 5 hours,Healthy,BE,No,9,4,Yes,No
+Male,56,Working Professional,Teacher,,5.0,,,2.0,5-6 hours,Healthy,M.Com,Yes,2,5,No,No
+Male,40,Working Professional,Sales Executive,,2.0,,,5.0,More than 8 hours,Unhealthy,MBA,No,3,2,No,No
+Female,47,Working Professional,Architect,,4.0,,,5.0,More than 8 hours,Healthy,BE,Yes,2,2,No,No
+Female,45,Working Professional,Financial Analyst,,4.0,,,1.0,7-8 hours,Healthy,B.Com,No,9,2,Yes,No
+Female,55,Working Professional,Teacher,,5.0,,,1.0,More than 8 hours,Healthy,LLB,No,7,4,Yes,No
+Female,42,Working Professional,UX/UI Designer,,5.0,,,3.0,More than 8 hours,Moderate,MSc,No,2,2,Yes,No
+Female,21,Working Professional,Content Writer,,3.0,,,3.0,Less than 5 hours,Healthy,B.Ed,Yes,9,2,No,Yes
+Female,38,Working Professional,Teacher,,3.0,,,4.0,5-6 hours,Moderate,M.Ed,No,5,1,Yes,No
+Female,60,Working Professional,Consultant,,3.0,,,1.0,7-8 hours,Unhealthy,MBA,Yes,12,4,No,No
+Male,24,Working Professional,Pharmacist,,1.0,,,3.0,Less than 5 hours,Healthy,MBBS,No,0,2,No,No
+Female,60,Working Professional,Teacher,,3.0,,,2.0,More than 8 hours,Moderate,LLB,Yes,5,3,Yes,No
+Female,27,Student,,2.0,,8.09,2.0,,Less than 5 hours,Healthy,MBA,No,3,4,No,No
+Male,38,Working Professional,Architect,,3.0,,,2.0,7-8 hours,Unhealthy,B.Arch,No,5,2,No,No
+Female,30,Student,,5.0,,9.46,4.0,,More than 8 hours,Unhealthy,B.Com,No,12,1,Yes,No
+Male,56,Working Professional,Architect,,2.0,,,5.0,More than 8 hours,Unhealthy,B.Arch,No,0,3,No,No
+Female,35,Working Professional,Graphic Designer,,4.0,,,5.0,7-8 hours,Unhealthy,BCA,No,1,2,Yes,No
+Male,21,Student,,1.0,,9.88,3.0,,5-6 hours,Moderate,B.Com,No,7,3,Yes,No
+Male,25,Student,,3.0,,6.83,2.0,,More than 8 hours,Unhealthy,M.Ed,Yes,8,1,No,Yes
+Male,58,Working Professional,Pilot,,2.0,,,2.0,5-6 hours,Healthy,MCA,No,10,4,Yes,No
+Female,32,Student,,2.0,,5.99,3.0,,7-8 hours,Moderate,B.Arch,No,6,1,No,No
+Female,41,Working Professional,Teacher,,4.0,,,2.0,7-8 hours,Unhealthy,MBBS,Yes,1,4,No,No
+Male,53,Working Professional,Researcher,,5.0,,,3.0,Less than 5 hours,Healthy,M.Tech,No,5,3,No,No
+Male,18,Working Professional,,,4.0,,,4.0,More than 8 hours,Healthy,Class 12,No,7,4,No,No
+Male,59,Working Professional,HR Manager,,2.0,,,3.0,7-8 hours,Moderate,MA,No,9,3,No,No
+Female,40,Working Professional,Entrepreneur,,3.0,,,5.0,5-6 hours,Unhealthy,M.Tech,Yes,3,5,No,No
+Male,29,Working Professional,,,3.0,,,1.0,7-8 hours,Moderate,Class 12,Yes,4,1,No,No
+Male,56,Working Professional,HR Manager,,3.0,,,5.0,7-8 hours,Unhealthy,BBA,No,12,4,Yes,No
+Male,23,Working Professional,UX/UI Designer,,5.0,,,1.0,Less than 5 hours,Moderate,MCA,No,1,3,No,Yes
+Male,51,Working Professional,Architect,,5.0,,,1.0,7-8 hours,Moderate,B.Arch,Yes,10,5,Yes,Yes
+Female,30,Student,,3.0,,7.27,3.0,,5-6 hours,Moderate,BA,No,12,1,Yes,No
+Male,26,Working Professional,Teacher,,2.0,,,2.0,Less than 5 hours,Moderate,M.Ed,No,12,3,Yes,No
+Male,45,Working Professional,Chef,,5.0,,,5.0,5-6 hours,Unhealthy,BHM,No,3,2,No,No
+Female,30,Working Professional,Travel Consultant,,1.0,,,3.0,5-6 hours,Healthy,MHM,Yes,6,5,Yes,No
+Male,43,Working Professional,Chef,,5.0,,,1.0,Less than 5 hours,Unhealthy,MHM,Yes,8,4,No,Yes
+Male,46,Working Professional,Consultant,,5.0,,,5.0,7-8 hours,Unhealthy,BE,No,7,2,No,No
+Female,42,Working Professional,Doctor,,5.0,,,5.0,7-8 hours,Moderate,M.Pharm,No,11,2,No,No
+Female,46,Working Professional,HR Manager,,5.0,,,2.0,5-6 hours,Healthy,BE,No,0,3,No,No
+Female,31,Student,,5.0,,5.79,4.0,,5-6 hours,Healthy,M.Pharm,Yes,6,4,No,Yes
+Female,21,Student,,1.0,,7.09,1.0,,7-8 hours,Moderate,B.Arch,No,11,3,No,No
+Female,50,Working Professional,Teacher,,2.0,,,2.0,5-6 hours,Healthy,LLB,No,12,2,Yes,No
+Female,45,Working Professional,Content Writer,,1.0,,,2.0,5-6 hours,Moderate,BE,No,5,3,Yes,No
+Male,53,Working Professional,Pharmacist,,5.0,,,4.0,5-6 hours,Unhealthy,B.Pharm,Yes,4,1,Yes,No
+Female,57,Working Professional,Financial Analyst,,4.0,,,1.0,7-8 hours,Unhealthy,M.Com,Yes,11,2,No,No
+Male,48,Working Professional,Mechanical Engineer,,2.0,,,1.0,More than 8 hours,Moderate,M.Tech,No,2,2,No,No
+Male,29,Working Professional,,,4.0,,,4.0,5-6 hours,Unhealthy,Class 12,No,1,1,No,No
+Female,41,Working Professional,HR Manager,,5.0,,,2.0,7-8 hours,Unhealthy,MA,Yes,0,5,No,No
+Female,50,Working Professional,Chef,,5.0,,,3.0,7-8 hours,Moderate,BHM,Yes,9,3,No,No
+Male,46,Working Professional,Pilot,,2.0,,,3.0,7-8 hours,Unhealthy,MCA,No,6,2,Yes,No
+Male,43,Working Professional,Teacher,,5.0,,,2.0,More than 8 hours,Moderate,BSc,No,7,1,Yes,No
+Female,48,Working Professional,Travel Consultant,,5.0,,,2.0,Less than 5 hours,Moderate,MHM,No,1,3,Yes,No
+Male,40,Working Professional,Software Engineer,,1.0,,,5.0,7-8 hours,Unhealthy,B.Tech,No,4,2,Yes,No
+Male,44,Working Professional,,,4.0,,,3.0,Less than 5 hours,Healthy,Class 12,No,1,2,No,No
+Male,25,Working Professional,Doctor,,1.0,,,2.0,Less than 5 hours,Healthy,M.Pharm,Yes,6,5,No,Yes
+Male,49,Working Professional,Travel Consultant,,4.0,,,5.0,More than 8 hours,Moderate,BHM,No,5,4,No,No
+Male,52,Working Professional,Doctor,,4.0,,,2.0,Less than 5 hours,Moderate,M.Pharm,Yes,4,1,No,No
+Male,19,Student,,5.0,,6.21,1.0,,Less than 5 hours,Healthy,Class 12,Yes,7,3,No,Yes
+Male,18,Working Professional,,,5.0,,,3.0,More than 8 hours,Unhealthy,Class 12,Yes,0,3,No,Yes
+Male,25,Student,,1.0,,6.61,3.0,,7-8 hours,Unhealthy,MSc,No,8,1,Yes,No
+Female,28,Working Professional,Plumber,,1.0,,,1.0,5-6 hours,Moderate,BE,Yes,3,5,No,Yes
+Male,39,Working Professional,UX/UI Designer,,1.0,,,4.0,More than 8 hours,Healthy,BCA,Yes,6,5,No,No
+Female,47,Working Professional,Lawyer,,2.0,,,2.0,5-6 hours,Healthy,LLM,No,4,1,No,No
+Female,56,Working Professional,Teacher,,3.0,,,1.0,7-8 hours,Healthy,MCA,No,8,5,Yes,No
+Female,24,Student,,4.0,,8.21,4.0,,7-8 hours,Moderate,B.Pharm,No,0,4,Yes,No
+Female,47,Working Professional,Travel Consultant,,5.0,,,3.0,5-6 hours,Healthy,BHM,No,0,5,Yes,No
+Female,34,Working Professional,Entrepreneur,,4.0,,,3.0,More than 8 hours,Healthy,BBA,No,1,3,No,No
+Male,23,Working Professional,Financial Analyst,,4.0,,,3.0,5-6 hours,Moderate,B.Com,No,9,3,Yes,No
+Male,23,Working Professional,Consultant,,5.0,,,4.0,More than 8 hours,Healthy,BBA,Yes,10,2,Yes,Yes
+Female,36,Working Professional,Content Writer,,1.0,,,2.0,More than 8 hours,Healthy,B.Ed,Yes,7,3,Yes,No
+Female,38,Working Professional,Data Scientist,,5.0,,,4.0,More than 8 hours,Moderate,BCA,No,2,5,Yes,No
+Female,59,Working Professional,Doctor,,2.0,,,2.0,More than 8 hours,Healthy,B.Pharm,No,1,4,No,No
+Male,38,Working Professional,Educational Consultant,,2.0,,,5.0,7-8 hours,Moderate,M.Ed,Yes,12,1,No,No
+Male,21,Student,,1.0,,8.35,4.0,,5-6 hours,Unhealthy,B.Com,No,9,5,No,No
+Female,33,Working Professional,Data Scientist,,2.0,,,2.0,More than 8 hours,Healthy,ME,Yes,1,2,Yes,No
+Male,60,Working Professional,Travel Consultant,,2.0,,,4.0,5-6 hours,Healthy,BHM,No,8,2,Yes,No
+Female,25,Working Professional,Doctor,,4.0,,,3.0,7-8 hours,Moderate,MD,No,12,5,No,No
+Female,25,Student,,5.0,,8.53,4.0,,Less than 5 hours,Healthy,PhD,No,7,1,No,No
+Male,20,Working Professional,,,2.0,,,1.0,5-6 hours,Unhealthy,Class 12,Yes,7,3,No,Yes
+Female,57,Working Professional,Teacher,,3.0,,,5.0,5-6 hours,Moderate,B.Arch,Yes,3,3,Yes,No
+Male,58,Working Professional,Judge,,3.0,,,1.0,More than 8 hours,Healthy,LLM,Yes,5,1,No,No
+Male,20,Working Professional,,,4.0,,,3.0,More than 8 hours,Healthy,Class 12,No,0,3,Yes,No
+Male,34,Student,,3.0,,6.1,2.0,,5-6 hours,Moderate,B.Pharm,No,4,3,Yes,No
+Female,25,Student,,3.0,,6.59,1.0,,7-8 hours,Healthy,BSc,No,9,3,No,No
+Male,38,Working Professional,Judge,,1.0,,,1.0,More than 8 hours,Unhealthy,LLB,No,7,2,Yes,No
+Female,45,Working Professional,Content Writer,,4.0,,,2.0,Less than 5 hours,Healthy,B.Ed,No,2,2,No,No
+Female,51,Working Professional,Content Writer,,1.0,,,2.0,5-6 hours,Moderate,M.Ed,Yes,9,2,No,No
+Female,35,Working Professional,Marketing Manager,,1.0,,,3.0,Less than 5 hours,Unhealthy,MA,Yes,12,3,No,No
+Female,20,Working Professional,,,3.0,,,1.0,More than 8 hours,Healthy,Class 12,Yes,1,1,Yes,Yes
+Female,20,Student,,1.0,,9.72,3.0,,7-8 hours,Healthy,Class 12,Yes,0,5,No,No
+Male,48,Working Professional,Educational Consultant,,2.0,,,2.0,Less than 5 hours,Moderate,B.Ed,No,0,2,No,No
+Female,44,Working Professional,Travel Consultant,,1.0,,,4.0,More than 8 hours,Healthy,BHM,No,5,5,Yes,No
+Female,19,Working Professional,,,3.0,,,3.0,7-8 hours,Moderate,Class 12,No,1,3,No,No
+Male,55,Working Professional,Architect,,4.0,,,5.0,More than 8 hours,Moderate,BSc,No,12,2,No,No
+Female,39,Working Professional,HR Manager,,2.0,,,3.0,More than 8 hours,Healthy,BA,Yes,8,5,No,No
+Male,42,Working Professional,Data Scientist,,2.0,,,3.0,More than 8 hours,Healthy,BE,No,0,2,No,No
+Male,53,Working Professional,Content Writer,,1.0,,,3.0,7-8 hours,Unhealthy,M.Ed,No,11,1,Yes,No
+Male,48,Working Professional,Pharmacist,,2.0,,,4.0,More than 8 hours,Healthy,B.Pharm,No,5,2,No,No
+Female,51,Working Professional,HR Manager,,5.0,,,5.0,5-6 hours,Healthy,ME,No,11,2,No,No
+Male,25,Student,,3.0,,6.79,2.0,,More than 8 hours,Unhealthy,BSc,Yes,4,4,No,Yes
+Female,52,Working Professional,Entrepreneur,,5.0,,,1.0,More than 8 hours,Unhealthy,MSc,No,10,5,No,No
+Female,59,Working Professional,Mechanical Engineer,,1.0,,,4.0,5-6 hours,Healthy,BE,No,5,2,No,No
+Female,29,Working Professional,,,5.0,,,1.0,7-8 hours,Healthy,Class 12,No,3,2,No,No
+Male,58,Working Professional,Consultant,,3.0,,,4.0,Less than 5 hours,Moderate,B.Com,Yes,12,5,No,No
+Female,49,Working Professional,Pharmacist,,2.0,,,3.0,More than 8 hours,Healthy,MD,Yes,12,2,Yes,No
+Male,59,Working Professional,Marketing Manager,,2.0,,,2.0,More than 8 hours,Moderate,B.Com,No,3,5,Yes,No
+Female,30,Working Professional,Marketing Manager,,5.0,,,1.0,7-8 hours,Unhealthy,B.Com,No,0,2,Yes,No
+Female,28,Student,,4.0,,5.17,3.0,,More than 8 hours,Healthy,MSc,Yes,12,5,Yes,Yes
+Female,42,Working Professional,Travel Consultant,,1.0,,,2.0,5-6 hours,Moderate,BHM,Yes,5,2,Yes,No
+Female,19,Working Professional,,,5.0,,,5.0,More than 8 hours,Moderate,Class 12,No,11,5,Yes,Yes
+Female,27,Student,,4.0,,9.13,2.0,,5-6 hours,Unhealthy,MA,No,2,4,Yes,Yes
+Female,29,Working Professional,Teacher,,1.0,,,1.0,7-8 hours,Healthy,M.Com,No,11,2,Yes,No
+Female,31,Student,,2.0,,8.08,1.0,,Less than 5 hours,Moderate,B.Ed,Yes,5,2,No,Yes
+Female,38,Working Professional,Teacher,,3.0,,,2.0,7-8 hours,Unhealthy,LLM,No,5,1,No,No
+Female,25,Working Professional,Educational Consultant,,1.0,,,4.0,Less than 5 hours,Healthy,B.Ed,Yes,3,2,Yes,No
+Female,27,Student,,5.0,,9.6,2.0,,5-6 hours,Unhealthy,B.Pharm,Yes,7,2,No,Yes
+Male,47,Working Professional,Consultant,,1.0,,,2.0,5-6 hours,Unhealthy,BSc,Yes,3,5,Yes,No
+Female,48,Working Professional,Content Writer,,3.0,,,3.0,5-6 hours,Moderate,MCA,Yes,2,1,No,No
+Female,29,Student,,3.0,,6.83,5.0,,5-6 hours,Healthy,ME,No,9,1,No,No
+Male,34,Student,,1.0,,8.71,1.0,,5-6 hours,Healthy,MD,No,7,1,No,No
+Male,33,Working Professional,Teacher,,3.0,,,1.0,Less than 5 hours,Unhealthy,MBBS,No,4,4,Yes,No
