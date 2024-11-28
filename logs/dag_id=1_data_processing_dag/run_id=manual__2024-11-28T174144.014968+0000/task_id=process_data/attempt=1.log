@@ -1,0 +1,49 @@
+[2024-11-28T17:41:49.227+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: 1_data_processing_dag.process_data manual__2024-11-28T17:41:44.014968+00:00 [queued]>
+[2024-11-28T17:41:49.239+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: 1_data_processing_dag.process_data manual__2024-11-28T17:41:44.014968+00:00 [queued]>
+[2024-11-28T17:41:49.240+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-28T17:41:49.240+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 2
+[2024-11-28T17:41:49.240+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-28T17:41:49.258+0000] {taskinstance.py:1300} INFO - Executing <Task(PythonOperator): process_data> on 2024-11-28 17:41:44.014968+00:00
+[2024-11-28T17:41:49.271+0000] {standard_task_runner.py:55} INFO - Started process 89 to run task
+[2024-11-28T17:41:49.277+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', '1_data_processing_dag', 'process_data', 'manual__2024-11-28T17:41:44.014968+00:00', '--job-id', '113', '--raw', '--subdir', 'DAGS_FOLDER/1_data_processing_dag.py', '--cfg-path', '/tmp/tmpx77tf306']
+[2024-11-28T17:41:49.280+0000] {standard_task_runner.py:83} INFO - Job 113: Subtask process_data
+[2024-11-28T17:41:49.396+0000] {task_command.py:388} INFO - Running <TaskInstance: 1_data_processing_dag.process_data manual__2024-11-28T17:41:44.014968+00:00 [running]> on host 695ccccc012c
+[2024-11-28T17:41:49.470+0000] {taskinstance.py:1507} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=1_data_processing_dag
+AIRFLOW_CTX_TASK_ID=process_data
+AIRFLOW_CTX_EXECUTION_DATE=2024-11-28T17:41:44.014968+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-11-28T17:41:44.014968+00:00
+[2024-11-28T17:41:49.508+0000] {logging_mixin.py:137} INFO - <class 'pandas.core.frame.DataFrame'>
+RangeIndex: 2556 entries, 0 to 2555
+Data columns (total 19 columns):
+ #   Column                                 Non-Null Count  Dtype  
+---  ------                                 --------------  -----  
+ 0   Name                                   2556 non-null   object 
+ 1   Gender                                 2556 non-null   object 
+ 2   Age                                    2556 non-null   int64  
+ 3   City                                   2556 non-null   object 
+ 4   Working Professional or Student        2556 non-null   object 
+ 5   Profession                             1883 non-null   object 
+ 6   Academic Pressure                      502 non-null    float64
+ 7   Work Pressure                          2054 non-null   float64
+ 8   CGPA                                   502 non-null    float64
+ 9   Study Satisfaction                     502 non-null    float64
+ 10  Job Satisfaction                       2054 non-null   float64
+ 11  Sleep Duration                         2556 non-null   object 
+ 12  Dietary Habits                         2556 non-null   object 
+ 13  Degree                                 2556 non-null   object 
+ 14  Have you ever had suicidal thoughts ?  2556 non-null   object 
+ 15  Work/Study Hours                       2556 non-null   int64  
+ 16  Financial Stress                       2556 non-null   int64  
+ 17  Family History of Mental Illness       2556 non-null   object 
+ 18  Depression                             2556 non-null   object 
+dtypes: float64(5), int64(3), object(11)
+memory usage: 379.5+ KB
+[2024-11-28T17:41:49.601+0000] {python.py:177} INFO - Done. Returned value was: None
+[2024-11-28T17:41:49.610+0000] {taskinstance.py:1318} INFO - Marking task as SUCCESS. dag_id=1_data_processing_dag, task_id=process_data, execution_date=20241128T174144, start_date=20241128T174149, end_date=20241128T174149
+[2024-11-28T17:41:49.651+0000] {local_task_job.py:208} INFO - Task exited with return code 0
+[2024-11-28T17:41:49.666+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

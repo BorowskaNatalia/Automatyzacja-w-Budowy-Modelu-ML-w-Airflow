@@ -1,0 +1,44 @@
+[2024-11-28T17:42:01.522+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: 2_model_training_dag.train_model manual__2024-11-28T17:41:59.408813+00:00 [queued]>
+[2024-11-28T17:42:01.533+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: 2_model_training_dag.train_model manual__2024-11-28T17:41:59.408813+00:00 [queued]>
+[2024-11-28T17:42:01.533+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-28T17:42:01.534+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 2
+[2024-11-28T17:42:01.535+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-28T17:42:01.550+0000] {taskinstance.py:1300} INFO - Executing <Task(PythonOperator): train_model> on 2024-11-28 17:41:59.408813+00:00
+[2024-11-28T17:42:01.561+0000] {standard_task_runner.py:55} INFO - Started process 103 to run task
+[2024-11-28T17:42:01.564+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', '2_model_training_dag', 'train_model', 'manual__2024-11-28T17:41:59.408813+00:00', '--job-id', '114', '--raw', '--subdir', 'DAGS_FOLDER/2_model_training_dag.py', '--cfg-path', '/tmp/tmpoy9bez40']
+[2024-11-28T17:42:01.566+0000] {standard_task_runner.py:83} INFO - Job 114: Subtask train_model
+[2024-11-28T17:42:01.629+0000] {task_command.py:388} INFO - Running <TaskInstance: 2_model_training_dag.train_model manual__2024-11-28T17:41:59.408813+00:00 [running]> on host 695ccccc012c
+[2024-11-28T17:42:01.687+0000] {taskinstance.py:1507} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=2_model_training_dag
+AIRFLOW_CTX_TASK_ID=train_model
+AIRFLOW_CTX_EXECUTION_DATE=2024-11-28T17:41:59.408813+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-11-28T17:41:59.408813+00:00
+[2024-11-28T17:42:01.708+0000] {taskinstance.py:1768} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 175, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 192, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/2_model_training_dag.py", line 19, in train_model
+    X = data.drop('Have you ever had suicidal thoughts ?', axis=1)
+  File "/home/airflow/.local/lib/python3.8/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/pandas/core/frame.py", line 5396, in drop
+    return super().drop(
+  File "/home/airflow/.local/lib/python3.8/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/pandas/core/generic.py", line 4505, in drop
+    obj = obj._drop_axis(labels, axis, level=level, errors=errors)
+  File "/home/airflow/.local/lib/python3.8/site-packages/pandas/core/generic.py", line 4546, in _drop_axis
+    new_axis = axis.drop(labels, errors=errors)
+  File "/home/airflow/.local/lib/python3.8/site-packages/pandas/core/indexes/base.py", line 6977, in drop
+    raise KeyError(f"{list(labels[mask])} not found in axis")
+KeyError: "['Have you ever had suicidal thoughts ?'] not found in axis"
+[2024-11-28T17:42:01.723+0000] {taskinstance.py:1318} INFO - Marking task as UP_FOR_RETRY. dag_id=2_model_training_dag, task_id=train_model, execution_date=20241128T174159, start_date=20241128T174201, end_date=20241128T174201
+[2024-11-28T17:42:01.737+0000] {standard_task_runner.py:100} ERROR - Failed to execute job 114 for task train_model ("['Have you ever had suicidal thoughts ?'] not found in axis"; 103)
+[2024-11-28T17:42:01.777+0000] {local_task_job.py:208} INFO - Task exited with return code 1
+[2024-11-28T17:42:01.791+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

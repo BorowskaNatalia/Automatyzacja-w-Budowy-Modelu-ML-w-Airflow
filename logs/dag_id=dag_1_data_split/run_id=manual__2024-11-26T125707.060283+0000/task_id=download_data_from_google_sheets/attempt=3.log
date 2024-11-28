@@ -1,0 +1,36 @@
+[2024-11-26T13:00:41.212+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: dag_1_data_split.download_data_from_google_sheets manual__2024-11-26T12:57:07.060283+00:00 [queued]>
+[2024-11-26T13:00:41.220+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: dag_1_data_split.download_data_from_google_sheets manual__2024-11-26T12:57:07.060283+00:00 [queued]>
+[2024-11-26T13:00:41.221+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-26T13:00:41.221+0000] {taskinstance.py:1280} INFO - Starting attempt 3 of 4
+[2024-11-26T13:00:41.221+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-26T13:00:41.234+0000] {taskinstance.py:1300} INFO - Executing <Task(PythonOperator): download_data_from_google_sheets> on 2024-11-26 12:57:07.060283+00:00
+[2024-11-26T13:00:41.241+0000] {standard_task_runner.py:55} INFO - Started process 95 to run task
+[2024-11-26T13:00:41.244+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'dag_1_data_split', 'download_data_from_google_sheets', 'manual__2024-11-26T12:57:07.060283+00:00', '--job-id', '6', '--raw', '--subdir', 'DAGS_FOLDER/data_download_dag.py', '--cfg-path', '/tmp/tmpayry8rwt']
+[2024-11-26T13:00:41.246+0000] {standard_task_runner.py:83} INFO - Job 6: Subtask download_data_from_google_sheets
+[2024-11-26T13:00:41.296+0000] {task_command.py:388} INFO - Running <TaskInstance: dag_1_data_split.download_data_from_google_sheets manual__2024-11-26T12:57:07.060283+00:00 [running]> on host da470d735aed
+[2024-11-26T13:00:41.347+0000] {taskinstance.py:1507} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=dag_1_data_split
+AIRFLOW_CTX_TASK_ID=download_data_from_google_sheets
+AIRFLOW_CTX_EXECUTION_DATE=2024-11-26T12:57:07.060283+00:00
+AIRFLOW_CTX_TRY_NUMBER=3
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-11-26T12:57:07.060283+00:00
+[2024-11-26T13:00:41.348+0000] {taskinstance.py:1768} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 175, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 192, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/data_download_dag.py", line 18, in download_data_from_google_sheets
+    creds = Credentials.from_service_account_file(json_path, scopes=scopes)
+  File "/home/airflow/.local/lib/python3.8/site-packages/google/oauth2/service_account.py", line 241, in from_service_account_file
+    info, signer = _service_account_info.from_filename(
+  File "/home/airflow/.local/lib/python3.8/site-packages/google/auth/_service_account_info.py", line 80, in from_filename
+    with io.open(filename, "r", encoding="utf-8") as json_file:
+FileNotFoundError: [Errno 2] No such file or directory: 'airflow-442316-8c5dfa0cf9c0.json'
+[2024-11-26T13:00:41.358+0000] {taskinstance.py:1318} INFO - Marking task as UP_FOR_RETRY. dag_id=dag_1_data_split, task_id=download_data_from_google_sheets, execution_date=20241126T125707, start_date=20241126T130041, end_date=20241126T130041
+[2024-11-26T13:00:41.370+0000] {standard_task_runner.py:100} ERROR - Failed to execute job 6 for task download_data_from_google_sheets ([Errno 2] No such file or directory: 'airflow-442316-8c5dfa0cf9c0.json'; 95)
+[2024-11-26T13:00:41.416+0000] {local_task_job.py:208} INFO - Task exited with return code 1
+[2024-11-26T13:00:41.437+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

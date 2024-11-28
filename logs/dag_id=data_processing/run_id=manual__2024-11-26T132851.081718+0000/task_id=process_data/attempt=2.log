@@ -1,0 +1,47 @@
+[2024-11-26T13:33:58.234+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: data_processing.process_data manual__2024-11-26T13:28:51.081718+00:00 [queued]>
+[2024-11-26T13:33:58.241+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: data_processing.process_data manual__2024-11-26T13:28:51.081718+00:00 [queued]>
+[2024-11-26T13:33:58.241+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-26T13:33:58.241+0000] {taskinstance.py:1280} INFO - Starting attempt 2 of 2
+[2024-11-26T13:33:58.242+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-26T13:33:58.253+0000] {taskinstance.py:1300} INFO - Executing <Task(PythonOperator): process_data> on 2024-11-26 13:28:51.081718+00:00
+[2024-11-26T13:33:58.260+0000] {standard_task_runner.py:55} INFO - Started process 81 to run task
+[2024-11-26T13:33:58.262+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'data_processing', 'process_data', 'manual__2024-11-26T13:28:51.081718+00:00', '--job-id', '31', '--raw', '--subdir', 'DAGS_FOLDER/data_processing_dag.py', '--cfg-path', '/tmp/tmp3xropjer']
+[2024-11-26T13:33:58.264+0000] {standard_task_runner.py:83} INFO - Job 31: Subtask process_data
+[2024-11-26T13:33:58.310+0000] {task_command.py:388} INFO - Running <TaskInstance: data_processing.process_data manual__2024-11-26T13:28:51.081718+00:00 [running]> on host 604be7ba5613
+[2024-11-26T13:33:58.362+0000] {taskinstance.py:1507} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=data_processing
+AIRFLOW_CTX_TASK_ID=process_data
+AIRFLOW_CTX_EXECUTION_DATE=2024-11-26T13:28:51.081718+00:00
+AIRFLOW_CTX_TRY_NUMBER=2
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-11-26T13:28:51.081718+00:00
+[2024-11-26T13:34:01.610+0000] {taskinstance.py:1768} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 175, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 192, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/data_processing_dag.py", line 32, in process_data
+    X_scaled = scaler.fit_transform(X)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_set_output.py", line 157, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py", line 916, in fit_transform
+    return self.fit(X, **fit_params).transform(X)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_data.py", line 839, in fit
+    return self.partial_fit(X, y, sample_weight)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py", line 1152, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/preprocessing/_data.py", line 875, in partial_fit
+    X = self._validate_data(
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py", line 605, in _validate_data
+    out = check_array(X, input_name="X", **check_params)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/validation.py", line 795, in check_array
+    dtype_orig = np.result_type(*dtypes_orig)
+  File "<__array_function__ internals>", line 180, in result_type
+ValueError: at least one array or dtype is required
+[2024-11-26T13:34:01.620+0000] {taskinstance.py:1318} INFO - Marking task as FAILED. dag_id=data_processing, task_id=process_data, execution_date=20241126T132851, start_date=20241126T133358, end_date=20241126T133401
+[2024-11-26T13:34:01.640+0000] {standard_task_runner.py:100} ERROR - Failed to execute job 31 for task process_data (at least one array or dtype is required; 81)
+[2024-11-26T13:34:01.684+0000] {local_task_job.py:208} INFO - Task exited with return code 1
+[2024-11-26T13:34:01.696+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

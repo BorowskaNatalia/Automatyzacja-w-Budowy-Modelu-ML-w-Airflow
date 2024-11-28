@@ -1,0 +1,9 @@
+apache-airflow
+pandas
+scikit-learn
+gspread
+google-auth
+oauth2client
+sqlalchemy<2.0
+seaborn
+matplotlib

@@ -1,0 +1,195 @@
+[2024-11-28T17:36:37.861+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: 2_model_training_dag.train_model manual__2024-11-28T17:36:35.316766+00:00 [queued]>
+[2024-11-28T17:36:37.872+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: 2_model_training_dag.train_model manual__2024-11-28T17:36:35.316766+00:00 [queued]>
+[2024-11-28T17:36:37.873+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-28T17:36:37.874+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 2
+[2024-11-28T17:36:37.874+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-28T17:36:37.889+0000] {taskinstance.py:1300} INFO - Executing <Task(PythonOperator): train_model> on 2024-11-28 17:36:35.316766+00:00
+[2024-11-28T17:36:37.901+0000] {standard_task_runner.py:55} INFO - Started process 89 to run task
+[2024-11-28T17:36:37.908+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', '2_model_training_dag', 'train_model', 'manual__2024-11-28T17:36:35.316766+00:00', '--job-id', '110', '--raw', '--subdir', 'DAGS_FOLDER/2_model_training_dag.py', '--cfg-path', '/tmp/tmpodbi5pos']
+[2024-11-28T17:36:37.911+0000] {standard_task_runner.py:83} INFO - Job 110: Subtask train_model
+[2024-11-28T17:36:37.995+0000] {task_command.py:388} INFO - Running <TaskInstance: 2_model_training_dag.train_model manual__2024-11-28T17:36:35.316766+00:00 [running]> on host 4e4897ae7905
+[2024-11-28T17:36:38.056+0000] {taskinstance.py:1507} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=2_model_training_dag
+AIRFLOW_CTX_TASK_ID=train_model
+AIRFLOW_CTX_EXECUTION_DATE=2024-11-28T17:36:35.316766+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-11-28T17:36:35.316766+00:00
+[2024-11-28T17:36:38.707+0000] {warnings.py:109} WARNING - /home/***/.local/lib/python3.8/site-packages/joblib/parallel.py:1359: UserWarning: Loky-backed parallel loops cannot be called in a multiprocessing, setting n_jobs=1
+  n_jobs = self._backend.configure(n_jobs=self.n_jobs, parallel=self,
+
+[2024-11-28T17:36:38.883+0000] {taskinstance.py:1768} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 175, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 192, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/2_model_training_dag.py", line 49, in train_model
+    grid_search.fit(X_train, y_train)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py", line 1152, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/model_selection/_search.py", line 898, in fit
+    self._run_search(evaluate_candidates)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/model_selection/_search.py", line 1422, in _run_search
+    evaluate_candidates(ParameterGrid(self.param_grid))
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/model_selection/_search.py", line 875, in evaluate_candidates
+    _warn_or_raise_about_fit_failures(out, self.error_score)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 414, in _warn_or_raise_about_fit_failures
+    raise ValueError(all_fits_failed_message)
+ValueError: 
+All the 45 fits failed.
+It is very likely that your model is misconfigured.
+You can try to debug the error by setting error_score='raise'.
+
+Below are more details about the failures:
+--------------------------------------------------------------------------------
+9 fits failed with the following error:
+Traceback (most recent call last):
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 729, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/base.py", line 1152, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/pipeline.py", line 423, in fit
+    Xt = self._fit(X, y, **fit_params_steps)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/pipeline.py", line 377, in _fit
+    X, fitted_transformer = fit_transform_one_cached(
+  File "/home/***/.local/lib/python3.8/site-packages/joblib/memory.py", line 312, in __call__
+    return self.func(*args, **kwargs)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/pipeline.py", line 957, in _fit_transform_one
+    res = transformer.fit_transform(X, y, **fit_params)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/utils/_set_output.py", line 157, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/base.py", line 919, in fit_transform
+    return self.fit(X, y, **fit_params).transform(X)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/preprocessing/_data.py", line 839, in fit
+    return self.partial_fit(X, y, sample_weight)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/base.py", line 1152, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/preprocessing/_data.py", line 875, in partial_fit
+    X = self._validate_data(
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/base.py", line 605, in _validate_data
+    out = check_array(X, input_name="X", **check_params)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/utils/validation.py", line 915, in check_array
+    array = _asarray_with_order(array, order=order, dtype=dtype, xp=xp)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/utils/_array_api.py", line 380, in _asarray_with_order
+    array = numpy.asarray(array, order=order, dtype=dtype)
+  File "/home/***/.local/lib/python3.8/site-packages/pandas/core/generic.py", line 2070, in __array__
+    return np.asarray(self._values, dtype=dtype)
+ValueError: could not convert string to float: 'Tanya'
+
+--------------------------------------------------------------------------------
+36 fits failed with the following error:
+Traceback (most recent call last):
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 729, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/base.py", line 1152, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/pipeline.py", line 423, in fit
+    Xt = self._fit(X, y, **fit_params_steps)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/pipeline.py", line 377, in _fit
+    X, fitted_transformer = fit_transform_one_cached(
+  File "/home/***/.local/lib/python3.8/site-packages/joblib/memory.py", line 312, in __call__
+    return self.func(*args, **kwargs)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/pipeline.py", line 957, in _fit_transform_one
+    res = transformer.fit_transform(X, y, **fit_params)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/utils/_set_output.py", line 157, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/base.py", line 919, in fit_transform
+    return self.fit(X, y, **fit_params).transform(X)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/preprocessing/_data.py", line 839, in fit
+    return self.partial_fit(X, y, sample_weight)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/base.py", line 1152, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/preprocessing/_data.py", line 875, in partial_fit
+    X = self._validate_data(
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/base.py", line 605, in _validate_data
+    out = check_array(X, input_name="X", **check_params)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/utils/validation.py", line 915, in check_array
+    array = _asarray_with_order(array, order=order, dtype=dtype, xp=xp)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/utils/_array_api.py", line 380, in _asarray_with_order
+    array = numpy.asarray(array, order=order, dtype=dtype)
+  File "/home/***/.local/lib/python3.8/site-packages/pandas/core/generic.py", line 2070, in __array__
+    return np.asarray(self._values, dtype=dtype)
+ValueError: could not convert string to float: 'Anvi'
+
+[2024-11-28T17:36:38.894+0000] {taskinstance.py:1318} INFO - Marking task as UP_FOR_RETRY. dag_id=2_model_training_dag, task_id=train_model, execution_date=20241128T173635, start_date=20241128T173637, end_date=20241128T173638
+[2024-11-28T17:36:38.912+0000] {standard_task_runner.py:100} ERROR - Failed to execute job 110 for task train_model (
+All the 45 fits failed.
+It is very likely that your model is misconfigured.
+You can try to debug the error by setting error_score='raise'.
+
+Below are more details about the failures:
+--------------------------------------------------------------------------------
+9 fits failed with the following error:
+Traceback (most recent call last):
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 729, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/base.py", line 1152, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/pipeline.py", line 423, in fit
+    Xt = self._fit(X, y, **fit_params_steps)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/pipeline.py", line 377, in _fit
+    X, fitted_transformer = fit_transform_one_cached(
+  File "/home/***/.local/lib/python3.8/site-packages/joblib/memory.py", line 312, in __call__
+    return self.func(*args, **kwargs)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/pipeline.py", line 957, in _fit_transform_one
+    res = transformer.fit_transform(X, y, **fit_params)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/utils/_set_output.py", line 157, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/base.py", line 919, in fit_transform
+    return self.fit(X, y, **fit_params).transform(X)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/preprocessing/_data.py", line 839, in fit
+    return self.partial_fit(X, y, sample_weight)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/base.py", line 1152, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/preprocessing/_data.py", line 875, in partial_fit
+    X = self._validate_data(
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/base.py", line 605, in _validate_data
+    out = check_array(X, input_name="X", **check_params)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/utils/validation.py", line 915, in check_array
+    array = _asarray_with_order(array, order=order, dtype=dtype, xp=xp)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/utils/_array_api.py", line 380, in _asarray_with_order
+    array = numpy.asarray(array, order=order, dtype=dtype)
+  File "/home/***/.local/lib/python3.8/site-packages/pandas/core/generic.py", line 2070, in __array__
+    return np.asarray(self._values, dtype=dtype)
+ValueError: could not convert string to float: 'Tanya'
+
+--------------------------------------------------------------------------------
+36 fits failed with the following error:
+Traceback (most recent call last):
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 729, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/base.py", line 1152, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/pipeline.py", line 423, in fit
+    Xt = self._fit(X, y, **fit_params_steps)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/pipeline.py", line 377, in _fit
+    X, fitted_transformer = fit_transform_one_cached(
+  File "/home/***/.local/lib/python3.8/site-packages/joblib/memory.py", line 312, in __call__
+    return self.func(*args, **kwargs)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/pipeline.py", line 957, in _fit_transform_one
+    res = transformer.fit_transform(X, y, **fit_params)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/utils/_set_output.py", line 157, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/base.py", line 919, in fit_transform
+    return self.fit(X, y, **fit_params).transform(X)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/preprocessing/_data.py", line 839, in fit
+    return self.partial_fit(X, y, sample_weight)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/base.py", line 1152, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/preprocessing/_data.py", line 875, in partial_fit
+    X = self._validate_data(
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/base.py", line 605, in _validate_data
+    out = check_array(X, input_name="X", **check_params)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/utils/validation.py", line 915, in check_array
+    array = _asarray_with_order(array, order=order, dtype=dtype, xp=xp)
+  File "/home/***/.local/lib/python3.8/site-packages/sklearn/utils/_array_api.py", line 380, in _asarray_with_order
+    array = numpy.asarray(array, order=order, dtype=dtype)
+  File "/home/***/.local/lib/python3.8/site-packages/pandas/core/generic.py", line 2070, in __array__
+    return np.asarray(self._values, dtype=dtype)
+ValueError: could not convert string to float: 'Anvi'
+; 89)
+[2024-11-28T17:36:38.967+0000] {local_task_job.py:208} INFO - Task exited with return code 1
+[2024-11-28T17:36:38.992+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

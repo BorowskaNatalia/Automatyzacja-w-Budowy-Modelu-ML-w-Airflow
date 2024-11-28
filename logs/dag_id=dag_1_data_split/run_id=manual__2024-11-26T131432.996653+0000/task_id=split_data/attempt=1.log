@@ -1,0 +1,23 @@
+[2024-11-26T13:14:41.173+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: dag_1_data_split.split_data manual__2024-11-26T13:14:32.996653+00:00 [queued]>
+[2024-11-26T13:14:41.181+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: dag_1_data_split.split_data manual__2024-11-26T13:14:32.996653+00:00 [queued]>
+[2024-11-26T13:14:41.182+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-26T13:14:41.182+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 2
+[2024-11-26T13:14:41.182+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-26T13:14:41.197+0000] {taskinstance.py:1300} INFO - Executing <Task(PythonOperator): split_data> on 2024-11-26 13:14:32.996653+00:00
+[2024-11-26T13:14:41.205+0000] {standard_task_runner.py:55} INFO - Started process 95 to run task
+[2024-11-26T13:14:41.208+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'dag_1_data_split', 'split_data', 'manual__2024-11-26T13:14:32.996653+00:00', '--job-id', '17', '--raw', '--subdir', 'DAGS_FOLDER/data_download_dag.py', '--cfg-path', '/tmp/tmpbee8uu_b']
+[2024-11-26T13:14:41.210+0000] {standard_task_runner.py:83} INFO - Job 17: Subtask split_data
+[2024-11-26T13:14:41.263+0000] {task_command.py:388} INFO - Running <TaskInstance: dag_1_data_split.split_data manual__2024-11-26T13:14:32.996653+00:00 [running]> on host de63bd0818ce
+[2024-11-26T13:14:41.315+0000] {taskinstance.py:1507} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=dag_1_data_split
+AIRFLOW_CTX_TASK_ID=split_data
+AIRFLOW_CTX_EXECUTION_DATE=2024-11-26T13:14:32.996653+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-11-26T13:14:32.996653+00:00
+[2024-11-26T13:14:41.381+0000] {python.py:177} INFO - Done. Returned value was: None
+[2024-11-26T13:14:41.389+0000] {taskinstance.py:1318} INFO - Marking task as SUCCESS. dag_id=dag_1_data_split, task_id=split_data, execution_date=20241126T131432, start_date=20241126T131441, end_date=20241126T131441
+[2024-11-26T13:14:41.420+0000] {local_task_job.py:208} INFO - Task exited with return code 0
+[2024-11-26T13:14:41.440+0000] {taskinstance.py:2578} INFO - 1 downstream tasks scheduled from follow-on schedule check

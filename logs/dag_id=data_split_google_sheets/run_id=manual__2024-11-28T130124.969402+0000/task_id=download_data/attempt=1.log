@@ -1,0 +1,23 @@
+[2024-11-28T13:01:26.933+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: data_split_google_sheets.download_data manual__2024-11-28T13:01:24.969402+00:00 [queued]>
+[2024-11-28T13:01:26.947+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: data_split_google_sheets.download_data manual__2024-11-28T13:01:24.969402+00:00 [queued]>
+[2024-11-28T13:01:26.948+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-28T13:01:26.949+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 2
+[2024-11-28T13:01:26.949+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-28T13:01:26.964+0000] {taskinstance.py:1300} INFO - Executing <Task(PythonOperator): download_data> on 2024-11-28 13:01:24.969402+00:00
+[2024-11-28T13:01:26.973+0000] {standard_task_runner.py:55} INFO - Started process 123 to run task
+[2024-11-28T13:01:26.976+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'data_split_google_sheets', 'download_data', 'manual__2024-11-28T13:01:24.969402+00:00', '--job-id', '84', '--raw', '--subdir', 'DAGS_FOLDER/data_processing_dag.py', '--cfg-path', '/tmp/tmpxntexl31']
+[2024-11-28T13:01:26.978+0000] {standard_task_runner.py:83} INFO - Job 84: Subtask download_data
+[2024-11-28T13:01:27.044+0000] {task_command.py:388} INFO - Running <TaskInstance: data_split_google_sheets.download_data manual__2024-11-28T13:01:24.969402+00:00 [running]> on host 52d6c8fd4446
+[2024-11-28T13:01:27.123+0000] {taskinstance.py:1507} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=data_split_google_sheets
+AIRFLOW_CTX_TASK_ID=download_data
+AIRFLOW_CTX_EXECUTION_DATE=2024-11-28T13:01:24.969402+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-11-28T13:01:24.969402+00:00
+[2024-11-28T13:01:27.211+0000] {python.py:177} INFO - Done. Returned value was: None
+[2024-11-28T13:01:27.223+0000] {taskinstance.py:1318} INFO - Marking task as SUCCESS. dag_id=data_split_google_sheets, task_id=download_data, execution_date=20241128T130124, start_date=20241128T130126, end_date=20241128T130127
+[2024-11-28T13:01:27.269+0000] {local_task_job.py:208} INFO - Task exited with return code 0
+[2024-11-28T13:01:27.295+0000] {taskinstance.py:2578} INFO - 1 downstream tasks scheduled from follow-on schedule check

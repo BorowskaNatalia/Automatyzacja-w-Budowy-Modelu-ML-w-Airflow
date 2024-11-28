@@ -1,0 +1,46 @@
+[2024-11-28T13:14:13.439+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: model_training_dag.train_model manual__2024-11-28T13:14:09.388525+00:00 [queued]>
+[2024-11-28T13:14:13.453+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: model_training_dag.train_model manual__2024-11-28T13:14:09.388525+00:00 [queued]>
+[2024-11-28T13:14:13.454+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-28T13:14:13.454+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 1
+[2024-11-28T13:14:13.455+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-28T13:14:13.472+0000] {taskinstance.py:1300} INFO - Executing <Task(PythonOperator): train_model> on 2024-11-28 13:14:09.388525+00:00
+[2024-11-28T13:14:13.495+0000] {standard_task_runner.py:55} INFO - Started process 67 to run task
+[2024-11-28T13:14:13.499+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'model_training_dag', 'train_model', 'manual__2024-11-28T13:14:09.388525+00:00', '--job-id', '93', '--raw', '--subdir', 'DAGS_FOLDER/model_training_dag.py', '--cfg-path', '/tmp/tmpheda3923']
+[2024-11-28T13:14:13.502+0000] {standard_task_runner.py:83} INFO - Job 93: Subtask train_model
+[2024-11-28T13:14:13.582+0000] {task_command.py:388} INFO - Running <TaskInstance: model_training_dag.train_model manual__2024-11-28T13:14:09.388525+00:00 [running]> on host 900e32f254c6
+[2024-11-28T13:14:13.674+0000] {taskinstance.py:1507} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=model_training_dag
+AIRFLOW_CTX_TASK_ID=train_model
+AIRFLOW_CTX_EXECUTION_DATE=2024-11-28T13:14:09.388525+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-11-28T13:14:09.388525+00:00
+[2024-11-28T13:14:13.715+0000] {taskinstance.py:1768} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 175, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 192, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/model_training_dag.py", line 30, in train_model
+    model.fit(X_train, y_train)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py", line 1152, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/linear_model/_logistic.py", line 1208, in fit
+    X, y = self._validate_data(
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py", line 622, in _validate_data
+    X, y = check_X_y(X, y, **check_params)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/validation.py", line 1146, in check_X_y
+    X = check_array(
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/validation.py", line 915, in check_array
+    array = _asarray_with_order(array, order=order, dtype=dtype, xp=xp)
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/_array_api.py", line 380, in _asarray_with_order
+    array = numpy.asarray(array, order=order, dtype=dtype)
+  File "/home/airflow/.local/lib/python3.8/site-packages/pandas/core/generic.py", line 2070, in __array__
+    return np.asarray(self._values, dtype=dtype)
+ValueError: could not convert string to float: 'Harsha'
+[2024-11-28T13:14:13.733+0000] {taskinstance.py:1318} INFO - Marking task as FAILED. dag_id=model_training_dag, task_id=train_model, execution_date=20241128T131409, start_date=20241128T131413, end_date=20241128T131413
+[2024-11-28T13:14:13.751+0000] {standard_task_runner.py:100} ERROR - Failed to execute job 93 for task train_model (could not convert string to float: 'Harsha'; 67)
+[2024-11-28T13:14:13.793+0000] {local_task_job.py:208} INFO - Task exited with return code 1
+[2024-11-28T13:14:13.808+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,36 @@
+[2024-11-26T13:08:14.826+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: data_processing.process_data manual__2024-11-26T13:01:55.945902+00:00 [queued]>
+[2024-11-26T13:08:14.836+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: data_processing.process_data manual__2024-11-26T13:01:55.945902+00:00 [queued]>
+[2024-11-26T13:08:14.837+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-26T13:08:14.837+0000] {taskinstance.py:1280} INFO - Starting attempt 2 of 2
+[2024-11-26T13:08:14.837+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-26T13:08:14.856+0000] {taskinstance.py:1300} INFO - Executing <Task(PythonOperator): process_data> on 2024-11-26 13:01:55.945902+00:00
+[2024-11-26T13:08:14.866+0000] {standard_task_runner.py:55} INFO - Started process 81 to run task
+[2024-11-26T13:08:14.868+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'data_processing', 'process_data', 'manual__2024-11-26T13:01:55.945902+00:00', '--job-id', '12', '--raw', '--subdir', 'DAGS_FOLDER/data_processing_dag.py', '--cfg-path', '/tmp/tmpn1a_0u27']
+[2024-11-26T13:08:14.871+0000] {standard_task_runner.py:83} INFO - Job 12: Subtask process_data
+[2024-11-26T13:08:14.935+0000] {task_command.py:388} INFO - Running <TaskInstance: data_processing.process_data manual__2024-11-26T13:01:55.945902+00:00 [running]> on host 2de93360ae3c
+[2024-11-26T13:08:15.009+0000] {taskinstance.py:1507} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=data_processing
+AIRFLOW_CTX_TASK_ID=process_data
+AIRFLOW_CTX_EXECUTION_DATE=2024-11-26T13:01:55.945902+00:00
+AIRFLOW_CTX_TRY_NUMBER=2
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-11-26T13:01:55.945902+00:00
+[2024-11-26T13:08:15.011+0000] {taskinstance.py:1768} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 175, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 192, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/data_processing_dag.py", line 16, in process_data
+    client = authenticate_google_sheets()
+  File "/opt/airflow/dags/data_processing_dag.py", line 11, in authenticate_google_sheets
+    creds = ServiceAccountCredentials.from_json_keyfile_name('/opt/airflow/service_account.json', scope)
+  File "/home/airflow/.local/lib/python3.8/site-packages/oauth2client/service_account.py", line 219, in from_json_keyfile_name
+    with open(filename, 'r') as file_obj:
+IsADirectoryError: [Errno 21] Is a directory: '/opt/airflow/service_account.json'
+[2024-11-26T13:08:15.023+0000] {taskinstance.py:1318} INFO - Marking task as FAILED. dag_id=data_processing, task_id=process_data, execution_date=20241126T130155, start_date=20241126T130814, end_date=20241126T130815
+[2024-11-26T13:08:15.037+0000] {standard_task_runner.py:100} ERROR - Failed to execute job 12 for task process_data ([Errno 21] Is a directory: '/opt/airflow/service_account.json'; 81)
+[2024-11-26T13:08:15.081+0000] {local_task_job.py:208} INFO - Task exited with return code 1
+[2024-11-26T13:08:15.098+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

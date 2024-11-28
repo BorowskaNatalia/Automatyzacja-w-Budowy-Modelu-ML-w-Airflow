@@ -1,0 +1,26 @@
+[2024-11-28T17:47:04.707+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: 2_model_training_dag.train_model manual__2024-11-28T17:41:59.408813+00:00 [queued]>
+[2024-11-28T17:47:04.715+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: 2_model_training_dag.train_model manual__2024-11-28T17:41:59.408813+00:00 [queued]>
+[2024-11-28T17:47:04.716+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-28T17:47:04.716+0000] {taskinstance.py:1280} INFO - Starting attempt 2 of 2
+[2024-11-28T17:47:04.716+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-28T17:47:04.730+0000] {taskinstance.py:1300} INFO - Executing <Task(PythonOperator): train_model> on 2024-11-28 17:41:59.408813+00:00
+[2024-11-28T17:47:04.740+0000] {standard_task_runner.py:55} INFO - Started process 73 to run task
+[2024-11-28T17:47:04.742+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', '2_model_training_dag', 'train_model', 'manual__2024-11-28T17:41:59.408813+00:00', '--job-id', '116', '--raw', '--subdir', 'DAGS_FOLDER/2_model_training_dag.py', '--cfg-path', '/tmp/tmpjl1i584o']
+[2024-11-28T17:47:04.744+0000] {standard_task_runner.py:83} INFO - Job 116: Subtask train_model
+[2024-11-28T17:47:04.798+0000] {task_command.py:388} INFO - Running <TaskInstance: 2_model_training_dag.train_model manual__2024-11-28T17:41:59.408813+00:00 [running]> on host 9bd440fa5bc5
+[2024-11-28T17:47:04.856+0000] {taskinstance.py:1507} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=2_model_training_dag
+AIRFLOW_CTX_TASK_ID=train_model
+AIRFLOW_CTX_EXECUTION_DATE=2024-11-28T17:41:59.408813+00:00
+AIRFLOW_CTX_TRY_NUMBER=2
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-11-28T17:41:59.408813+00:00
+[2024-11-28T17:47:05.529+0000] {warnings.py:109} WARNING - /home/***/.local/lib/python3.8/site-packages/joblib/parallel.py:1359: UserWarning: Loky-backed parallel loops cannot be called in a multiprocessing, setting n_jobs=1
+  n_jobs = self._backend.configure(n_jobs=self.n_jobs, parallel=self,
+
+[2024-11-28T17:47:11.122+0000] {python.py:177} INFO - Done. Returned value was: None
+[2024-11-28T17:47:11.137+0000] {taskinstance.py:1318} INFO - Marking task as SUCCESS. dag_id=2_model_training_dag, task_id=train_model, execution_date=20241128T174159, start_date=20241128T174704, end_date=20241128T174711
+[2024-11-28T17:47:11.255+0000] {local_task_job.py:208} INFO - Task exited with return code 0
+[2024-11-28T17:47:11.270+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

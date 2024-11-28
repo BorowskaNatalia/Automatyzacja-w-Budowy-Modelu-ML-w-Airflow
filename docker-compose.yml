@@ -1,0 +1,117 @@
+services:
+  postgres:
+    image: postgres:13
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+    volumes:
+      - postgres_db_volume:/var/lib/postgresql/data
+
+  redis:
+    image: redis:latest
+    ports:
+      - "6379:6379"
+
+  airflow-webserver:
+    image: apache/airflow:2.5.1-python3.8
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=CeleryExecutor
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
+      - AIRFLOW__CELERY__BROKER_URL=redis://redis:6379/0
+      - AIRFLOW__CELERY__RESULT_BACKEND=db+postgresql://airflow:airflow@postgres:5432/airflow
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./logs:/opt/airflow/logs
+      - ./plugins:/opt/airflow/plugins
+      - ./airflow-442316-8c5dfa0cf9c0.json:/opt/airflow/airflow-442316-8c5dfa0cf9c0.json
+      - ./requirements.txt:/requirements.txt
+      - ./data.csv:/opt/airflow/data.csv
+      - ./processed_data:/opt/airflow/processed_data
+      - ./models:/opt/airflow/models
+      - ./reports:/opt/airflow/reports
+      - ./visualizations:/opt/airflow/visualizations
+    depends_on:
+      - postgres
+      - redis
+    command: >
+      bash -c "pip install -r /requirements.txt && pip install tpot && airflow webserver"
+
+  airflow-scheduler:
+    image: apache/airflow:2.5.1-python3.8
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=CeleryExecutor
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
+      - AIRFLOW__CELERY__BROKER_URL=redis://redis:6379/0
+      - AIRFLOW__CELERY__RESULT_BACKEND=db+postgresql://airflow:airflow@postgres:5432/airflow
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./logs:/opt/airflow/logs
+      - ./plugins:/opt/airflow/plugins
+      - ./airflow-442316-8c5dfa0cf9c0.json:/opt/airflow/airflow-442316-8c5dfa0cf9c0.json
+      - ./requirements.txt:/requirements.txt
+      - ./data.csv:/opt/airflow/data.csv
+      - ./processed_data:/opt/airflow/processed_data
+      - ./models:/opt/airflow/models
+      - ./reports:/opt/airflow/reports
+      - ./visualizations:/opt/airflow/visualizations
+    depends_on:
+      - postgres
+      - redis
+    command: >
+      bash -c "pip install -r /requirements.txt && airflow scheduler"
+
+  airflow-worker:
+    image: apache/airflow:2.5.1-python3.8
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=CeleryExecutor
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
+      - AIRFLOW__CELERY__BROKER_URL=redis://redis:6379/0
+      - AIRFLOW__CELERY__RESULT_BACKEND=db+postgresql://airflow:airflow@postgres:5432/airflow
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./logs:/opt/airflow/logs
+      - ./plugins:/opt/airflow/plugins
+      - ./airflow-442316-8c5dfa0cf9c0.json:/opt/airflow/airflow-442316-8c5dfa0cf9c0.json
+      - ./requirements.txt:/requirements.txt
+      - ./data.csv:/opt/airflow/data.csv
+      - ./processed_data:/opt/airflow/processed_data
+      - ./models:/opt/airflow/models
+      - ./reports:/opt/airflow/reports
+      - ./visualizations:/opt/airflow/visualizations
+    depends_on:
+      - postgres
+      - redis
+    command: >
+      bash -c "pip install -r /requirements.txt && airflow celery worker"
+
+  airflow-init:
+    image: apache/airflow:2.5.1-python3.8
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=CeleryExecutor
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./logs:/opt/airflow/logs
+      - ./plugins:/opt/airflow/plugins
+      - ./airflow-442316-8c5dfa0cf9c0.json:/opt/airflow/airflow-442316-8c5dfa0cf9c0.json
+      - ./requirements.txt:/requirements.txt
+      - ./data.csv:/opt/airflow/data.csv
+      - ./processed_data:/opt/airflow/processed_data
+      - ./models:/opt/airflow/models
+      - ./reports:/opt/airflow/reports
+      - ./visualizations:/opt/airflow/visualizations
+    entrypoint: |
+      /bin/bash -c "
+      pip install -r /requirements.txt &&
+      airflow db init &&
+      airflow users create -r Admin -u admin -p admin -e admin@example.com -f Admin -l User
+      "
+    depends_on:
+      - postgres
+      - redis
+
+volumes:
+  postgres_db_volume:

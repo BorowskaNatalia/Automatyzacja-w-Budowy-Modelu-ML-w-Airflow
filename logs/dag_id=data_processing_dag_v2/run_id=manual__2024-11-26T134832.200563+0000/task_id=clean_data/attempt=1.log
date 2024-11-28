@@ -1,0 +1,46 @@
+[2024-11-26T13:48:38.649+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: data_processing_dag_v2.clean_data manual__2024-11-26T13:48:32.200563+00:00 [queued]>
+[2024-11-26T13:48:38.656+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: data_processing_dag_v2.clean_data manual__2024-11-26T13:48:32.200563+00:00 [queued]>
+[2024-11-26T13:48:38.657+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-26T13:48:38.657+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 2
+[2024-11-26T13:48:38.657+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-26T13:48:38.667+0000] {taskinstance.py:1300} INFO - Executing <Task(PythonOperator): clean_data> on 2024-11-26 13:48:32.200563+00:00
+[2024-11-26T13:48:38.674+0000] {standard_task_runner.py:55} INFO - Started process 81 to run task
+[2024-11-26T13:48:38.677+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'data_processing_dag_v2', 'clean_data', 'manual__2024-11-26T13:48:32.200563+00:00', '--job-id', '34', '--raw', '--subdir', 'DAGS_FOLDER/data_download_dag.py', '--cfg-path', '/tmp/tmpeyut7nxb']
+[2024-11-26T13:48:38.679+0000] {standard_task_runner.py:83} INFO - Job 34: Subtask clean_data
+[2024-11-26T13:48:38.729+0000] {task_command.py:388} INFO - Running <TaskInstance: data_processing_dag_v2.clean_data manual__2024-11-26T13:48:32.200563+00:00 [running]> on host ceb20413ea9a
+[2024-11-26T13:48:38.777+0000] {taskinstance.py:1507} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=data_processing_dag_v2
+AIRFLOW_CTX_TASK_ID=clean_data
+AIRFLOW_CTX_EXECUTION_DATE=2024-11-26T13:48:32.200563+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-11-26T13:48:32.200563+00:00
+[2024-11-26T13:48:38.788+0000] {taskinstance.py:1768} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 175, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 192, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/data_download_dag.py", line 38, in clean_data
+    data = pd.read_json(data_json)
+  File "/home/airflow/.local/lib/python3.8/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/pandas/io/json/_json.py", line 733, in read_json
+    json_reader = JsonReader(
+  File "/home/airflow/.local/lib/python3.8/site-packages/pandas/io/json/_json.py", line 818, in __init__
+    data = self._get_data_from_filepath(filepath_or_buffer)
+  File "/home/airflow/.local/lib/python3.8/site-packages/pandas/io/json/_json.py", line 858, in _get_data_from_filepath
+    self.handles = get_handle(
+  File "/home/airflow/.local/lib/python3.8/site-packages/pandas/io/common.py", line 713, in get_handle
+    ioargs = _get_filepath_or_buffer(
+  File "/home/airflow/.local/lib/python3.8/site-packages/pandas/io/common.py", line 451, in _get_filepath_or_buffer
+    raise ValueError(msg)
+ValueError: Invalid file path or buffer object type: <class 'NoneType'>
+[2024-11-26T13:48:38.799+0000] {taskinstance.py:1318} INFO - Marking task as UP_FOR_RETRY. dag_id=data_processing_dag_v2, task_id=clean_data, execution_date=20241126T134832, start_date=20241126T134838, end_date=20241126T134838
+[2024-11-26T13:48:38.809+0000] {standard_task_runner.py:100} ERROR - Failed to execute job 34 for task clean_data (Invalid file path or buffer object type: <class 'NoneType'>; 81)
+[2024-11-26T13:48:38.851+0000] {local_task_job.py:208} INFO - Task exited with return code 1
+[2024-11-26T13:48:38.871+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

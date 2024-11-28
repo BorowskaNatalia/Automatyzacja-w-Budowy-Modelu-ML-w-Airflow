@@ -1,0 +1,24 @@
+[2024-11-28T16:04:08.122+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: data_split_google_sheets.split_data manual__2024-11-28T16:04:03.257880+00:00 [queued]>
+[2024-11-28T16:04:08.133+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: data_split_google_sheets.split_data manual__2024-11-28T16:04:03.257880+00:00 [queued]>
+[2024-11-28T16:04:08.134+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-28T16:04:08.134+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 2
+[2024-11-28T16:04:08.135+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-28T16:04:08.150+0000] {taskinstance.py:1300} INFO - Executing <Task(PythonOperator): split_data> on 2024-11-28 16:04:03.257880+00:00
+[2024-11-28T16:04:08.160+0000] {standard_task_runner.py:55} INFO - Started process 81 to run task
+[2024-11-28T16:04:08.163+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'data_split_google_sheets', 'split_data', 'manual__2024-11-28T16:04:03.257880+00:00', '--job-id', '102', '--raw', '--subdir', 'DAGS_FOLDER/data_processing_dag.py', '--cfg-path', '/tmp/tmpa6fz9azv']
+[2024-11-28T16:04:08.165+0000] {standard_task_runner.py:83} INFO - Job 102: Subtask split_data
+[2024-11-28T16:04:08.232+0000] {task_command.py:388} INFO - Running <TaskInstance: data_split_google_sheets.split_data manual__2024-11-28T16:04:03.257880+00:00 [running]> on host dabf8dd9817e
+[2024-11-28T16:04:08.306+0000] {taskinstance.py:1507} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=data_split_google_sheets
+AIRFLOW_CTX_TASK_ID=split_data
+AIRFLOW_CTX_EXECUTION_DATE=2024-11-28T16:04:03.257880+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-11-28T16:04:03.257880+00:00
+[2024-11-28T16:04:08.507+0000] {logging_mixin.py:137} INFO - Dane zostały podzielone i zapisane do XCom.
+[2024-11-28T16:04:08.509+0000] {python.py:177} INFO - Done. Returned value was: None
+[2024-11-28T16:04:08.517+0000] {taskinstance.py:1318} INFO - Marking task as SUCCESS. dag_id=data_split_google_sheets, task_id=split_data, execution_date=20241128T160403, start_date=20241128T160408, end_date=20241128T160408
+[2024-11-28T16:04:08.576+0000] {local_task_job.py:208} INFO - Task exited with return code 0
+[2024-11-28T16:04:08.594+0000] {taskinstance.py:2578} INFO - 1 downstream tasks scheduled from follow-on schedule check

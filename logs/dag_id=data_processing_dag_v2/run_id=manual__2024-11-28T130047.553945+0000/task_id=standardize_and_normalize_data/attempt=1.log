@@ -1,0 +1,42 @@
+[2024-11-28T13:00:58.756+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: data_processing_dag_v2.standardize_and_normalize_data manual__2024-11-28T13:00:47.553945+00:00 [queued]>
+[2024-11-28T13:00:58.764+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: data_processing_dag_v2.standardize_and_normalize_data manual__2024-11-28T13:00:47.553945+00:00 [queued]>
+[2024-11-28T13:00:58.764+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-28T13:00:58.768+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 2
+[2024-11-28T13:00:58.769+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-28T13:00:58.816+0000] {taskinstance.py:1300} INFO - Executing <Task(PythonOperator): standardize_and_normalize_data> on 2024-11-28 13:00:47.553945+00:00
+[2024-11-28T13:00:58.824+0000] {standard_task_runner.py:55} INFO - Started process 95 to run task
+[2024-11-28T13:00:58.826+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'data_processing_dag_v2', 'standardize_and_normalize_data', 'manual__2024-11-28T13:00:47.553945+00:00', '--job-id', '82', '--raw', '--subdir', 'DAGS_FOLDER/data_download_dag.py', '--cfg-path', '/tmp/tmpaefjevtl']
+[2024-11-28T13:00:58.828+0000] {standard_task_runner.py:83} INFO - Job 82: Subtask standardize_and_normalize_data
+[2024-11-28T13:00:58.892+0000] {task_command.py:388} INFO - Running <TaskInstance: data_processing_dag_v2.standardize_and_normalize_data manual__2024-11-28T13:00:47.553945+00:00 [running]> on host 52d6c8fd4446
+[2024-11-28T13:00:58.976+0000] {taskinstance.py:1507} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=data_processing_dag_v2
+AIRFLOW_CTX_TASK_ID=standardize_and_normalize_data
+AIRFLOW_CTX_EXECUTION_DATE=2024-11-28T13:00:47.553945+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-11-28T13:00:47.553945+00:00
+[2024-11-28T13:00:59.022+0000] {data_download_dag.py:62} INFO - Dane przed standaryzacją i normalizacją:
+     Name  Gender  ...  Family History of Mental Illness Depression
+0    Anvi  Female  ...                               Yes         No
+1   Ivaan    Male  ...                               Yes         No
+2    Ansh    Male  ...                               Yes         No
+3  Tushar    Male  ...                               Yes         No
+4    Isha  Female  ...                               Yes         No
+
+[5 rows x 19 columns]
+[2024-11-28T13:00:59.081+0000] {data_download_dag.py:85} INFO - Dane po standaryzacji i normalizacji:
+     Name  Gender  ...  Family History of Mental Illness Depression
+0    Anvi  Female  ...                               Yes         No
+1   Ivaan    Male  ...                               Yes         No
+2    Ansh    Male  ...                               Yes         No
+3  Tushar    Male  ...                               Yes         No
+4    Isha  Female  ...                               Yes         No
+
+[5 rows x 19 columns]
+[2024-11-28T13:00:59.156+0000] {data_download_dag.py:89} INFO - Dane zostały pomyślnie standaryzowane, znormalizowane i przekazane do XCom.
+[2024-11-28T13:00:59.157+0000] {python.py:177} INFO - Done. Returned value was: None
+[2024-11-28T13:00:59.170+0000] {taskinstance.py:1318} INFO - Marking task as SUCCESS. dag_id=data_processing_dag_v2, task_id=standardize_and_normalize_data, execution_date=20241128T130047, start_date=20241128T130058, end_date=20241128T130059
+[2024-11-28T13:00:59.240+0000] {local_task_job.py:208} INFO - Task exited with return code 0
+[2024-11-28T13:00:59.256+0000] {taskinstance.py:2578} INFO - 1 downstream tasks scheduled from follow-on schedule check

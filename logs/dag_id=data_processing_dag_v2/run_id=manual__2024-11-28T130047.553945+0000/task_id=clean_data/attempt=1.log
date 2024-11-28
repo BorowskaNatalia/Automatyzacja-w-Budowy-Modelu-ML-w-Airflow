@@ -1,0 +1,23 @@
+[2024-11-28T13:00:56.622+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: data_processing_dag_v2.clean_data manual__2024-11-28T13:00:47.553945+00:00 [queued]>
+[2024-11-28T13:00:56.631+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: data_processing_dag_v2.clean_data manual__2024-11-28T13:00:47.553945+00:00 [queued]>
+[2024-11-28T13:00:56.632+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-28T13:00:56.633+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 2
+[2024-11-28T13:00:56.633+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-28T13:00:56.647+0000] {taskinstance.py:1300} INFO - Executing <Task(PythonOperator): clean_data> on 2024-11-28 13:00:47.553945+00:00
+[2024-11-28T13:00:56.656+0000] {standard_task_runner.py:55} INFO - Started process 81 to run task
+[2024-11-28T13:00:56.659+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'data_processing_dag_v2', 'clean_data', 'manual__2024-11-28T13:00:47.553945+00:00', '--job-id', '81', '--raw', '--subdir', 'DAGS_FOLDER/data_download_dag.py', '--cfg-path', '/tmp/tmpmoxnzych']
+[2024-11-28T13:00:56.661+0000] {standard_task_runner.py:83} INFO - Job 81: Subtask clean_data
+[2024-11-28T13:00:56.722+0000] {task_command.py:388} INFO - Running <TaskInstance: data_processing_dag_v2.clean_data manual__2024-11-28T13:00:47.553945+00:00 [running]> on host 52d6c8fd4446
+[2024-11-28T13:00:56.811+0000] {taskinstance.py:1507} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=data_processing_dag_v2
+AIRFLOW_CTX_TASK_ID=clean_data
+AIRFLOW_CTX_EXECUTION_DATE=2024-11-28T13:00:47.553945+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-11-28T13:00:47.553945+00:00
+[2024-11-28T13:00:56.991+0000] {python.py:177} INFO - Done. Returned value was: None
+[2024-11-28T13:00:57.001+0000] {taskinstance.py:1318} INFO - Marking task as SUCCESS. dag_id=data_processing_dag_v2, task_id=clean_data, execution_date=20241128T130047, start_date=20241128T130056, end_date=20241128T130057
+[2024-11-28T13:00:57.033+0000] {local_task_job.py:208} INFO - Task exited with return code 0
+[2024-11-28T13:00:57.060+0000] {taskinstance.py:2578} INFO - 1 downstream tasks scheduled from follow-on schedule check
